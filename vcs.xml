@@ -10,6 +10,10 @@
           <option name="url" value="http://github.com" />
           <option name="userName" value="conghuahuadan" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.com.cnpmjs.org" />
+          <option name="userName" value="conghuahuadan" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
