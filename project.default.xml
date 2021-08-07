@@ -1,8 +1,9 @@
 <application>
   <component name="ProjectManager">
     <defaultProject>
-      <component name="PropertiesComponent">
-        <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+      <component name="ProjectViewState">
+        <option name="hideEmptyMiddlePackages" value="true" />
+        <option name="showLibraryContents" value="true" />
       </component>
     </defaultProject>
   </component>
