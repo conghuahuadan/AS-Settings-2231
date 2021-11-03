@@ -1,12 +1,16 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping ext="webp" type="Image" />
-      <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern="22" type="Groovy" />
+      <mapping pattern="JTest" type="Groovy" />
+      <mapping pattern="Jenkinsfile" type="Groovy" />
       <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="bak" type="PLAIN_TEXT" />
-      <removed_mapping ext="psd" approved="true" type="Image" />
+      <mapping pattern="1" type="Shell Script" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
     </extensionMap>
   </component>
 </application>

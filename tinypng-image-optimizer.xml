@@ -1,10 +1,10 @@
 <application>
   <component name="TinyPNG Image Optimizer">
     <option name="apiKey" value="7NdkXLNdM39h1sVWDzdJqhjGT3jLsYCX" />
-    <option name="dialogLocationX" value="190" />
-    <option name="dialogLocationY" value="256" />
+    <option name="dialogLocationX" value="272" />
+    <option name="dialogLocationY" value="325" />
     <option name="dialogSizeWidth" value="1254" />
     <option name="dialogSizeHeight" value="528" />
-    <option name="dividerLocation" value="231" />
+    <option name="dividerLocation" value="356" />
   </component>
 </application>
