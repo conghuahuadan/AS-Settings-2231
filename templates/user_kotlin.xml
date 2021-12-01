@@ -1,11 +1,11 @@
 <templateSet group="user_kotlin">
-  <template name="tag" value="val TAG = $file$::javaClass.name" toReformat="false" toShortenFQNames="true">
+  <template name="tag" value="val TAG = $file$::javaClass.name" description="" toReformat="false" toShortenFQNames="true">
     <variable name="file" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="KOTLIN" value="true" />
     </context>
   </template>
-  <template name="cotag" value="companion object {&#10;    val TAG = $file$::javaClass.name&#10;}" toReformat="false" toShortenFQNames="true">
+  <template name="cotag" value="companion object {&#10;    val TAG = $file$::javaClass.name&#10;}" description="" toReformat="false" toShortenFQNames="true">
     <variable name="file" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="KOTLIN" value="true" />
