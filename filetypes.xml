@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="astock_web_route_search" type="AUTO_DETECTED" />
       <mapping pattern="22" type="Groovy" />
       <mapping pattern="Jenkinsfile_Final3" type="Groovy" />
       <mapping pattern="JTest" type="Groovy" />
