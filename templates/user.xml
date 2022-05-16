@@ -24,7 +24,7 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="pn" value="/* ---------------- $text$ ---------------- */" toReformat="false" toShortenFQNames="true">
+  <template name="pn" value="/* ---------------- $text$ ---------------- */" description="" toReformat="false" toShortenFQNames="true">
     <variable name="text" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
