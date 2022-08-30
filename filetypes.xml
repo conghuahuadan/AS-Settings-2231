@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="flash_detail_1" type="AUTO_DETECTED" />
       <mapping pattern="astock_web_route_search" type="AUTO_DETECTED" />
       <mapping pattern="flash_space" type="AUTO_DETECTED" />
       <mapping pattern="22" type="Groovy" />
