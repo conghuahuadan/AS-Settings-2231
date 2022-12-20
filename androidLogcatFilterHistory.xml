@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine onScroll" />
+    <option name="mostRecentlyUsed" value="package:mine sendArticlePaySuccess" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine sendArticlePaySuccess" />
         <option value="package:mine onScroll" />
         <option value="package:mine " />
         <option value="package:mine level:info " />
