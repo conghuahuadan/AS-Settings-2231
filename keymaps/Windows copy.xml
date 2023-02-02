@@ -8,6 +8,10 @@
     <keyboard-shortcut first-keystroke="shift f9" />
     <keyboard-shortcut first-keystroke="f9" />
   </action>
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift f6" />
+    <keyboard-shortcut first-keystroke="shift r" />
+  </action>
   <action id="Replace" />
   <action id="Resume" />
   <action id="Run">
