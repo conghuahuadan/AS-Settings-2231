@@ -3,6 +3,7 @@
     <keyboard-shortcut first-keystroke="alt 6" />
   </action>
   <action id="ActivateTODOToolWindow" />
+  <action id="Android.Designer.ToggleDeviceNightMode" />
   <action id="CIDR.Lang.SwitchHeaderSource" />
   <action id="Debug">
     <keyboard-shortcut first-keystroke="shift f9" />
@@ -16,7 +17,9 @@
     <keyboard-shortcut first-keystroke="shift r" />
   </action>
   <action id="Replace" />
-  <action id="Resume" />
+  <action id="Resume">
+    <keyboard-shortcut first-keystroke="n" />
+  </action>
   <action id="Run">
     <keyboard-shortcut first-keystroke="shift f10" />
     <keyboard-shortcut first-keystroke="f10" />
