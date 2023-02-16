@@ -9,6 +9,7 @@
     <keyboard-shortcut first-keystroke="shift f9" />
     <keyboard-shortcut first-keystroke="f9" />
   </action>
+  <action id="GotoFile" />
   <action id="GotoTypeDeclaration">
     <mouse-shortcut keystroke="shift control button1" />
   </action>
@@ -17,9 +18,7 @@
     <keyboard-shortcut first-keystroke="shift r" />
   </action>
   <action id="Replace" />
-  <action id="Resume">
-    <keyboard-shortcut first-keystroke="n" />
-  </action>
+  <action id="Resume" />
   <action id="Run">
     <keyboard-shortcut first-keystroke="shift f10" />
     <keyboard-shortcut first-keystroke="f10" />
