@@ -1,7 +1,23 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="flash_detail_1" type="AUTO_DETECTED" />
+      <mapping pattern="astock_web_route_search" type="AUTO_DETECTED" />
+      <mapping pattern="flash_space" type="AUTO_DETECTED" />
+      <mapping pattern="22" type="Groovy" />
+      <mapping pattern="Jenkinsfile_Final3" type="Groovy" />
+      <mapping pattern="JTest" type="Groovy" />
+      <mapping pattern="Jenkinsfile_Final" type="Groovy" />
+      <mapping pattern="Jenkinsfile" type="Groovy" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="0" type="Native" />
+      <mapping ext="bak" type="PLAIN_TEXT" />
+      <mapping pattern="1" type="Shell Script" />
+      <mapping pattern="Jenkinsfile_Final2" type="gdsl" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+      <removed_mapping ext="pro" approved="true" type="DeviceSpecFile" />
       <removed_mapping ext="psd" approved="true" type="Image" />
     </extensionMap>
   </component>

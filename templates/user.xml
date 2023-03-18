@@ -1,0 +1,33 @@
+<templateSet group="user">
+  <template name="hct" value="/**&#10; * 作者：陈伟强&#10; * 日期：$date$&#10; * 描述：$text$&#10; */" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="date" expression="date(&quot;yyyy-MM-dd, E&quot;)" defaultValue="" alwaysStopAt="true" />
+    <variable name="text" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="tag" value="private static final String TAG = $file$.class.getSimpleName();" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="file" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="mct" value="/** $text$ */" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="text" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="tryc" value="try {&#10;    $text$&#10;} catch (Exception e) {&#10;    e.printStackTrace();&#10;}" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="text" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="pn" value="/* ---------------- $text$ ---------------- */" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="text" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
