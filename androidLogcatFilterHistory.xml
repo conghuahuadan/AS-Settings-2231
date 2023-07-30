@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine level:info   tag:mainactivity " />
+        <option value="package:mine level:info   tag:onCreate" />
         <option value="package:mine level:info   耗时" />
         <option value="package:mine level:info   普通事件" />
         <option value="package:mine level:info   " />
