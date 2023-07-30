@@ -1,18 +1,4 @@
 <application>
-  <component name="GitRememberedInputs">
-    <option name="visitedUrls">
-      <list>
-        <UrlAndUserName>
-          <option name="url" value="http://github.com" />
-          <option name="userName" value="conghuahuadan" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="http://120.76.207.186" />
-          <option name="userName" value="15875006020" />
-        </UrlAndUserName>
-      </list>
-    </option>
-  </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_TAG_NAMES" value="true" />
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
