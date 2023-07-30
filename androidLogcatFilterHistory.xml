@@ -1,25 +1,28 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine level:info   tag:mainactivity " />
+    <option name="mostRecentlyUsed" value="package:mine tag:app " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:app " />
+        <option value="package:mine " />
+        <option value="package:com.jin10 tag:jinapplication   " />
+        <option value="package:mine tag:" />
+        <option value="package:com.jin10 tag:mainactivity  " />
+        <option value="package:com.jin10 tag:jinapplication " />
+        <option value="package:com.jin10 " />
+        <option value="package:mine level:info   tag:jinapplication  " />
         <option value="package:mine level:info   tag:mainactivity " />
+        <option value="package:mine level:info   AppInitUtils" />
+        <option value="package:mine level:info   tag:m " />
         <option value="package:mine level:info   tag:onCreate" />
         <option value="package:mine level:info   耗时" />
         <option value="package:mine level:info   普通事件" />
         <option value="package:mine level:info   " />
         <option value="package:mine level:debug  " />
-        <option value="package:mine " />
         <option value="package:mine sendArticlePaySuccess" />
         <option value="package:mine onScroll" />
         <option value="package:mine level:info " />
         <option value="package:mine level:warn " />
-        <option value="package:mine" />
-        <option value="package:mine setText c 2" />
-        <option value="package:mine setText c" />
-        <option value="package:mine setText 2:" />
-        <option value="package:mine setText:" />
-        <option value="package:mine setText" />
       </list>
     </option>
   </component>
