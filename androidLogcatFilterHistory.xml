@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine https://wb-connect.jin10.com/?action=good_feed&amp;limit=10" />
+    <option name="mostRecentlyUsed" value="package:mine 普通事件" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine 普通事件" />
         <option value="package:mine https://wb-connect.jin10.com/?action=good_feed&amp;limit=10" />
         <option value="package:mine    " />
         <option value="package:mine tag:jin10mainfragment   " />
@@ -22,7 +23,6 @@
         <option value="package:mine level:info   tag:jinapplication  " />
         <option value="package:mine level:info   tag:mainactivity " />
         <option value="package:mine level:info   AppInitUtils" />
-        <option value="package:mine level:info   tag:m " />
       </list>
     </option>
   </component>
