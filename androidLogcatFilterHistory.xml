@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine ad/alert" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine ad/alert" />
         <option value="package:mine " />
         <option value="package:mine level:warn " />
         <option value="package:mine 普通事件" />
@@ -21,7 +23,6 @@
         <option value="package:com.jin10 tag:jinapplication " />
         <option value="package:com.jin10 " />
         <option value="package:mine level:info   tag:jinapplication  " />
-        <option value="package:mine level:info   tag:mainactivity " />
       </list>
     </option>
   </component>
