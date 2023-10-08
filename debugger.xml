@@ -110,6 +110,9 @@
           <option name="QUALIFIED_NAME" value="float" />
           <option name="AppendDefault" value="true" />
           <ChildrenExpression Name="">
+            <TextWithImports text="drawLineBean.getDrawLineState()&#13;&#13;JAVA" type="expression" />
+          </ChildrenExpression>
+          <ChildrenExpression Name="">
             <TextWithImports text="&#13;&#13;JAVA" type="expression" />
           </ChildrenExpression>
         </Renderer>
