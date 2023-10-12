@@ -1,10 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.jin10.test startPointForRight" />
+    <option name="mostRecentlyUsed" value="package:com.jin10.test startLeftForWidth" />
     <option name="nonFavorites">
       <list>
-        <option value="package:com.jin10.test startPointForRight" />
         <option value="package:com.jin10.test startLeftForWidth" />
+        <option value="package:com.jin10.test startPointForRight" />
         <option value="package:com.jin10.test addQuoteDatas" />
         <option value="package:mine ad/alert" />
         <option value="package:mine " />
