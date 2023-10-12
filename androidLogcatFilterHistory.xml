@@ -1,22 +1,28 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine level:info   普通事件" />
+    <option name="mostRecentlyUsed" value="package:mine ad/alert" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine level:info   普通事件" />
-        <option value="package:mine level:info   " />
-        <option value="package:mine level:debug  " />
+        <option value="package:mine ad/alert" />
         <option value="package:mine " />
-        <option value="package:mine sendArticlePaySuccess" />
-        <option value="package:mine onScroll" />
-        <option value="package:mine level:info " />
         <option value="package:mine level:warn " />
-        <option value="package:mine" />
-        <option value="package:mine setText c 2" />
-        <option value="package:mine setText c" />
-        <option value="package:mine setText 2:" />
-        <option value="package:mine setText:" />
-        <option value="package:mine setText" />
+        <option value="package:mine 普通事件" />
+        <option value="package:mine https://wb-connect.jin10.com/?action=good_feed&amp;limit=10" />
+        <option value="package:mine    " />
+        <option value="package:mine tag:jin10mainfragment   " />
+        <option value="package:mine level:warn  " />
+        <option value="package:mine level:error " />
+        <option value="level:error  " />
+        <option value="level:warn " />
+        <option value="package:com.jin10 onLazyLoad   " />
+        <option value="package:com.jin10 mainfr   " />
+        <option value="package:mine tag:app " />
+        <option value="package:com.jin10 tag:jinapplication   " />
+        <option value="package:mine tag:" />
+        <option value="package:com.jin10 tag:mainactivity  " />
+        <option value="package:com.jin10 tag:jinapplication " />
+        <option value="package:com.jin10 " />
+        <option value="package:mine level:info   tag:jinapplication  " />
       </list>
     </option>
   </component>
