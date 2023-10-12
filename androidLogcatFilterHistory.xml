@@ -1,11 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.jin10.test index ==" />
+    <option name="mostRecentlyUsed" value="package:com.jin10.test " />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.jin10.test " />
         <option value="package:com.jin10.test index ==" />
         <option value="package:com.jin10.test getKlineAreaHeight" />
-        <option value="package:com.jin10.test " />
         <option value="package:com.jin10.test getIndexForLeftWidth" />
         <option value="package:com.jin10.test startLeftForWidth" />
         <option value="package:com.jin10.test startPointForRight" />
