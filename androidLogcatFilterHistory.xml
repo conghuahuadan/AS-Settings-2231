@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.jin10.test setMoveX" />
+    <option name="mostRecentlyUsed" value="package:com.jin10.test dash:" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.jin10.test dash:" />
         <option value="package:com.jin10.test setMoveX" />
         <option value="package:com.jin10.test focusIndex" />
         <option value="package:com.jin10.test renderVerticalLine" />
@@ -22,7 +23,6 @@
         <option value="package:mine " />
         <option value="package:mine level:warn " />
         <option value="package:mine 普通事件" />
-        <option value="package:mine https://wb-connect.jin10.com/?action=good_feed&amp;limit=10" />
       </list>
     </option>
   </component>
