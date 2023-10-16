@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.jin10 checkData" />
+    <option name="mostRecentlyUsed" value="package:com.jin10.test newSelectedIndex" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.jin10.test newSelectedIndex" />
         <option value="package:com.jin10 checkData" />
         <option value="package:com.jin10 tag=:JinApplication  " />
         <option value="package:com.jin10 JinApplication " />
@@ -22,7 +23,6 @@
         <option value="package:com.jin10.test getXIndexForUnTime" />
         <option value="package:com.jin10.test index ==" />
         <option value="package:com.jin10.test getKlineAreaHeight" />
-        <option value="package:com.jin10.test getIndexForLeftWidth" />
       </list>
     </option>
   </component>
