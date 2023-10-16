@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.jin10 tag=:JinApplication  " />
+    <option name="mostRecentlyUsed" value="package:com.jin10 checkData" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.jin10 checkData" />
         <option value="package:com.jin10 tag=:JinApplication  " />
         <option value="package:com.jin10 JinApplication " />
         <option value="package:com.jin10 111 " />
@@ -22,7 +23,6 @@
         <option value="package:com.jin10.test index ==" />
         <option value="package:com.jin10.test getKlineAreaHeight" />
         <option value="package:com.jin10.test getIndexForLeftWidth" />
-        <option value="package:com.jin10.test startLeftForWidth" />
       </list>
     </option>
   </component>
