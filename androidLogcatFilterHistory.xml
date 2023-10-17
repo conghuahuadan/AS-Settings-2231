@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.jin10 getXIndexForUnTime" />
+    <option name="mostRecentlyUsed" value="package:com.jin10.test getOffset:" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.jin10.test getOffset:" />
+        <option value="package:com.jin10 getOffset:" />
+        <option value="package:com.jin10 render:" />
         <option value="package:com.jin10 getXIndexForUnTime" />
         <option value="package:com.jin10.test checkData" />
         <option value="package:mine " />
@@ -20,9 +23,6 @@
         <option value="package:com.jin10.test focusIndex" />
         <option value="package:com.jin10.test renderVerticalLine" />
         <option value="package:com.jin10.test renderCrossLine" />
-        <option value="package:com.jin10.test drawLineBean.isShow" />
-        <option value="package:com.jin10 drawLineBean.isShow" />
-        <option value="package:com.jin10 render" />
       </list>
     </option>
   </component>
