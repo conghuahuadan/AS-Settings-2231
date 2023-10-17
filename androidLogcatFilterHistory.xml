@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.jin10.test getOffset:" />
+    <option name="mostRecentlyUsed" value="package:com.jin10 " />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.jin10 " />
         <option value="package:com.jin10.test getOffset:" />
         <option value="package:com.jin10 getOffset:" />
         <option value="package:com.jin10 render:" />
@@ -22,7 +23,6 @@
         <option value="package:com.jin10.test setMoveX" />
         <option value="package:com.jin10.test focusIndex" />
         <option value="package:com.jin10.test renderVerticalLine" />
-        <option value="package:com.jin10.test renderCrossLine" />
       </list>
     </option>
   </component>
