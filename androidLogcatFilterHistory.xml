@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.jin10 普通事件" />
+    <option name="mostRecentlyUsed" value="package:mine search-open-api.jin10.com/offset/search" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine search-open-api.jin10.com/offset/search" />
+        <option value="package:mine " />
         <option value="package:mine 普通事件" />
         <option value="package:com.jin10 普通事件" />
         <option value="package:com.jin10 的url" />
@@ -21,8 +23,6 @@
         <option value="package:com.jin10 " />
         <option value="package:com.jin10.test getOffset:" />
         <option value="package:com.jin10 getOffset:" />
-        <option value="package:com.jin10 render:" />
-        <option value="package:com.jin10 getXIndexForUnTime" />
       </list>
     </option>
   </component>
