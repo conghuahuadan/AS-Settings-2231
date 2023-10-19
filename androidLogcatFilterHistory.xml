@@ -1,10 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.jin10.test checkData" />
+    <option name="mostRecentlyUsed" value="package:com.jin10.test " />
     <option name="nonFavorites">
       <list>
-        <option value="package:com.jin10.test checkData" />
         <option value="package:com.jin10.test " />
+        <option value="package:com.jin10.test checkData" />
         <option value="package:com.jin10.test UIMainIndicatorVPC" />
         <option value="package:com.jin10 checkData" />
         <option value="package:com.jin10 " />
