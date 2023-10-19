@@ -1,8 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.jin10 onItemClick" />
+    <option name="mostRecentlyUsed" value="package:mine get_flash_list" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.jin10.mgdx" />
+        <option value="package:mine get_flash_list" />
+        <option value="package:mine onSucceed list:" />
+        <option value="package:mine showList:" />
+        <option value="package:com.jin10.mgdx " />
+        <option value="package:mine onSucceed:" />
         <option value="package:com.jin10 onItemClick" />
         <option value="package:com.jin10 checkData" />
         <option value="package:com.jin10.test onItemClick" />
@@ -17,12 +23,6 @@
         <option value="package:mine " />
         <option value="package:com.jin10.test newSelectedIndex" />
         <option value="package:com.jin10 tag=:JinApplication  " />
-        <option value="package:com.jin10 JinApplication " />
-        <option value="package:com.jin10 111 " />
-        <option value="package:com.jin10 普通事件" />
-        <option value="package:mine 普通事件" />
-        <option value="package:com.jin10.test lineWidth:" />
-        <option value="package:com.jin10.test dash:" />
       </list>
     </option>
   </component>
