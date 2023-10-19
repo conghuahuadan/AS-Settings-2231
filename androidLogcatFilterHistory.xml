@@ -1,8 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine get_flash_list" />
+    <option name="mostRecentlyUsed" value="package:com.jin10 普通事件" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine 普通事件" />
+        <option value="package:com.jin10 普通事件" />
+        <option value="package:com.jin10 的url" />
+        <option value="package:com.jin10.test onItemClick" />
         <option value="package:com.jin10.mgdx" />
         <option value="package:mine get_flash_list" />
         <option value="package:mine onSucceed list:" />
@@ -11,7 +15,6 @@
         <option value="package:mine onSucceed:" />
         <option value="package:com.jin10 onItemClick" />
         <option value="package:com.jin10 checkData" />
-        <option value="package:com.jin10.test onItemClick" />
         <option value="package:com.jin10.test " />
         <option value="package:com.jin10.test checkData" />
         <option value="package:com.jin10.test UIMainIndicatorVPC" />
@@ -20,9 +23,6 @@
         <option value="package:com.jin10 getOffset:" />
         <option value="package:com.jin10 render:" />
         <option value="package:com.jin10 getXIndexForUnTime" />
-        <option value="package:mine " />
-        <option value="package:com.jin10.test newSelectedIndex" />
-        <option value="package:com.jin10 tag=:JinApplication  " />
       </list>
     </option>
   </component>
