@@ -1,12 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="普通事件" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="普通事件" />
         <option value="package:com.jin10 " />
         <option value="package:mine search-open-api.jin10.com/offset/search" />
-        <option value="package:mine " />
         <option value="package:mine 普通事件" />
         <option value="package:com.jin10 普通事件" />
         <option value="package:com.jin10 的url" />
