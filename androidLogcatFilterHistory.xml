@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.jin10 " />
+    <option name="mostRecentlyUsed" value="普通事件" />
     <option name="nonFavorites">
       <list>
+        <option value="普通事件" />
         <option value="package:com.jin10 " />
         <option value="package:mine search-open-api.jin10.com/offset/search" />
         <option value="package:mine " />
@@ -22,7 +23,6 @@
         <option value="package:com.jin10.test checkData" />
         <option value="package:com.jin10.test UIMainIndicatorVPC" />
         <option value="package:com.jin10.test getOffset:" />
-        <option value="package:com.jin10 getOffset:" />
       </list>
     </option>
   </component>
