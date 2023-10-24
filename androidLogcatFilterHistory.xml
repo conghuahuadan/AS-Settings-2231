@@ -4,10 +4,12 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine 普通事件" />
+        <option value="package:mine " />
+        <option value="package:mine" />
+        <option value="package:mine '功能块'" />
         <option value="package:mine &quot;change&quot;" />
         <option value="package:mine UIMainIndicatorFibonacci" />
         <option value="package:mine level:warn " />
-        <option value="package:mine " />
         <option value="package:mine main" />
         <option value="普通事件" />
         <option value="package:com.jin10 " />
@@ -21,8 +23,6 @@
         <option value="package:mine showList:" />
         <option value="package:com.jin10.mgdx " />
         <option value="package:mine onSucceed:" />
-        <option value="package:com.jin10 onItemClick" />
-        <option value="package:com.jin10 checkData" />
       </list>
     </option>
   </component>
