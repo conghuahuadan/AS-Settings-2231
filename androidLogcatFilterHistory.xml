@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine level:warn " />
+    <option name="mostRecentlyUsed" value="package:mine UIMainIndicatorFibonacci" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine UIMainIndicatorFibonacci" />
         <option value="package:mine level:warn " />
         <option value="package:mine " />
         <option value="package:mine main" />
@@ -22,7 +23,6 @@
         <option value="package:com.jin10 onItemClick" />
         <option value="package:com.jin10 checkData" />
         <option value="package:com.jin10.test " />
-        <option value="package:com.jin10.test checkData" />
       </list>
     </option>
   </component>
