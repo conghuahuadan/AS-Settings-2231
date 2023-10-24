@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine 普通事件" />
+    <option name="mostRecentlyUsed" value="package:mine webac" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine webac" />
         <option value="package:mine 普通事件" />
         <option value="package:mine UICandleView" />
         <option value="package:mine MarketDetailActivity" />
@@ -22,7 +23,6 @@
         <option value="package:com.jin10 的url" />
         <option value="package:com.jin10.test onItemClick" />
         <option value="package:com.jin10.mgdx" />
-        <option value="package:mine get_flash_list" />
       </list>
     </option>
   </component>
