@@ -1,7 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine onViewCreated" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine onViewCreated" />
+        <option value="package:com.jin10.test" />
         <option value="package:mine " />
         <option value="package:mine handleNewsSocketEvent" />
         <option value="package:mine 服务器" />
@@ -20,8 +23,6 @@
         <option value="package:mine onConfigurationChanged" />
         <option value="package:mine" />
         <option value="package:mine '功能块'" />
-        <option value="package:mine &quot;change&quot;" />
-        <option value="package:mine UIMainIndicatorFibonacci" />
       </list>
     </option>
   </component>
