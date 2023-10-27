@@ -3,8 +3,8 @@
     <option name="mostRecentlyUsed" value="package:mine 服务器" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine 服务器" />
         <option value="package:mine  handleNewsSocketEvent" />
+        <option value="package:mine 服务器" />
         <option value="package:mine  " />
         <option value="package:mine  getDataNetworkTypeForSubscriber" />
         <option value="package:mine level:warn " />
