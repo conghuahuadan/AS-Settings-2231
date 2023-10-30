@@ -1,7 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine ListActivity" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine ListActivity" />
+        <option value="package:mine onScrollChange" />
+        <option value="package:mine onLongClick" />
+        <option value="package:mine onScrollStateChanged" />
+        <option value="package:com.donkingliang.consecutivescroller onScrollStateChanged" />
+        <option value="package:com.donkingliang.consecutivescroller onLongClick" />
         <option value="package:mine " />
         <option value="package:mine onLongPress" />
         <option value="package:mine onViewCreated" />
@@ -16,12 +23,6 @@
         <option value="package:mine level:warn " />
         <option value="package:com.jin10.te" />
         <option value="package:mine onPageFinished" />
-        <option value="package:mine webac" />
-        <option value="package:mine UICandleView" />
-        <option value="package:mine MarketDetailActivity" />
-        <option value="package:mine tag=:MarketDetailActivity" />
-        <option value="package:mine onConfigurationChanged" />
-        <option value="package:mine" />
       </list>
     </option>
   </component>
