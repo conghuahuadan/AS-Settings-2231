@@ -1,10 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine ListActivity" />
+    <option name="mostRecentlyUsed" value="package:mine onScrollChange" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine ListActivity" />
         <option value="package:mine onScrollChange" />
+        <option value="package:mine ListActivity" />
         <option value="package:mine onLongClick" />
         <option value="package:mine onScrollStateChanged" />
         <option value="package:com.donkingliang.consecutivescroller onScrollStateChanged" />
