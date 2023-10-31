@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine level:warn " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:warn " />
         <option value="package:mine " />
         <option value="package:mine dispatchTouchEvent" />
         <option value="package:mine ListActivity" />
@@ -20,7 +22,6 @@
         <option value="package:mine  handleNewsSocketEvent" />
         <option value="package:mine  " />
         <option value="package:mine  getDataNetworkTypeForSubscriber" />
-        <option value="package:mine level:warn " />
         <option value="package:com.jin10.te" />
       </list>
     </option>
