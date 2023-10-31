@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine handleUserLogin" />
+        <option value="package:mine " />
         <option value="package:mine 普通事件" />
         <option value="package:mine com.jin10" />
         <option value="package:com.jin10.ee notifySocketStatusChanged" />
@@ -17,7 +18,6 @@
         <option value="package:com.jin10.ee level:warn " />
         <option value="package:mine 服务器" />
         <option value="package:mine level:warn " />
-        <option value="package:mine " />
         <option value="package:mine dispatchTouchEvent" />
         <option value="package:mine ListActivity" />
         <option value="package:mine onScrollChange" />
