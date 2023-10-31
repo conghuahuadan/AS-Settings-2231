@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.jin10.ee level:warn  服务器关闭" />
+    <option name="mostRecentlyUsed" value="package:mine handleNewsSocketEvent" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine handleNewsSocketEvent" />
+        <option value="package:mine 服务器关闭" />
         <option value="package:mine handleUserLogin" />
         <option value="package:com.jin10.ee level:warn  服务器关闭" />
         <option value="package:mine " />
@@ -21,8 +23,6 @@
         <option value="package:mine level:warn " />
         <option value="package:mine dispatchTouchEvent" />
         <option value="package:mine ListActivity" />
-        <option value="package:mine onScrollChange" />
-        <option value="package:mine onLongClick" />
       </list>
     </option>
   </component>
