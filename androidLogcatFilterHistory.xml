@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine 普通事件" />
+    <option name="mostRecentlyUsed" value="package:mine handleUserLogin" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine handleUserLogin" />
         <option value="package:mine 普通事件" />
         <option value="package:mine com.jin10" />
         <option value="package:com.jin10.ee notifySocketStatusChanged" />
@@ -22,7 +23,6 @@
         <option value="package:mine onScrollChange" />
         <option value="package:mine onLongClick" />
         <option value="package:mine onScrollStateChanged" />
-        <option value="package:com.donkingliang.consecutivescroller onScrollStateChanged" />
       </list>
     </option>
   </component>
