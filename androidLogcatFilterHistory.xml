@@ -1,12 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine 普通事件" />
+    <option name="mostRecentlyUsed" value="package:mine handleNewsSocketEvent" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine handleNewsSocketEvent" />
         <option value="package:mine 普通事件" />
         <option value="package:mine " />
         <option value="package:mine 服务器" />
-        <option value="package:mine handleNewsSocketEvent" />
         <option value="package:mine 快讯事件" />
         <option value="package:mine onMessage" />
         <option value="package:mine 服务器关闭" />
