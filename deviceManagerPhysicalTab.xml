@@ -5,6 +5,17 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="6HJDU20507005269" />
+          </Key>
+        </key>
+        <name value="HUAWEI SEA-AL10" />
+        <target value="Android 10.0" />
+        <api value="androidversion:29:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="Q5S5T19327000041" />
           </Key>
         </key>
