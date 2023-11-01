@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine uploadAppStatics" />
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value="package:mine uploadAppStatics" />
         <option value="package:mine level:warn " />
         <option value="package:mine  " />
         <option value="package:mine 服务器" />
@@ -21,7 +23,6 @@
         <option value="package:mine" />
         <option value="package:com.jin10 handleNewsSocketEvent" />
         <option value="package:com.jin10 eState: " />
-        <option value="package:com.jin10 level:warn  " />
       </list>
     </option>
   </component>
