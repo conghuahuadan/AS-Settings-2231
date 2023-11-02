@@ -1,13 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine level:warn " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:warn " />
         <option value="package:mine " />
         <option value="package:mine 加压k线压缩包失败" />
         <option value="package:mine TestActivity" />
         <option value="package:mine CandlePresenter" />
         <option value="package:mine uploadAppStatics" />
-        <option value="package:mine level:warn " />
         <option value="package:mine  " />
         <option value="package:mine 服务器" />
         <option value="package:mine handleNewsSocketEvent" />
