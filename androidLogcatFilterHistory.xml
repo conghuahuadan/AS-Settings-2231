@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine url" />
+    <option name="mostRecentlyUsed" value="package:mine /tag" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine /tag" />
+        <option value="package:mine /tagList" />
+        <option value="package:mine /tags" />
         <option value="package:mine url" />
         <option value="package:mine searchAppMarketInfo" />
         <option value="package:mine" />
@@ -20,9 +23,6 @@
         <option value="package:mine onMessage" />
         <option value="package:mine 服务器关闭" />
         <option value="package:mine handleUserLogin" />
-        <option value="package:com.jin10.ee level:warn  服务器关闭" />
-        <option value="package:mine com.jin10" />
-        <option value="package:com.jin10.ee notifySocketStatusChanged" />
       </list>
     </option>
   </component>
