@@ -3,6 +3,7 @@
     <option name="mostRecentlyUsed" value="package:mine /tag" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine /tag" />
         <option value="package:mine /tagList" />
         <option value="package:mine /tags" />
@@ -10,7 +11,6 @@
         <option value="package:mine searchAppMarketInfo" />
         <option value="package:mine" />
         <option value="package:mine level:warn " />
-        <option value="package:mine " />
         <option value="package:mine 加压k线压缩包失败" />
         <option value="package:mine TestActivity" />
         <option value="package:mine CandlePresenter" />
