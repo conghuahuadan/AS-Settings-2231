@@ -3,8 +3,8 @@
     <option name="mostRecentlyUsed" value="package:mine onDraw" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine onDraw" />
         <option value="package:mine " />
+        <option value="package:mine onDraw" />
         <option value="package:mine TestActivity" />
         <option value="package:mine onActivityCreated" />
         <option value="package:mine JinApplication" />
