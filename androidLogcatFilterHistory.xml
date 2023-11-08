@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.jin10 服务器" />
+    <option name="mostRecentlyUsed" value="package:com.jin10.ee " />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.jin10.ee " />
         <option value="package:com.jin10 服务器" />
         <option value="package:com.jin10.ee 服务器" />
         <option value="package:mine 服务器" />
@@ -22,7 +23,6 @@
         <option value="package:mine url" />
         <option value="package:mine searchAppMarketInfo" />
         <option value="package:mine 加压k线压缩包失败" />
-        <option value="package:mine CandlePresenter" />
       </list>
     </option>
   </component>
