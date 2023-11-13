@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine 普通事件" />
+    <option name="mostRecentlyUsed" value="package:mine miniProgramTitle" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine miniProgramTitle" />
         <option value="package:mine 普通事件" />
         <option value="package:mine " />
         <option value="package:mine level:warn " />
@@ -22,7 +23,6 @@
         <option value="package:mine /tags" />
         <option value="package:mine url" />
         <option value="package:mine searchAppMarketInfo" />
-        <option value="package:mine 加压k线压缩包失败" />
       </list>
     </option>
   </component>
