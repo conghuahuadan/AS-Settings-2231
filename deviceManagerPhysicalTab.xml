@@ -5,6 +5,17 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="fc8886c5" />
+          </Key>
+        </key>
+        <name value="Xiaomi 2211133C" />
+        <target value="Android 13.0" />
+        <api value="androidversion:33:null:3:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="Q5S5T19327000041" />
           </Key>
         </key>
@@ -50,17 +61,6 @@
           <Key>
             <type value="DOMAIN_NAME" />
             <value value="adb-fc8886c5-zhsjuF._adb-tls-connect._tcp" />
-          </Key>
-        </key>
-        <name value="Xiaomi 2211133C" />
-        <target value="Android 13.0" />
-        <api value="androidversion:33:null:3:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="fc8886c5" />
           </Key>
         </key>
         <name value="Xiaomi 2211133C" />
