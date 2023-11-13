@@ -1,10 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine miniProgramTitle" />
+    <option name="mostRecentlyUsed" value="package:mine notifyFlash" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine miniProgramTitle" />
+        <option value="package:mine notifyFlash" />
         <option value="package:mine 普通事件" />
+        <option value="package:mine miniProgramTitle" />
         <option value="package:mine " />
         <option value="package:mine level:warn " />
         <option value="package:mine 服务器" />
@@ -22,7 +23,6 @@
         <option value="package:mine /tagList" />
         <option value="package:mine /tags" />
         <option value="package:mine url" />
-        <option value="package:mine searchAppMarketInfo" />
       </list>
     </option>
   </component>
