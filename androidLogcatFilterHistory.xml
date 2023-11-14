@@ -1,16 +1,20 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine" />
+    <option name="mostRecentlyUsed" value="package:mine tag:flashnewfragment    " />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine" />
+        <option value="package:mine tag:flashnewfragment    " />
+        <option value="package:mine tag:mainactivity  " />
+        <option value="package:mine tag:jinapplication " />
+        <option value="package:mine sp_config_switch" />
         <option value="package:mine " />
+        <option value="package:mine 服务器" />
+        <option value="package:mine" />
         <option value="package:mine notifyFlash" />
         <option value="package:mine notiy" />
         <option value="package:mine 普通事件" />
         <option value="package:mine miniProgramTitle" />
         <option value="package:mine level:warn " />
-        <option value="package:mine 服务器" />
         <option value="package:com.jin10.ee " />
         <option value="package:com.jin10.ee 服务器" />
         <option value="package:com.jin10 服务器" />
@@ -19,10 +23,6 @@
         <option value="package:mine onActivityCreated" />
         <option value="package:mine JinApplication" />
         <option value="package:mine 系统截图" />
-        <option value="package:mine 截" />
-        <option value="package:mine /tag" />
-        <option value="package:mine /tagList" />
-        <option value="package:mine /tags" />
       </list>
     </option>
   </component>
