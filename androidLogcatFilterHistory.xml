@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:flashnewfragment    " />
+    <option name="mostRecentlyUsed" value="package:mine 普通事件" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine 普通事件" />
         <option value="package:mine tag:flashnewfragment    " />
         <option value="package:mine tag:mainactivity  " />
         <option value="package:mine tag:jinapplication " />
@@ -12,7 +13,6 @@
         <option value="package:mine" />
         <option value="package:mine notifyFlash" />
         <option value="package:mine notiy" />
-        <option value="package:mine 普通事件" />
         <option value="package:mine miniProgramTitle" />
         <option value="package:mine level:warn " />
         <option value="package:com.jin10.ee " />
