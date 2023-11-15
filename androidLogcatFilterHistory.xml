@@ -1,11 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine 普通事件" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine 普通事件" />
         <option value="package:mine " />
         <option value="package:mine connectChatSever" />
         <option value="package:mine socket_list?platform=app" />
-        <option value="package:mine 普通事件" />
         <option value="package:mine tag:flashnewfragment    " />
         <option value="package:mine tag:mainactivity  " />
         <option value="package:mine tag:jinapplication " />
