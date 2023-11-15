@@ -1,14 +1,16 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine 普通事件" />
+    <option name="mostRecentlyUsed" value="package:mine connectChatSever" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine connectChatSever" />
+        <option value="package:mine socket_list?platform=app" />
+        <option value="package:mine " />
         <option value="package:mine 普通事件" />
         <option value="package:mine tag:flashnewfragment    " />
         <option value="package:mine tag:mainactivity  " />
         <option value="package:mine tag:jinapplication " />
         <option value="package:mine sp_config_switch" />
-        <option value="package:mine " />
         <option value="package:mine 服务器" />
         <option value="package:mine" />
         <option value="package:mine notifyFlash" />
@@ -21,8 +23,6 @@
         <option value="package:mine onDraw" />
         <option value="package:mine TestActivity" />
         <option value="package:mine onActivityCreated" />
-        <option value="package:mine JinApplication" />
-        <option value="package:mine 系统截图" />
       </list>
     </option>
   </component>
