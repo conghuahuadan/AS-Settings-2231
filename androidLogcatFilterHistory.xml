@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.jin10 服务器" />
+    <option name="mostRecentlyUsed" value="package:com.jin10 onAddFloatSuccess" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.jin10 onAddFloatSuccess" />
         <option value="package:com.jin10 服务器" />
         <option value="package:com.jin10" />
         <option value="package:mine 普通事件" />
@@ -22,7 +23,6 @@
         <option value="package:com.jin10.ee " />
         <option value="package:com.jin10.ee 服务器" />
         <option value="package:mine onDraw" />
-        <option value="package:mine TestActivity" />
       </list>
     </option>
   </component>
