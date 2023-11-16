@@ -1,8 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.jin10 TestAppV2" />
+    <option name="mostRecentlyUsed" value="package:com.jin10 message:initPlugMain" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.jin10 message:initPlugMain" />
+        <option value="package:com.jin10 " />
+        <option value="package:com.jin10 message:no" />
+        <option value="package:com.jin10" />
         <option value="package:com.jin10 TestAppV2" />
         <option value="package:mine 耗时" />
         <option value="package:com.jin10 initPlugMain" />
@@ -11,18 +15,14 @@
         <option value="package:com.jin10 init2" />
         <option value="package:com.jin10 /tags" />
         <option value="package:com.jin10 /tagList" />
-        <option value="package:com.jin10 " />
         <option value="package:com.jin10 耗时" />
         <option value="package:com.jin10 onAddFloatSuccess" />
         <option value="package:com.jin10 服务器" />
-        <option value="package:com.jin10" />
         <option value="package:mine 普通事件" />
         <option value="package:mine " />
         <option value="package:mine connectChatSever" />
         <option value="package:mine socket_list?platform=app" />
         <option value="package:mine tag:flashnewfragment    " />
-        <option value="package:mine tag:mainactivity  " />
-        <option value="package:mine tag:jinapplication " />
       </list>
     </option>
   </component>
