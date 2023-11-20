@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.jin10 level:warn " />
+    <option name="mostRecentlyUsed" value="package:mine level:warn " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:warn " />
         <option value="package:mine 耗时" />
         <option value="package:com.jin10 level:warn " />
         <option value="package:com.jin10 message:initPlugMain" />
@@ -12,7 +13,6 @@
         <option value="package:com.jin10 TestAppV2" />
         <option value="package:com.jin10 initPlugMain" />
         <option value="package:com.jin10 initialization" />
-        <option value="package:mine level:warn " />
         <option value="package:com.jin10 init2" />
         <option value="package:com.jin10 /tags" />
         <option value="package:com.jin10 /tagList" />
