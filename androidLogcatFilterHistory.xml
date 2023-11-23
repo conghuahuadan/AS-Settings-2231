@@ -1,15 +1,16 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.jin10 message:普通事件" />
+    <option name="mostRecentlyUsed" value="package:com.jin10 message" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.jin10 message" />
+        <option value="package:com.jin10 " />
         <option value="package:com.jin10 message:普通事件" />
         <option value="package:com.jin10 普通事件" />
         <option value="package:com.jin10 level:warn " />
         <option value="package:mine level:warn " />
         <option value="package:mine 耗时" />
         <option value="package:com.jin10 message:initPlugMain" />
-        <option value="package:com.jin10 " />
         <option value="package:com.jin10 message:no" />
         <option value="package:com.jin10" />
         <option value="package:com.jin10 TestAppV2" />
@@ -22,7 +23,6 @@
         <option value="package:com.jin10 onAddFloatSuccess" />
         <option value="package:com.jin10 服务器" />
         <option value="package:mine 普通事件" />
-        <option value="package:mine " />
       </list>
     </option>
   </component>
