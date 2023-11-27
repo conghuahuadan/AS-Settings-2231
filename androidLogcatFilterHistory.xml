@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine onCreate" />
+    <option name="mostRecentlyUsed" value="package:mine onGetHistoryFile" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine onGetHistoryFile" />
         <option value="package:mine onFling" />
         <option value="package:mine onCreate" />
         <option value="package:mine computeScroll" />
@@ -22,7 +23,6 @@
         <option value="package:com.jin10 initialization" />
         <option value="package:com.jin10 init2" />
         <option value="package:com.jin10 /tags" />
-        <option value="package:com.jin10 /tagList" />
       </list>
     </option>
   </component>
