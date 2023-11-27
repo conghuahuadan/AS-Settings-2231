@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine isValidIndex" />
+    <option name="mostRecentlyUsed" value="package:mine kLineQuoteListener" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine kLineQuoteListener" />
         <option value="package:mine isValidIndex" />
         <option value="package:mine render" />
         <option value="package:mine onGetHistoryFile" />
@@ -22,7 +23,6 @@
         <option value="package:com.jin10 message:no" />
         <option value="package:com.jin10 TestAppV2" />
         <option value="package:com.jin10 initPlugMain" />
-        <option value="package:com.jin10 initialization" />
       </list>
     </option>
   </component>
