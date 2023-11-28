@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine scale:" />
+    <option name="mostRecentlyUsed" value="package:mine" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
         <option value="package:mine scale:" />
         <option value="package:com.jin10 " />
         <option value="package:com.jin10 classify-testing.jin10.com" />
@@ -22,7 +23,6 @@
         <option value="package:mine level:warn " />
         <option value="package:mine 耗时" />
         <option value="package:com.jin10 message:initPlugMain" />
-        <option value="package:com.jin10 message:no" />
       </list>
     </option>
   </component>
