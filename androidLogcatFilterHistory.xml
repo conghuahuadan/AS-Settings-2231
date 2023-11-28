@@ -1,13 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine render:" />
+    <option name="mostRecentlyUsed" value="package:mine scale:" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine scale:" />
         <option value="package:mine render:" />
         <option value="package:mine 异常:" />
         <option value="package:mine" />
         <option value="package:mine ren" />
-        <option value="package:mine scale:" />
         <option value="package:com.jin10 " />
         <option value="package:com.jin10 classify-testing.jin10.com" />
         <option value="package:mine kLineQuoteListener" />
