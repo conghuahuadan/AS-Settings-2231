@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.jin10 tag:JinWebView" />
+    <option name="mostRecentlyUsed" value="package:com.jin10 onOverScrolled" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.jin10 onOverScrolled" />
+        <option value="package:com.jin10 tag:JinWebView message:dispatchTouchEvent" />
         <option value="package:com.jin10 tag:JinWebView" />
         <option value="package:mine scale:" />
         <option value="package:mine render:" />
@@ -21,8 +23,6 @@
         <option value="package:com.jin10 普通事件" />
         <option value="package:com.jin10 scrollX" />
         <option value="package:com.jin10" />
-        <option value="package:com.jin10 message" />
-        <option value="package:com.jin10 message:普通事件" />
       </list>
     </option>
   </component>
