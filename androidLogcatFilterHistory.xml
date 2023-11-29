@@ -1,10 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.jin10 interceptScroll" />
+    <option name="mostRecentlyUsed" value="package:com.jin10 " />
     <option name="nonFavorites">
       <list>
-        <option value="package:com.jin10 interceptScroll" />
         <option value="package:com.jin10 " />
+        <option value="package:com.jin10 interceptScroll" />
         <option value="package:com.jin10 onOverScrolled" />
         <option value="package:com.jin10 tag:JinWebView message:dispatchTouchEvent" />
         <option value="package:com.jin10 tag:JinWebView" />
