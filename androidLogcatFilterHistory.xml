@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.jin10 " />
+    <option name="mostRecentlyUsed" value="package:com.jin10 普通事件" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.jin10 普通事件" />
         <option value="package:com.jin10 " />
         <option value="package:com.jin10 processH5InterceptTouchEvent" />
         <option value="package:com.jin10 interceptScroll" />
@@ -22,7 +23,6 @@
         <option value="package:mine onFling" />
         <option value="package:mine onCreate" />
         <option value="package:mine computeScroll" />
-        <option value="package:com.jin10 普通事件" />
       </list>
     </option>
   </component>
