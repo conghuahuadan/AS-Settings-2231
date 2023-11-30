@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:com.jin10 普通事件" />
+        <option value="package:mine scale:" />
         <option value="package:com.jin10" />
         <option value="package:com.jin10 " />
         <option value="package:com.jin10 processH5InterceptTouchEvent" />
@@ -11,7 +12,6 @@
         <option value="package:com.jin10 onOverScrolled" />
         <option value="package:com.jin10 tag:JinWebView message:dispatchTouchEvent" />
         <option value="package:com.jin10 tag:JinWebView" />
-        <option value="package:mine scale:" />
         <option value="package:mine render:" />
         <option value="package:mine 异常:" />
         <option value="package:mine" />
