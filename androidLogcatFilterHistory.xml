@@ -1,28 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine 搜索模块卡片" />
+    <option name="mostRecentlyUsed" value="package:mine drawHorzMaker" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine 搜索模块卡片" />
-        <option value="package:com.jin10 level:warn " />
-        <option value="package:mine level:warn " />
-        <option value="package:mine 耗时" />
-        <option value="package:com.jin10 message:initPlugMain" />
-        <option value="package:com.jin10 " />
-        <option value="package:com.jin10 message:no" />
-        <option value="package:com.jin10" />
-        <option value="package:com.jin10 TestAppV2" />
-        <option value="package:com.jin10 initPlugMain" />
-        <option value="package:com.jin10 initialization" />
-        <option value="package:com.jin10 init2" />
-        <option value="package:com.jin10 /tags" />
-        <option value="package:com.jin10 /tagList" />
-        <option value="package:com.jin10 耗时" />
-        <option value="package:com.jin10 onAddFloatSuccess" />
-        <option value="package:com.jin10 服务器" />
-        <option value="package:mine 普通事件" />
-        <option value="package:mine " />
-        <option value="package:mine connectChatSever" />
+        <option value="package:mine drawHorzMaker" />
       </list>
     </option>
   </component>

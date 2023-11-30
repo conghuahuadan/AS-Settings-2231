@@ -12,6 +12,10 @@
     <keyboard-shortcut first-keystroke="shift f9" />
     <keyboard-shortcut first-keystroke="f9" />
   </action>
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="ctrl f12" />
+    <keyboard-shortcut first-keystroke="alt f" />
+  </action>
   <action id="GotoFile" />
   <action id="GotoTypeDeclaration">
     <mouse-shortcut keystroke="shift control button1" />
