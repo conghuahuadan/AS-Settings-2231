@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.jin10 level:warn " />
+    <option name="mostRecentlyUsed" value="package:mine level:warn " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:warn " />
+        <option value="package:mine " />
         <option value="package:com.jin10 level:warn " />
         <option value="package:mine scale:" />
         <option value="package:com.jin10 普通事件" />
@@ -21,8 +23,6 @@
         <option value="package:mine kLineQuoteListener" />
         <option value="package:mine isValidIndex" />
         <option value="package:mine render" />
-        <option value="package:mine onGetHistoryFile" />
-        <option value="package:mine onFling" />
       </list>
     </option>
   </component>
