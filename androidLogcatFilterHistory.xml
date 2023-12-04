@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.jin10 drawHorzMaker" />
+    <option name="mostRecentlyUsed" value="package:com.jin10 快讯点击事件" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.jin10 快讯点击事件" />
         <option value="package:com.jin10 drawHorzMaker" />
         <option value="package:mine level:warn " />
         <option value="package:mine " />
@@ -22,7 +23,6 @@
         <option value="package:mine ren" />
         <option value="package:com.jin10 classify-testing.jin10.com" />
         <option value="package:mine kLineQuoteListener" />
-        <option value="package:mine isValidIndex" />
       </list>
     </option>
   </component>
