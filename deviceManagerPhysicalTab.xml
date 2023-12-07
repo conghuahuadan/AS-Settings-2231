@@ -19,9 +19,8 @@
             <value value="Q5S5T19327000041" />
           </Key>
         </key>
-        <name value="HUAWEI ELE-AL00" />
-        <target value="Android 10.0" />
-        <api value="androidversion:29:null:null:true" />
+        <name value="Device" />
+        <target value="Android 1.0" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
