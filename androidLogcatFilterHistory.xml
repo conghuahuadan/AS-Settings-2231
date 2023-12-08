@@ -1,15 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.jin10 订阅快讯" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
+        <option value="package:com.jin10 " />
         <option value="package:com.jin10 订阅快讯" />
         <option value="package:com.jin10 快讯" />
         <option value="package:mine pickupTitleAndContent" />
         <option value="package:mine openFontScaleFollowSystem" />
         <option value="package:com.jin10 onClick:" />
         <option value="package:mine level:warn " />
-        <option value="package:mine " />
         <option value="package:mine 普通事件" />
         <option value="package:mine" />
         <option value="package:com.jin10 普通事件" />
@@ -20,7 +20,6 @@
         <option value="package:com.jin10 drawHorzMaker" />
         <option value="package:com.jin10 level:warn " />
         <option value="package:mine scale:" />
-        <option value="package:com.jin10 " />
         <option value="package:com.jin10 processH5InterceptTouchEvent" />
         <option value="package:com.jin10 interceptScroll" />
       </list>
