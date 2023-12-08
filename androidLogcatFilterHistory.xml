@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine pickupTitleAndContent" />
+    <option name="mostRecentlyUsed" value="package:com.jin10 订阅快讯" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.jin10 订阅快讯" />
+        <option value="package:com.jin10 快讯" />
         <option value="package:mine pickupTitleAndContent" />
         <option value="package:mine openFontScaleFollowSystem" />
         <option value="package:com.jin10 onClick:" />
@@ -21,8 +23,6 @@
         <option value="package:com.jin10 " />
         <option value="package:com.jin10 processH5InterceptTouchEvent" />
         <option value="package:com.jin10 interceptScroll" />
-        <option value="package:com.jin10 onOverScrolled" />
-        <option value="package:com.jin10 tag:JinWebView message:dispatchTouchEvent" />
       </list>
     </option>
   </component>
