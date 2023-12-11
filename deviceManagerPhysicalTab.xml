@@ -5,6 +5,17 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="a188bb66" />
+          </Key>
+        </key>
+        <name value="Xiaomi M2002J9E" />
+        <target value="Android 12L" />
+        <api value="androidversion:32:null:1:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="Q5S5T19327000041" />
           </Key>
         </key>
@@ -32,17 +43,6 @@
         </key>
         <name value="Device" />
         <target value="Android 1.0" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="a188bb66" />
-          </Key>
-        </key>
-        <name value="Xiaomi M2002J9E" />
-        <target value="Android 12L" />
-        <api value="androidversion:32:null:1:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
