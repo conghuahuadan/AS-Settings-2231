@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.andy.androidxdemo tag:app " />
+    <option name="mostRecentlyUsed" value="package:com.andy.androidxdemo setBeforeSend:" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.andy.androidxdemo setBeforeSend:" />
         <option value="package:com.andy.androidxdemo tag:app " />
         <option value="package:com.andy.androidxdemo" />
         <option value="package:com.jin10 render:" />
@@ -22,7 +23,6 @@
         <option value="package:com.jin10" />
         <option value="package:com.jin10 快讯点击事件" />
         <option value="package:mine onClick" />
-        <option value="package:mine onTouchEvent" />
       </list>
     </option>
   </component>
