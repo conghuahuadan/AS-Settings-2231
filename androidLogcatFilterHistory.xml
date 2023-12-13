@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine run:" />
+    <option name="mostRecentlyUsed" value="package:mine tag:JStatisticDbHelper" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:JStatisticDbHelper" />
+        <option value="package:mine onUpgrade:" />
         <option value="package:mine run:" />
         <option value="package:mine JEventTask" />
         <option value="package:mine " />
@@ -21,8 +23,6 @@
         <option value="package:mine level:warn " />
         <option value="package:mine 普通事件" />
         <option value="package:mine" />
-        <option value="package:com.jin10 普通事件" />
-        <option value="package:com.jin10" />
       </list>
     </option>
   </component>
