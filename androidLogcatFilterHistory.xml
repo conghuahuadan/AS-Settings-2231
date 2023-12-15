@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:com.jin10 " />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.jin10 " />
         <option value="package:mine " />
         <option value="package:mine behavior-collection" />
         <option value="package:mine tag:JStatisticDbHelper" />
@@ -12,7 +14,6 @@
         <option value="package:com.andy.androidxdemo tag:app " />
         <option value="package:com.andy.androidxdemo" />
         <option value="package:com.jin10 render:" />
-        <option value="package:com.jin10 " />
         <option value="package:com.jin10 onAnimChange:" />
         <option value="package:com.jin10 releaseAnim:" />
         <option value="package:com.jin10 订阅快讯" />
