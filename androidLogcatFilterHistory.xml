@@ -1,10 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine drawHorzMaker" />
+    <option name="mostRecentlyUsed" value="package:mine level:warn " />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine drawHorzMaker" />
-        <option value="package:mine " />
+        <option value="package:mine level:warn " />
       </list>
     </option>
   </component>
