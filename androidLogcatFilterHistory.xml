@@ -1,9 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.jin10 " />
+    <option name="mostRecentlyUsed" value="package:com.jin10 tag:optionalgroupv6fragment " />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.jin10 tag:optionalgroupv6fragment " />
         <option value="package:com.jin10 " />
+        <option value="package:com.jin10 OptionalGroupV6Fragment" />
         <option value="package:mine onTestClick" />
         <option value="package:mine " />
         <option value="package:com.jin10 onClick:" />
@@ -21,8 +23,6 @@
         <option value="package:com.jin10 releaseAnim:" />
         <option value="package:com.jin10 订阅快讯" />
         <option value="package:com.jin10 快讯" />
-        <option value="package:mine pickupTitleAndContent" />
-        <option value="package:mine openFontScaleFollowSystem" />
       </list>
     </option>
   </component>
