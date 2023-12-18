@@ -1,14 +1,18 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.jin10 tag:detailfragment " />
+    <option name="mostRecentlyUsed" value="package:mine 普通事件" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine 普通事件" />
+        <option value="package:com.jin10 UniActivityLifecycleCallbacks" />
+        <option value="package:com.jin10 onActivityCreated" />
+        <option value="package:com.jin10 普通事件" />
+        <option value="package:com.jin10 " />
         <option value="package:com.jin10 tag:detailfragment " />
         <option value="package:com.jin10 onDestroyView:" />
         <option value="package:mine tag:leakcanary " />
         <option value="package:com.jin10 SkinUtils.callbacks:" />
         <option value="package:com.jin10 tag:optionalgroupv6fragment " />
-        <option value="package:com.jin10 " />
         <option value="package:com.jin10 OptionalGroupV6Fragment" />
         <option value="package:mine onTestClick" />
         <option value="package:mine " />
@@ -19,10 +23,6 @@
         <option value="package:mine onUpgrade:" />
         <option value="package:mine run:" />
         <option value="package:mine JEventTask" />
-        <option value="package:com.andy.androidxdemo setBeforeSend:" />
-        <option value="package:com.andy.androidxdemo tag:app " />
-        <option value="package:com.andy.androidxdemo" />
-        <option value="package:com.jin10 render:" />
       </list>
     </option>
   </component>
