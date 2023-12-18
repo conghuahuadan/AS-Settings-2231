@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.jin10 SkinUtils.callbacks:" />
+    <option name="mostRecentlyUsed" value="package:com.jin10 tag:detailfragment " />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.jin10 tag:detailfragment " />
+        <option value="package:com.jin10 onDestroyView:" />
+        <option value="package:mine tag:leakcanary " />
         <option value="package:com.jin10 SkinUtils.callbacks:" />
         <option value="package:com.jin10 tag:optionalgroupv6fragment " />
         <option value="package:com.jin10 " />
@@ -20,9 +23,6 @@
         <option value="package:com.andy.androidxdemo tag:app " />
         <option value="package:com.andy.androidxdemo" />
         <option value="package:com.jin10 render:" />
-        <option value="package:com.jin10 onAnimChange:" />
-        <option value="package:com.jin10 releaseAnim:" />
-        <option value="package:com.jin10 订阅快讯" />
       </list>
     </option>
   </component>
