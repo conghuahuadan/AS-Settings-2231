@@ -1,12 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.jin10 onClick:" />
+    <option name="mostRecentlyUsed" value="package:mine onTestClick" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine onTestClick" />
+        <option value="package:mine " />
         <option value="package:com.jin10 onClick:" />
         <option value="package:mine level:warn " />
         <option value="package:com.jin10 " />
-        <option value="package:mine " />
         <option value="package:mine behavior-collection" />
         <option value="package:mine tag:JStatisticDbHelper" />
         <option value="package:mine onUpgrade:" />
@@ -22,7 +23,6 @@
         <option value="package:com.jin10 快讯" />
         <option value="package:mine pickupTitleAndContent" />
         <option value="package:mine openFontScaleFollowSystem" />
-        <option value="package:mine 普通事件" />
       </list>
     </option>
   </component>
