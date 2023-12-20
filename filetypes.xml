@@ -12,6 +12,7 @@
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="0" type="Native" />
+      <mapping ext="db" type="Native" />
       <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping pattern="1" type="Shell Script" />
       <mapping pattern="Jenkinsfile_Final2" type="gdsl" />
