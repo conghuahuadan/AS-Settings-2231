@@ -1,13 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.jin10 " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
+        <option value="package:mine 快讯事件" />
+        <option value="package:com.jin10 快讯事件" />
+        <option value="package:com.jin10 快讯" />
         <option value="package:com.jin10 " />
         <option value="package:com.jin10 onBroadcastEvent" />
         <option value="package:com.jin10 普通事件" />
         <option value="package:mine  ad_click_stat3" />
-        <option value="package:mine " />
         <option value="package:mine 普通事件" />
         <option value="package:com.jin10 UniActivityLifecycleCallbacks" />
         <option value="package:com.jin10 onActivityCreated" />
@@ -20,9 +22,6 @@
         <option value="package:mine onTestClick" />
         <option value="package:com.jin10 onClick:" />
         <option value="package:mine level:warn " />
-        <option value="package:mine behavior-collection" />
-        <option value="package:mine tag:JStatisticDbHelper" />
-        <option value="package:mine onUpgrade:" />
       </list>
     </option>
   </component>
