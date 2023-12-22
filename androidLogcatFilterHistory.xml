@@ -1,14 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.jin10 setUp:" />
+    <option name="mostRecentlyUsed" value="package:com.jin10 " />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.jin10 " />
         <option value="package:com.jin10 setUp:" />
         <option value="package:com.jin10 快讯事件" />
         <option value="package:mine " />
         <option value="package:mine 快讯事件" />
         <option value="package:com.jin10 快讯" />
-        <option value="package:com.jin10 " />
         <option value="package:com.jin10 onBroadcastEvent" />
         <option value="package:com.jin10 普通事件" />
         <option value="package:mine  ad_click_stat3" />
