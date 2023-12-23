@@ -1,9 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine upload events" />
     <option name="nonFavorites">
       <list>
         <option value="package:mine upload events" />
+        <option value="package:mine " />
         <option value="package:mine tag:app " />
       </list>
     </option>
