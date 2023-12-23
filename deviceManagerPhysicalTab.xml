@@ -154,6 +154,28 @@
         <name value="Device" />
         <target value="Android 1.0" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="DOMAIN_NAME" />
+            <value value="adb-fc8886c5-r06zTb._adb-tls-connect._tcp." />
+          </Key>
+        </key>
+        <name value="Xiaomi 2211133C" />
+        <target value="Android 13.0" />
+        <api value="androidversion:33:null:3:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="YP5PMFFUNF9XAI5T" />
+          </Key>
+        </key>
+        <name value="OPPO PDYM20" />
+        <target value="Android 12.0" />
+        <api value="androidversion:31:null:1:true" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
