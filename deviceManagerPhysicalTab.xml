@@ -5,6 +5,17 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="a188bb66" />
+          </Key>
+        </key>
+        <name value="Xiaomi M2002J9E" />
+        <target value="Android 12L" />
+        <api value="androidversion:32:null:1:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="Q5S5T19327000041" />
           </Key>
         </key>
@@ -44,17 +55,6 @@
         <name value="Xiaomi 2211133C" />
         <target value="Android 13.0" />
         <api value="androidversion:33:null:3:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="a188bb66" />
-          </Key>
-        </key>
-        <name value="Xiaomi M2002J9E" />
-        <target value="Android 12L" />
-        <api value="androidversion:32:null:1:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -175,6 +175,16 @@
         <name value="OPPO PDYM20" />
         <target value="Android 12.0" />
         <api value="androidversion:31:null:1:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="DOMAIN_NAME" />
+            <value value="adb-4113d0b6-LgXcky._adb-tls-connect._tcp." />
+          </Key>
+        </key>
+        <name value="Device" />
+        <target value="Android 1.0" />
       </PhysicalDevice>
     </physicalDevices>
   </component>

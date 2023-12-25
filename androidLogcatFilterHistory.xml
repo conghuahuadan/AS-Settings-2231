@@ -1,10 +1,28 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:com.jin10 level:warn " />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.jin10 level:warn " />
+        <option value="package:mine level:warn " />
         <option value="package:mine " />
-        <option value="package:mine upload events" />
-        <option value="package:mine tag:app " />
+        <option value="package:mine 普通事件" />
+        <option value="package:com.jin10.test" />
+        <option value="package:mine onTestClick" />
+        <option value="package:mine onBroadcastEvent" />
+        <option value="package:com.jin10 " />
+        <option value="package:com.jin10 setUp:" />
+        <option value="package:com.jin10 快讯事件" />
+        <option value="package:mine 快讯事件" />
+        <option value="package:com.jin10 快讯" />
+        <option value="package:com.jin10 onBroadcastEvent" />
+        <option value="package:com.jin10 普通事件" />
+        <option value="package:mine  ad_click_stat3" />
+        <option value="package:com.jin10 UniActivityLifecycleCallbacks" />
+        <option value="package:com.jin10 onActivityCreated" />
+        <option value="package:com.jin10 tag:detailfragment " />
+        <option value="package:com.jin10 onDestroyView:" />
+        <option value="package:mine tag:leakcanary " />
       </list>
     </option>
   </component>
