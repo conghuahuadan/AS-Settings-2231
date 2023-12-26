@@ -1,7 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine 加载" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine 加载" />
+        <option value="package:mine url" />
         <option value="package:mine " />
         <option value="package:com.jin10 level:warn " />
         <option value="package:mine level:warn " />
@@ -20,8 +23,6 @@
         <option value="package:com.jin10 UniActivityLifecycleCallbacks" />
         <option value="package:com.jin10 onActivityCreated" />
         <option value="package:com.jin10 tag:detailfragment " />
-        <option value="package:com.jin10 onDestroyView:" />
-        <option value="package:mine tag:leakcanary " />
       </list>
     </option>
   </component>
