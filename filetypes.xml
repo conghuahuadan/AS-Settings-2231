@@ -15,6 +15,7 @@
       <mapping ext="db" type="Native" />
       <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping pattern="1" type="Shell Script" />
+      <mapping pattern="pubspec.lock" type="YAML" />
       <mapping pattern="Jenkinsfile_Final2" type="gdsl" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
