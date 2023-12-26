@@ -5,23 +5,23 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="a188bb66" />
-          </Key>
-        </key>
-        <name value="Xiaomi M2002J9E" />
-        <target value="Android 12L" />
-        <api value="androidversion:32:null:1:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
             <value value="Q5S5T19327000041" />
           </Key>
         </key>
         <name value="HUAWEI ELE-AL00" />
         <target value="Android 10.0" />
         <api value="androidversion:29:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="a188bb66" />
+          </Key>
+        </key>
+        <name value="Xiaomi M2002J9E" />
+        <target value="Android 12L" />
+        <api value="androidversion:32:null:1:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
