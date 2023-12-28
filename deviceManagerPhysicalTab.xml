@@ -5,6 +5,17 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="9B071FFAZ005VP" />
+          </Key>
+        </key>
+        <name value="Google Pixel 4" />
+        <target value="Android 11.0" />
+        <api value="androidversion:30:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="a188bb66" />
           </Key>
         </key>
@@ -96,20 +107,9 @@
             <value value="22b8f30c" />
           </Key>
         </key>
-        <name value="OnePlus HD1901" />
-        <target value="Android 13.0" />
-        <api value="androidversion:33:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="9B071FFAZ005VP" />
-          </Key>
-        </key>
-        <name value="Google Pixel 4" />
-        <target value="Android Tiramisu" />
-        <api value="androidversion:33:null:null:true" />
+        <name value="OnePlus HD1900" />
+        <target value="Android 11.0" />
+        <api value="androidversion:30:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
