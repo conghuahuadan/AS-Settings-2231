@@ -1,8 +1,28 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine MOOC- init route is" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine MOOC- init route is" />
+        <option value="package:com.jin10 level:warn " />
+        <option value="package:mine tag:DetailFragment" />
+        <option value="package:mine DetailFragment" />
+        <option value="package:com.jin10 DetailFragment" />
+        <option value="package:mine UIMultiStrandCandleView" />
+        <option value="package:mine computeFrameHeight" />
+        <option value="package:mine onDestroyView" />
+        <option value="package:mine 普通事件" />
         <option value="package:mine " />
+        <option value="package:mine level:warn " />
+        <option value="package:com.jin10.test" />
+        <option value="package:mine onTestClick" />
+        <option value="package:mine onBroadcastEvent" />
+        <option value="package:com.jin10 " />
+        <option value="package:com.jin10 setUp:" />
+        <option value="package:com.jin10 快讯事件" />
+        <option value="package:mine 快讯事件" />
+        <option value="package:com.jin10 快讯" />
+        <option value="package:com.jin10 onBroadcastEvent" />
       </list>
     </option>
   </component>
