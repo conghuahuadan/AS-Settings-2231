@@ -1,11 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.jin10 single_unread" />
+    <option name="mostRecentlyUsed" value="package:com.jin10 level:warn " />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.jin10 level:warn " />
         <option value="package:com.jin10 single_unread" />
         <option value="package:mine MOOC- init route is" />
-        <option value="package:com.jin10 level:warn " />
         <option value="package:mine tag:DetailFragment" />
         <option value="package:mine DetailFragment" />
         <option value="package:com.jin10 DetailFragment" />
