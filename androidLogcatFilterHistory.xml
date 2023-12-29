@@ -1,10 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine setMoveX" />
+    <option name="mostRecentlyUsed" value="package:mine getXIndexForUnTime:" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine setMoveX" />
+        <option value="package:mine getXIndexForUnTime:" />
+        <option value="package:mine startX:" />
+        <option value="package:mine render:" />
         <option value="package:mine renderVerticalLine" />
+        <option value="package:mine setMoveX" />
         <option value="package:mine MOOC- init route is" />
         <option value="package:com.jin10 level:warn " />
         <option value="package:mine tag:DetailFragment" />
@@ -20,9 +23,6 @@
         <option value="package:mine onTestClick" />
         <option value="package:mine onBroadcastEvent" />
         <option value="package:com.jin10 " />
-        <option value="package:com.jin10 setUp:" />
-        <option value="package:com.jin10 快讯事件" />
-        <option value="package:mine 快讯事件" />
       </list>
     </option>
   </component>
