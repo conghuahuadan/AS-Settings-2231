@@ -5,6 +5,17 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="35111FDH2001FS" />
+          </Key>
+        </key>
+        <name value="Google Pixel 7" />
+        <target value="Android API 34" />
+        <api value="androidversion:34:null:10:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="Q5S5T19327000041" />
           </Key>
         </key>
