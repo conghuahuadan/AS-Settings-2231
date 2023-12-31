@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine level:info 耗时" />
+    <option name="mostRecentlyUsed" value="package:mine level:info setFlashText:" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:info setFlashText:" />
         <option value="package:mine level:info 耗时" />
         <option value="package:mine level:info " />
         <option value="package:mine level:warn " />
