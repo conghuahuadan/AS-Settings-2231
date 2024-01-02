@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.jin10 level:warn " />
+    <option name="mostRecentlyUsed" value="package:com.jin10 setMoveX:" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.jin10 setMoveX:" />
         <option value="package:com.jin10 level:warn " />
         <option value="package:com.jin10 single_unread" />
         <option value="package:com.jin10.test render:" />
@@ -22,7 +23,6 @@
         <option value="package:com.jin10.test" />
         <option value="package:mine onTestClick" />
         <option value="package:mine onBroadcastEvent" />
-        <option value="package:com.jin10 setUp:" />
       </list>
     </option>
   </component>
