@@ -1,18 +1,8 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine renderKDJ" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine renderKDJ" />
-        <option value="package:mine level:error " />
         <option value="package:mine " />
-        <option value="package:mine onBoomOffset:" />
-        <option value="package:mine level:verbose  " />
-        <option value="package:mine level:info " />
-        <option value="package:mine level:info setFlashText:" />
-        <option value="package:mine level:info 耗时" />
-        <option value="package:mine level:warn " />
-        <option value="package:mine 耗时:" />
       </list>
     </option>
   </component>
