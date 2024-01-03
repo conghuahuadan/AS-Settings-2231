@@ -5,6 +5,17 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="9B071FFAZ005VP" />
+          </Key>
+        </key>
+        <name value="Google Pixel 4" />
+        <target value="Android 11.0" />
+        <api value="androidversion:30:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="NABDU20421010246" />
           </Key>
         </key>
@@ -120,17 +131,6 @@
         <name value="Xiaomi 2211133C" />
         <target value="Android 13.0" />
         <api value="androidversion:33:null:3:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="9B071FFAZ005VP" />
-          </Key>
-        </key>
-        <name value="Google Pixel 4" />
-        <target value="Android Tiramisu" />
-        <api value="androidversion:33:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
