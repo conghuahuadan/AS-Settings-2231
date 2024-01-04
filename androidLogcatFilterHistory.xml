@@ -1,17 +1,19 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.jin10 普通事件" />
+    <option name="mostRecentlyUsed" value="package:mine wide_image" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine wide_image" />
+        <option value="package:com.jin10 " />
+        <option value="package:com.jin10 level:warn " />
+        <option value="package:mine level:warn " />
         <option value="package:com.jin10 普通事件" />
         <option value="package:com.jin10.test render:" />
         <option value="package:com.jin10 rili/main:" />
         <option value="package:com.jin10" />
         <option value="package:com.jin10 canvas:" />
-        <option value="package:com.jin10 " />
         <option value="package:com.jin10 route:" />
         <option value="package:com.jin10 single_unread" />
-        <option value="package:com.jin10 level:warn " />
         <option value="package:com.jin10 setMoveX:" />
         <option value="package:mine " />
         <option value="package:mine MOOC- init route is" />
@@ -21,8 +23,6 @@
         <option value="package:mine UIMultiStrandCandleView" />
         <option value="package:mine computeFrameHeight" />
         <option value="package:mine onDestroyView" />
-        <option value="package:mine 普通事件" />
-        <option value="package:mine level:warn " />
       </list>
     </option>
   </component>
