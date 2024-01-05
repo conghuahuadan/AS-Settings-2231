@@ -1,8 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:com.andy.flutter_bili_app " />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.andy.flutter_bili_app " />
         <option value="package:mine " />
+        <option value="testNetRequest" />
+        <option value="package:com.andy.flutter_bili_app" />
         <option value="package:mine wide_image" />
         <option value="package:com.jin10 " />
         <option value="package:com.jin10 level:warn " />
@@ -19,9 +23,6 @@
         <option value="package:mine tag:DetailFragment" />
         <option value="package:mine DetailFragment" />
         <option value="package:com.jin10 DetailFragment" />
-        <option value="package:mine UIMultiStrandCandleView" />
-        <option value="package:mine computeFrameHeight" />
-        <option value="package:mine onDestroyView" />
       </list>
     </option>
   </component>
