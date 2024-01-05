@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.andy.flutter_bili_app " />
+    <option name="mostRecentlyUsed" value="package:com.andy.flutter_bili_app url" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.andy.flutter_bili_app url" />
+        <option value="package:com.andy.flutter_bili_app testNetRequest" />
         <option value="package:com.andy.flutter_bili_app " />
         <option value="package:mine " />
         <option value="testNetRequest" />
@@ -21,8 +23,6 @@
         <option value="package:com.jin10 setMoveX:" />
         <option value="package:mine MOOC- init route is" />
         <option value="package:mine tag:DetailFragment" />
-        <option value="package:mine DetailFragment" />
-        <option value="package:com.jin10 DetailFragment" />
       </list>
     </option>
   </component>
