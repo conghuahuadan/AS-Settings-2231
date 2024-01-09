@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="请求异常" />
+    <option name="mostRecentlyUsed" value="package:mine onBroadcastEvent" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine onBroadcastEvent" />
         <option value="请求异常" />
         <option value="package:com.andy.flutter_bili_app " />
         <option value="package:com.andy.flutter_bili_app url" />
@@ -22,7 +23,6 @@
         <option value="package:com.jin10 route:" />
         <option value="package:com.jin10 single_unread" />
         <option value="package:com.jin10 setMoveX:" />
-        <option value="package:mine MOOC- init route is" />
       </list>
     </option>
   </component>
