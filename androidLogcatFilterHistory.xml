@@ -1,14 +1,16 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine onBroadcastEvent" />
+    <option name="mostRecentlyUsed" value="package:mine PushMessageReceiver" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine PushMessageReceiver" />
+        <option value="package:mine " />
+        <option value="package:mine jpush" />
         <option value="package:mine onBroadcastEvent" />
         <option value="请求异常" />
         <option value="package:com.andy.flutter_bili_app " />
         <option value="package:com.andy.flutter_bili_app url" />
         <option value="package:com.andy.flutter_bili_app testNetRequest" />
-        <option value="package:mine " />
         <option value="testNetRequest" />
         <option value="package:com.andy.flutter_bili_app" />
         <option value="package:mine wide_image" />
@@ -21,8 +23,6 @@
         <option value="package:com.jin10" />
         <option value="package:com.jin10 canvas:" />
         <option value="package:com.jin10 route:" />
-        <option value="package:com.jin10 single_unread" />
-        <option value="package:com.jin10 setMoveX:" />
       </list>
     </option>
   </component>
