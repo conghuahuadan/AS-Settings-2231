@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.jin10 onBroadcastEvent" />
+    <option name="mostRecentlyUsed" value="package:com.jin10 MSG_BROADCAST_EVENT" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.jin10 MSG_BROADCAST_EVENT" />
+        <option value="package:com.jin10 handleMessage" />
         <option value="package:com.jin10 onBroadcastEvent" />
         <option value="package:mine onBroadcastEvent" />
         <option value="package:com.jin10" />
@@ -21,8 +23,6 @@
         <option value="package:com.andy.flutter_bili_app testNetRequest" />
         <option value="testNetRequest" />
         <option value="package:com.andy.flutter_bili_app" />
-        <option value="package:mine wide_image" />
-        <option value="package:com.jin10 " />
       </list>
     </option>
   </component>
