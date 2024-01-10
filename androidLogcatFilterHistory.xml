@@ -1,10 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine onBroadcastEvent" />
+    <option name="mostRecentlyUsed" value="package:com.jin10 onBroadcastEvent" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine onBroadcastEvent" />
         <option value="package:com.jin10 onBroadcastEvent" />
+        <option value="package:mine onBroadcastEvent" />
         <option value="package:com.jin10" />
         <option value="package:com.andy.flutter_bili_app 启动" />
         <option value="package:org.devio.flutter.bili.flutter_bili_app 项目启动" />
