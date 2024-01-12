@@ -1,10 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.jin10 " />
+    <option name="mostRecentlyUsed" value="package:mine  普通事件" />
     <option name="nonFavorites">
       <list>
-        <option value="package:com.jin10 " />
+        <option value="package:mine  普通事件" />
         <option value="package:mine  " />
+        <option value="package:com.jin10 " />
         <option value="package:com.jin10 MSG_BROADCAST_EVENT" />
         <option value="package:com.jin10 handleMessage" />
         <option value="package:com.jin10 onBroadcastEvent" />
@@ -22,7 +23,6 @@
         <option value="请求异常" />
         <option value="package:com.andy.flutter_bili_app " />
         <option value="package:com.andy.flutter_bili_app url" />
-        <option value="package:com.andy.flutter_bili_app testNetRequest" />
       </list>
     </option>
   </component>
