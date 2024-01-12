@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine  普通事件" />
+    <option name="mostRecentlyUsed" value="package:com.jin10 onSelValue" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.jin10 onSelValue" />
         <option value="package:mine  普通事件" />
         <option value="package:mine  " />
         <option value="package:com.jin10 " />
@@ -22,7 +23,6 @@
         <option value="package:mine jpush" />
         <option value="请求异常" />
         <option value="package:com.andy.flutter_bili_app " />
-        <option value="package:com.andy.flutter_bili_app url" />
       </list>
     </option>
   </component>
