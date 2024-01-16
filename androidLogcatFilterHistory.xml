@@ -1,13 +1,16 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.jin10 普通事件" />
+    <option name="mostRecentlyUsed" value="package:mine shouldOverrideUrlLoading" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.jin10 " />
+        <option value="package:mine shouldOverrideUrlLoading" />
+        <option value="package:com.jin10 mainin" />
+        <option value="package:com.jin10 main" />
         <option value="package:com.jin10 普通事件" />
         <option value="package:com.jin10 getKlineRealPaddingTop" />
         <option value="        Log.i(TAG, &quot;getKlineRealPaddingTop: &quot; + showMaButton + &quot;, &quot; + showBoolForMain + &quot;, &quot; + this); &#10;package:com.jin10 " />
         <option value="package:com.jin10" />
-        <option value="package:com.jin10 " />
         <option value="package:mine setMarketDetailItem" />
         <option value="package:com.jin10 onSelValue" />
         <option value="package:mine  普通事件" />
@@ -20,9 +23,6 @@
         <option value="package:org.devio.flutter.bili.flutter_bili_app 项目启动" />
         <option value="package:org.devio.flutter.bili.flutter_bili_app " />
         <option value="package:" />
-        <option value="package:mine " />
-        <option value="package:mine  PushMessageReceiver" />
-        <option value="package:mine  TagAliasOperatorHelper.getInstance().onMobileNumberOperatorResult(context,jPushMessage);" />
       </list>
     </option>
   </component>
