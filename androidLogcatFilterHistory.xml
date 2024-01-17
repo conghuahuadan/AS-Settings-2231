@@ -1,8 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine shouldOverrideUrlLoading" />
+    <option name="mostRecentlyUsed" value="package:com.andy.flutter_bili_app" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.andy.flutter_bili_app" />
+        <option value="package:mine " />
+        <option value="package:com.andy.flutter_bili_app " />
+        <option value="package:com.andy.flutter_bili_app 启动" />
         <option value="package:mine shouldOverrideUrlLoading" />
         <option value="package:com.jin10 " />
         <option value="package:com.jin10 mainin" />
@@ -19,10 +23,6 @@
         <option value="package:com.jin10 handleMessage" />
         <option value="package:com.jin10 onBroadcastEvent" />
         <option value="package:mine onBroadcastEvent" />
-        <option value="package:com.andy.flutter_bili_app 启动" />
-        <option value="package:org.devio.flutter.bili.flutter_bili_app 项目启动" />
-        <option value="package:org.devio.flutter.bili.flutter_bili_app " />
-        <option value="package:" />
       </list>
     </option>
   </component>
