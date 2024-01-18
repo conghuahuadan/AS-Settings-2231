@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.jin10 onLazyInitView" />
+    <option name="mostRecentlyUsed" value="package:com.jin10 普通事件" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.jin10 普通事件" />
+        <option value="package:com.jin10 " />
         <option value="package:com.jin10 onLazyInitView" />
         <option value="package:com.jin10 convert:" />
         <option value="package:com.andy.flutter_bili_app " />
@@ -11,13 +13,11 @@
         <option value="package:com.jin10 getLongSelXY:" />
         <option value="package:com.jin10 run:" />
         <option value="package:com.jin10 updateLongPressFocusCandle" />
-        <option value="package:com.jin10 " />
         <option value="package:mine " />
         <option value="package:com.andy.flutter_bili_app 启动" />
         <option value="package:mine shouldOverrideUrlLoading" />
         <option value="package:com.jin10 mainin" />
         <option value="package:com.jin10 main" />
-        <option value="package:com.jin10 普通事件" />
         <option value="package:com.jin10 getKlineRealPaddingTop" />
         <option value="        Log.i(TAG, &quot;getKlineRealPaddingTop: &quot; + showMaButton + &quot;, &quot; + showBoolForMain + &quot;, &quot; + this); &#10;package:com.jin10 " />
         <option value="package:com.jin10" />
