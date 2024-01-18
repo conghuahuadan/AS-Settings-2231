@@ -1,12 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.jin10 handlemsg" />
+    <option name="mostRecentlyUsed" value="package:com.jin10 数据库查找数据失败" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.jin10 数据库查找数据失败" />
+        <option value="package:com.jin10 " />
         <option value="package:com.jin10 handlemsg" />
         <option value="package:com.jin10 onLazyInitView" />
         <option value="package:com.jin10 普通事件" />
-        <option value="package:com.jin10 " />
         <option value="package:com.jin10 convert:" />
         <option value="package:com.andy.flutter_bili_app " />
         <option value="package:com.jin10 render:" />
@@ -22,7 +23,6 @@
         <option value="package:com.jin10 getKlineRealPaddingTop" />
         <option value="        Log.i(TAG, &quot;getKlineRealPaddingTop: &quot; + showMaButton + &quot;, &quot; + showBoolForMain + &quot;, &quot; + this); &#10;package:com.jin10 " />
         <option value="package:com.jin10" />
-        <option value="package:mine setMarketDetailItem" />
       </list>
     </option>
   </component>
