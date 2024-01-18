@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.jin10 onLazyInitView" />
+    <option name="mostRecentlyUsed" value="package:com.jin10 handlemsg" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.jin10 handlemsg" />
         <option value="package:com.jin10 onLazyInitView" />
         <option value="package:com.jin10 普通事件" />
         <option value="package:com.jin10 " />
@@ -22,7 +23,6 @@
         <option value="        Log.i(TAG, &quot;getKlineRealPaddingTop: &quot; + showMaButton + &quot;, &quot; + showBoolForMain + &quot;, &quot; + this); &#10;package:com.jin10 " />
         <option value="package:com.jin10" />
         <option value="package:mine setMarketDetailItem" />
-        <option value="package:com.jin10 onSelValue" />
       </list>
     </option>
   </component>
