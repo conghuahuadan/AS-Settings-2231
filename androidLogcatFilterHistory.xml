@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.andy.flutter_jin10_app " />
+    <option name="mostRecentlyUsed" value="package:com.jin10 navBar" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.jin10 navBar" />
         <option value="package:com.andy.flutter_jin10_app " />
         <option value="level:error  " />
         <option value="package:com.jin10 " />
@@ -22,7 +23,6 @@
         <option value="package:mine shouldOverrideUrlLoading" />
         <option value="package:com.jin10 mainin" />
         <option value="package:com.jin10 main" />
-        <option value="package:com.jin10 getKlineRealPaddingTop" />
       </list>
     </option>
   </component>
