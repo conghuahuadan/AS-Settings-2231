@@ -3,6 +3,7 @@
     <option name="mostRecentlyUsed" value="level:info 请求" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.andy.flutter_jin10_app " />
         <option value="level:info 请求" />
         <option value="level:info " />
         <option value="level:info   请求 " />
@@ -10,7 +11,6 @@
         <option value="level:error  请求: " />
         <option value="level:error  请求" />
         <option value="package:com.jin10 navBar" />
-        <option value="package:com.andy.flutter_jin10_app " />
         <option value="level:error  " />
         <option value="package:com.jin10 " />
         <option value="package:com.jin10 数据库查找数据失败" />
