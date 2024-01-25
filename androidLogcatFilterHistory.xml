@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.jin10 " />
+    <option name="mostRecentlyUsed" value="package:com.jin10 convert" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.jin10 convert" />
         <option value="package:com.jin10 " />
         <option value="initState" />
         <option value="level:info NewsPage" />
@@ -22,7 +23,6 @@
         <option value="package:com.jin10 navBar" />
         <option value="level:error  " />
         <option value="package:com.jin10 数据库查找数据失败" />
-        <option value="package:com.jin10 handlemsg" />
       </list>
     </option>
   </component>
