@@ -207,6 +207,17 @@
         <target value="Android API 34" />
         <api value="androidversion:34:null:7:true" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="FMLDU19C05012184" />
+          </Key>
+        </key>
+        <name value="HUAWEI WLZ-AL10" />
+        <target value="Android 12.0" />
+        <api value="androidversion:31:null:1:true" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
