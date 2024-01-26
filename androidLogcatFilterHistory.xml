@@ -1,19 +1,28 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="package:com.jin10 nav" />
     <option name="nonFavorites">
       <list>
-        <option value="level:warn " />
-        <option value="package:mine " />
-        <option value="BottomNavBarIcon" />
-        <option value="手机型号" />
-        <option value="package:com.andy.flutter_jin10_app" />
-        <option value="level:info stag" />
-        <option value="level:info level" />
-        <option value="level:" />
-        <option value="value" />
-        <option value="请求" />
-        <option value="首页" />
+        <option value="package:com.jin10 nav" />
+        <option value="package:com.jin10 subscribe 耗时" />
+        <option value="package:com.jin10 " />
+        <option value="package:com.jin10 convert" />
+        <option value="initState" />
+        <option value="level:info NewsPage" />
+        <option value="_BiliAppState" />
+        <option value="build" />
+        <option value="level:info MyApp" />
+        <option value="level:info EmptyPage" />
+        <option value="level:info BlackPage" />
+        <option value="package:com.andy.flutter_jin10_app " />
+        <option value="level:info TabController" />
+        <option value="level:info 请求" />
+        <option value="level:info " />
+        <option value="level:info   请求 " />
+        <option value="level:info   请求: " />
+        <option value="level:error  请求: " />
+        <option value="level:error  请求" />
+        <option value="package:com.jin10 navBar" />
       </list>
     </option>
   </component>
