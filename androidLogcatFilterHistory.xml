@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="navigatorKey" />
+    <option name="mostRecentlyUsed" value="setNewRoutePath" />
     <option name="nonFavorites">
       <list>
+        <option value="setNewRoutePath" />
         <option value="navigatorKey" />
         <option value="package:com.jin10 nav" />
         <option value="package:com.jin10 subscribe 耗时" />
@@ -22,7 +23,6 @@
         <option value="level:info   请求 " />
         <option value="level:info   请求: " />
         <option value="level:error  请求: " />
-        <option value="level:error  请求" />
       </list>
     </option>
   </component>
