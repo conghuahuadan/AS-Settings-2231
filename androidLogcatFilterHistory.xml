@@ -3,12 +3,12 @@
     <option name="mostRecentlyUsed" value="package:mine TopicFragment" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:warn " />
         <option value="package:mine TopicFragment" />
         <option value="package:mine topicLoopTimer" />
         <option value="package:mine OffsetLinearLayoutManager" />
         <option value="package:mine notifyScrollOffsetChanged" />
         <option value="package:mine level:error  " />
-        <option value="package:mine level:warn " />
         <option value="package:mine " />
         <option value="package:mine slide_182" />
         <option value="package:mine onOffsetChanged" />
