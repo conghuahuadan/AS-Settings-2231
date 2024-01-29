@@ -1,11 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine slide_182_test" />
+    <option name="mostRecentlyUsed" value="package:mine onOffsetChanged" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine slide_182_test" />
-        <option value="package:mine " />
         <option value="package:mine onOffsetChanged" />
+        <option value="package:mine url" />
+        <option value="package:mine 解析" />
+        <option value="package:mine level:warn " />
+        <option value="setNewRoutePath" />
+        <option value="navigatorKey" />
         <option value="package:com.jin10 nav" />
         <option value="package:com.jin10 subscribe 耗时" />
         <option value="package:com.jin10 " />
@@ -20,9 +23,6 @@
         <option value="package:com.andy.flutter_jin10_app " />
         <option value="level:info TabController" />
         <option value="level:info 请求" />
-        <option value="level:info " />
-        <option value="level:info   请求 " />
-        <option value="level:info   请求: " />
       </list>
     </option>
   </component>
