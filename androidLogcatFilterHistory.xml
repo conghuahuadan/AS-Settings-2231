@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine topicLoopTimer" />
+    <option name="mostRecentlyUsed" value="package:mine TopicFragment" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine TopicFragment" />
         <option value="package:mine topicLoopTimer" />
         <option value="package:mine OffsetLinearLayoutManager" />
         <option value="package:mine notifyScrollOffsetChanged" />
@@ -22,7 +23,6 @@
         <option value="initState" />
         <option value="level:info NewsPage" />
         <option value="_BiliAppState" />
-        <option value="build" />
       </list>
     </option>
   </component>
