@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.jin10 nav" />
+    <option name="mostRecentlyUsed" value="package:mine slide_182_test" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine slide_182_test" />
+        <option value="package:mine " />
+        <option value="package:mine onOffsetChanged" />
         <option value="package:com.jin10 nav" />
         <option value="package:com.jin10 subscribe 耗时" />
         <option value="package:com.jin10 " />
@@ -20,9 +23,6 @@
         <option value="level:info " />
         <option value="level:info   请求 " />
         <option value="level:info   请求: " />
-        <option value="level:error  请求: " />
-        <option value="level:error  请求" />
-        <option value="package:com.jin10 navBar" />
       </list>
     </option>
   </component>
