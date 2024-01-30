@@ -1,8 +1,8 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine FlashTopTopicView" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine FlashTopTopicView" />
         <option value="package:mine setVisible" />
         <option value="package:mine  onBroadcastEvent" />
@@ -15,7 +15,6 @@
         <option value="package:mine handleMessage  " />
         <option value="package:mine level:error  " />
         <option value="package:mine level:warn " />
-        <option value="package:mine " />
         <option value="package:mine slide_182" />
         <option value="package:mine onOffsetChanged" />
         <option value="package:mine url" />
