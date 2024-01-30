@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine handleMessage  " />
+    <option name="mostRecentlyUsed" value="package:mine onOffsetChanged  " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine onOffsetChanged  " />
+        <option value="package:mine FlashSearchHeader  " />
         <option value="package:mine handleMessage  " />
         <option value="package:mine level:error  " />
         <option value="package:mine level:warn " />
@@ -21,8 +23,6 @@
         <option value="level:info NewsPage" />
         <option value="_BiliAppState" />
         <option value="build" />
-        <option value="level:info MyApp" />
-        <option value="level:info EmptyPage" />
       </list>
     </option>
   </component>
