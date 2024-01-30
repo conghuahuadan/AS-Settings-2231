@@ -1,15 +1,16 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine  setNewData" />
+    <option name="mostRecentlyUsed" value="package:mine lottie" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine  setNewData" />
+        <option value="package:mine lottie" />
+        <option value="package:mine  onBroadcastEvent" />
         <option value="package:mine  " />
+        <option value="package:mine  setNewData" />
         <option value="package:mine onBroadcastEvent" />
         <option value="package:mine " />
         <option value="package:mine FlashTopTopicView" />
         <option value="package:mine setVisible" />
-        <option value="package:mine  onBroadcastEvent" />
         <option value="package:mine  5001" />
         <option value="package:mine   " />
         <option value="package:mine onBroadcastEvent  " />
@@ -22,7 +23,6 @@
         <option value="package:mine onOffsetChanged" />
         <option value="package:mine url" />
         <option value="package:mine 解析" />
-        <option value="setNewRoutePath" />
       </list>
     </option>
   </component>
