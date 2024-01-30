@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine  " />
+    <option name="mostRecentlyUsed" value="package:mine  setNewData" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine  setNewData" />
         <option value="package:mine  " />
         <option value="package:mine onBroadcastEvent" />
         <option value="package:mine " />
@@ -22,7 +23,6 @@
         <option value="package:mine url" />
         <option value="package:mine 解析" />
         <option value="setNewRoutePath" />
-        <option value="navigatorKey" />
       </list>
     </option>
   </component>
