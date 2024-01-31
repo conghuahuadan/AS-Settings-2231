@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine 耗时" />
+    <option name="mostRecentlyUsed" value="package:mine level:warn " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:warn " />
         <option value="package:mine 耗时" />
         <option value="package:mine " />
         <option value="package:mine onBroadcastEvent" />
@@ -19,7 +20,6 @@
         <option value="package:mine FlashSearchHeader  " />
         <option value="package:mine handleMessage  " />
         <option value="package:mine level:error  " />
-        <option value="package:mine level:warn " />
         <option value="package:mine slide_182" />
         <option value="package:mine onOffsetChanged" />
         <option value="package:mine url" />
