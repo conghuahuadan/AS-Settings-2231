@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine 耗时" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine 耗时" />
         <option value="package:mine " />
         <option value="package:mine onBroadcastEvent" />
         <option value="package:mine lottie" />
@@ -21,7 +23,6 @@
         <option value="package:mine slide_182" />
         <option value="package:mine onOffsetChanged" />
         <option value="package:mine url" />
-        <option value="package:mine 解析" />
       </list>
     </option>
   </component>
