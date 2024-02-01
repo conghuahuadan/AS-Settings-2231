@@ -1,11 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine 普通事件" />
+    <option name="mostRecentlyUsed" value="package:mine by_ids" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine by_ids" />
+        <option value="package:mine " />
         <option value="package:mine 普通事件" />
         <option value="package:mine 置顶快讯" />
-        <option value="package:mine " />
         <option value="package:mine level:info " />
         <option value="package:mine updateTopTopicList" />
         <option value="package:com.jin10 置顶快讯" />
