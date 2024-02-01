@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine updateTopTopicList" />
+    <option name="mostRecentlyUsed" value="package:com.jin10 " />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.jin10 " />
         <option value="package:mine updateTopTopicList" />
         <option value="package:com.jin10 置顶快讯" />
         <option value="package:com.jin10 快讯弹窗" />
