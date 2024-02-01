@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine FlashPresenter" />
+    <option name="mostRecentlyUsed" value="package:mine leve" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine leve" />
         <option value="package:mine FlashPresenter" />
         <option value="package:mine m_opcode" />
         <option value="package:mine  onBroadcastEvent" />
