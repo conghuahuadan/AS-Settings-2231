@@ -1,28 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine level:warn " />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine level:warn " />
-        <option value="package:mine 耗时" />
-        <option value="package:mine " />
-        <option value="package:mine onBroadcastEvent" />
-        <option value="package:mine lottie" />
-        <option value="package:mine  onBroadcastEvent" />
-        <option value="package:mine  " />
-        <option value="package:mine  setNewData" />
-        <option value="package:mine FlashTopTopicView" />
-        <option value="package:mine setVisible" />
-        <option value="package:mine  5001" />
-        <option value="package:mine   " />
-        <option value="package:mine onBroadcastEvent  " />
-        <option value="package:mine onOffsetChanged  " />
-        <option value="package:mine FlashSearchHeader  " />
-        <option value="package:mine handleMessage  " />
-        <option value="package:mine level:error  " />
-        <option value="package:mine slide_182" />
-        <option value="package:mine onOffsetChanged" />
-        <option value="package:mine url" />
+        <option value="package:com.jin10 onBroadcastEvent" />
+        <option value="package:mine 普通事件" />
+        <option value="package:com.jin10" />
+        <option value="package:mine 普通" />
+        <option value="package:mine pu" />
       </list>
     </option>
   </component>
