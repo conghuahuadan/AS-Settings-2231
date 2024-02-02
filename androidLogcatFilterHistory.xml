@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:com.jin10 置顶快讯" />
+        <option value="package:mine level:verbose " />
         <option value="package:com.jin10 level:error " />
         <option value="package:com.jin10 " />
         <option value="package:com.jin10" />
