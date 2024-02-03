@@ -1,14 +1,16 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine removeAnim" />
+    <option name="mostRecentlyUsed" value="package:mine BaseQuickAdapter" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine BaseQuickAdapter" />
+        <option value="package:mine addRemoveTimerTask" />
+        <option value="package:com.jin10 level:warn " />
+        <option value="package:com.jin10 level:warn addRemoveTimerTask" />
         <option value="package:mine removeAnim" />
         <option value="package:mine convert" />
-        <option value="package:mine BaseQuickAdapter" />
         <option value="package:mine " />
         <option value="package:mine TopAdapter" />
-        <option value="package:com.jin10 level:warn " />
         <option value="package:mine level:warn " />
         <option value="package:mine by_ids" />
         <option value="package:mine 普通事件" />
@@ -21,8 +23,6 @@
         <option value="package:mine FlashPresenter" />
         <option value="package:mine m_opcode" />
         <option value="package:mine  onBroadcastEvent" />
-        <option value="package:mine onBroadcastEvent" />
-        <option value="package:com.jin10 onBroadcastEvent" />
       </list>
     </option>
   </component>
