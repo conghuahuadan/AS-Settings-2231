@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine convert" />
+    <option name="mostRecentlyUsed" value="package:mine removeAnim" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine removeAnim" />
         <option value="package:mine convert" />
         <option value="package:mine BaseQuickAdapter" />
         <option value="package:mine " />
@@ -22,7 +23,6 @@
         <option value="package:mine  onBroadcastEvent" />
         <option value="package:mine onBroadcastEvent" />
         <option value="package:com.jin10 onBroadcastEvent" />
-        <option value="package:com.jin10" />
       </list>
     </option>
   </component>
