@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.jin10 level:warn   " />
+    <option name="mostRecentlyUsed" value="package:mine  BaseQuickAdapter" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine  BaseQuickAdapter" />
+        <option value="package:mine  Top" />
         <option value="package:com.jin10 level:warn   " />
         <option value="package:mine " />
         <option value="package:mine BaseQuickAdapter" />
@@ -21,8 +23,6 @@
         <option value="package:com.jin10 置顶快讯" />
         <option value="package:com.jin10 快讯弹窗" />
         <option value="package:mine leve" />
-        <option value="package:mine FlashPresenter" />
-        <option value="package:mine m_opcode" />
       </list>
     </option>
   </component>
