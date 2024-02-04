@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="webheight" />
+    <option name="mostRecentlyUsed" value="targetEndScrollOffsetForPaint" />
     <option name="nonFavorites">
       <list>
+        <option value="targetEndScrollOffsetForPaint" />
+        <option value="dy" />
         <option value="webheight" />
         <option value="htmlHeightFixed" />
         <option value="height" />
@@ -21,8 +23,6 @@
         <option value="package:mine by_ids" />
         <option value="package:mine 普通事件" />
         <option value="package:mine 置顶快讯" />
-        <option value="package:mine level:info " />
-        <option value="package:mine updateTopTopicList" />
       </list>
     </option>
   </component>
