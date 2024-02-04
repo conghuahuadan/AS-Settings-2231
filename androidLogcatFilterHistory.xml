@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine addRemoveTimerTask" />
+    <option name="mostRecentlyUsed" value="webheight" />
     <option name="nonFavorites">
       <list>
+        <option value="webheight" />
+        <option value="htmlHeightFixed" />
+        <option value="height" />
         <option value="package:mine  BaseQuickAdapter" />
         <option value="package:mine addRemoveTimerTask" />
         <option value="package:mine  Top" />
@@ -20,9 +23,6 @@
         <option value="package:mine 置顶快讯" />
         <option value="package:mine level:info " />
         <option value="package:mine updateTopTopicList" />
-        <option value="package:com.jin10 置顶快讯" />
-        <option value="package:com.jin10 快讯弹窗" />
-        <option value="package:mine leve" />
       </list>
     </option>
   </component>
