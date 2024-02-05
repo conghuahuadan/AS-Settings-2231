@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="level:info addJavaScriptHandler" />
+    <option name="mostRecentlyUsed" value="JavascriptChannel" />
     <option name="nonFavorites">
       <list>
+        <option value="JavascriptChannel" />
         <option value="level:info addJavaScriptHandler" />
         <option value="level:info " />
         <option value="package:mine level:verbose 普通事件" />
@@ -22,7 +23,6 @@
         <option value="package:mine leve" />
         <option value="package:mine m_opcode" />
         <option value="package:mine  onBroadcastEvent" />
-        <option value="package:mine 普通事件" />
       </list>
     </option>
   </component>
