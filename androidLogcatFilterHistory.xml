@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine onBroadcastEvent" />
+    <option name="mostRecentlyUsed" value="package:mine level:verbose 普通事件" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:verbose 普通事件" />
         <option value="package:mine onBroadcastEvent" />
         <option value="package:mine " />
         <option value="package:mine 展开" />
@@ -22,7 +23,6 @@
         <option value="package:mine 普通事件" />
         <option value="package:com.jin10 onBroadcastEvent" />
         <option value="package:mine 普通" />
-        <option value="package:mine pu" />
       </list>
     </option>
   </component>
