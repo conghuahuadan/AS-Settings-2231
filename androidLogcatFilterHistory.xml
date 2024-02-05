@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="JavascriptChannel" />
+    <option name="mostRecentlyUsed" value="strUrl" />
     <option name="nonFavorites">
       <list>
+        <option value="strUrl" />
         <option value="JavascriptChannel" />
         <option value="level:info addJavaScriptHandler" />
         <option value="level:info " />
@@ -22,7 +23,6 @@
         <option value="package:com.jin10 快讯弹窗" />
         <option value="package:mine leve" />
         <option value="package:mine m_opcode" />
-        <option value="package:mine  onBroadcastEvent" />
       </list>
     </option>
   </component>
