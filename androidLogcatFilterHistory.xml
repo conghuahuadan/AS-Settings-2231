@@ -1,11 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.jin10 scrollX" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:com.jin10 scrollX" />
         <option value="package:mine scrollX" />
-        <option value="package:mine " />
         <option value="package:mine level:warn " />
         <option value="package:com.jin10 onGetHistoryFile" />
         <option value="package:mine onGetHistoryFile" />
