@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine acquireWebViewInternal" />
+    <option name="mostRecentlyUsed" value="package:mine setAudioPlay" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine setAudioPlay" />
         <option value="package:mine acquireWebViewInternal" />
         <option value="package:mine " />
         <option value="package:mine getResponse" />
@@ -22,7 +23,6 @@
         <option value="strUrl" />
         <option value="JavascriptChannel" />
         <option value="level:info addJavaScriptHandler" />
-        <option value="level:info " />
       </list>
     </option>
   </component>
