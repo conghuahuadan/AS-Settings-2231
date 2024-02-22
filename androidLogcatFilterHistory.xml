@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine getResponse" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine getResponse" />
         <option value="package:mine " />
         <option value="package:com.jin10 scrollX" />
         <option value="package:mine scrollX" />
@@ -21,7 +23,6 @@
         <option value="level:info addJavaScriptHandler" />
         <option value="level:info " />
         <option value="package:mine level:verbose 普通事件" />
-        <option value="package:mine onBroadcastEvent" />
       </list>
     </option>
   </component>
