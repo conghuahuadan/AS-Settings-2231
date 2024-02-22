@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.jin10 " />
+    <option name="mostRecentlyUsed" value="getHttpResource" />
     <option name="nonFavorites">
       <list>
+        <option value="getHttpResource" />
+        <option value="woff2" />
         <option value="package:com.jin10 " />
         <option value="package:mine setAudioPlay" />
         <option value="package:mine acquireWebViewInternal" />
@@ -21,8 +23,6 @@
         <option value="package:com.andy.flutter_jin10_app CommApi" />
         <option value="openAppLoginView" />
         <option value="strUrl" />
-        <option value="JavascriptChannel" />
-        <option value="level:info addJavaScriptHandler" />
       </list>
     </option>
   </component>
