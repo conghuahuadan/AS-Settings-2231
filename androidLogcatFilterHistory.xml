@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine setAudioPlay" />
+    <option name="mostRecentlyUsed" value="package:com.jin10 " />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.jin10 " />
         <option value="package:mine setAudioPlay" />
         <option value="package:mine acquireWebViewInternal" />
         <option value="package:mine " />
@@ -14,7 +15,6 @@
         <option value="package:mine onGetHistoryFile" />
         <option value="package:com.jin10 level:info onGetHistoryFile " />
         <option value="package:com.jin10 level:error " />
-        <option value="package:com.jin10 " />
         <option value="package:com.andy.flutter_jin10_app 加载链接" />
         <option value="package:com.andy.flutter_jin10_app javascriptChannels" />
         <option value="package:com.andy.flutter_jin10_app " />
