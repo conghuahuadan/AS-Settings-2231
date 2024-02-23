@@ -1,12 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine 普通事件" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine 普通事件" />
         <option value="package:mine " />
+        <option value="package:mine 关闭" />
         <option value="package:mine MarketModel" />
         <option value="package:mine 耗时" />
         <option value="package:mine 触发下载品种列表" />
-        <option value="package:mine 普通事件" />
         <option value="package:com.jin10 click: " />
         <option value="package:com.jin10 start u" />
         <option value="package:mine H5ResFile" />
@@ -21,7 +23,6 @@
         <option value="package:mine scrollX" />
         <option value="package:mine level:warn " />
         <option value="package:com.jin10 onGetHistoryFile" />
-        <option value="package:mine onGetHistoryFile" />
       </list>
     </option>
   </component>
