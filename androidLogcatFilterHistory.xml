@@ -1,11 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine kline" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine kline" />
         <option value="package:mine 普通事件" />
-        <option value="package:mine " />
         <option value="package:mine 关闭" />
         <option value="package:mine MarketModel" />
         <option value="package:mine 耗时" />
