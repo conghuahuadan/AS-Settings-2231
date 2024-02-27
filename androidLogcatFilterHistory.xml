@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.jin10 " />
+    <option name="mostRecentlyUsed" value="package:com.jin10 普通事件" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.jin10 普通事件" />
         <option value="package:com.jin10 " />
         <option value="package:com.jin10 20240220164304882800" />
         <option value="package:com.jin10 20240203001532125800" />
@@ -22,7 +23,6 @@
         <option value="woff2" />
         <option value="package:mine setAudioPlay" />
         <option value="package:mine acquireWebViewInternal" />
-        <option value="package:com.jin10 scrollX" />
       </list>
     </option>
   </component>
