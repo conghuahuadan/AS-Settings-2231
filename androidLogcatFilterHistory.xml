@@ -1,14 +1,18 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine H5ResFile" />
+    <option name="mostRecentlyUsed" value="package:com.jin10 level:warn " />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.jin10 level:warn " />
+        <option value="package:com.jin10 notifyFlash:" />
+        <option value="package:mine getResponse" />
+        <option value="package:mine " />
+        <option value="package:mine  " />
+        <option value="package:com.jin10 " />
         <option value="package:mine H5ResFile" />
         <option value="package:com.jin10 普通事件" />
-        <option value="package:com.jin10 " />
         <option value="package:com.jin10 20240220164304882800" />
         <option value="package:com.jin10 20240203001532125800" />
-        <option value="package:mine " />
         <option value="package:mine kline" />
         <option value="package:mine 普通事件" />
         <option value="package:mine 关闭" />
@@ -17,12 +21,8 @@
         <option value="package:mine 触发下载品种列表" />
         <option value="package:com.jin10 click: " />
         <option value="package:com.jin10 start u" />
-        <option value="package:mine getResponse" />
         <option value="package:com.jin10 H5ResFile" />
         <option value="getHttpResource" />
-        <option value="woff2" />
-        <option value="package:mine setAudioPlay" />
-        <option value="package:mine acquireWebViewInternal" />
       </list>
     </option>
   </component>
