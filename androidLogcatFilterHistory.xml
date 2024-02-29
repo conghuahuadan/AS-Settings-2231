@@ -1,15 +1,19 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.jin10 level:warn " />
+    <option name="mostRecentlyUsed" value="package:mine H5ResFile" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine H5ResFile" />
+        <option value="package:mine " />
+        <option value="package:com.jin10 H5ResFile" />
+        <option value="package:com.jin10 getResponse" />
+        <option value="package:com.jin10 " />
+        <option value="package:com.jin10.test " />
+        <option value="package:com.andy.flutter_jin10_app 加载链接" />
         <option value="package:com.jin10 level:warn " />
         <option value="package:com.jin10 notifyFlash:" />
         <option value="package:mine getResponse" />
-        <option value="package:mine " />
         <option value="package:mine  " />
-        <option value="package:com.jin10 " />
-        <option value="package:mine H5ResFile" />
         <option value="package:com.jin10 普通事件" />
         <option value="package:com.jin10 20240220164304882800" />
         <option value="package:com.jin10 20240203001532125800" />
@@ -19,10 +23,6 @@
         <option value="package:mine MarketModel" />
         <option value="package:mine 耗时" />
         <option value="package:mine 触发下载品种列表" />
-        <option value="package:com.jin10 click: " />
-        <option value="package:com.jin10 start u" />
-        <option value="package:com.jin10 H5ResFile" />
-        <option value="getHttpResource" />
       </list>
     </option>
   </component>
