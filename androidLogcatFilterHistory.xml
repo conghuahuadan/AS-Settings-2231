@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine H5ResFile" />
+    <option name="mostRecentlyUsed" value="package:mine onPageFinished" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine onPageFinished" />
         <option value="package:mine H5ResFile" />
         <option value="package:com.andy.flutter_jin10_app 加载链接" />
         <option value="package:mine " />
@@ -22,7 +23,6 @@
         <option value="package:mine 关闭" />
         <option value="package:mine MarketModel" />
         <option value="package:mine 耗时" />
-        <option value="package:mine 触发下载品种列表" />
       </list>
     </option>
   </component>
