@@ -1,8 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine level:warn " />
+    <option name="mostRecentlyUsed" value="package:com.jin10 message:快讯事件 " />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.jin10 message:快讯事件 " />
+        <option value="package:com.jin10 tag:handlemsg  message:快讯事件 " />
+        <option value="package:com.jin10 tag:handlemsg  message:快讯事件 message:&quot;type&quot;:0 me" />
+        <option value="package:com.jin10 tag:handlemsg  message:快讯事件 message:快讯事件 " />
+        <option value="package:com.jin10 快讯事件" />
         <option value="package:mine level:warn " />
         <option value="package:mine onPageFinished" />
         <option value="package:mine H5ResFile" />
@@ -18,11 +23,6 @@
         <option value="package:mine  " />
         <option value="package:com.jin10 普通事件" />
         <option value="package:com.jin10 20240220164304882800" />
-        <option value="package:com.jin10 20240203001532125800" />
-        <option value="package:mine kline" />
-        <option value="package:mine 普通事件" />
-        <option value="package:mine 关闭" />
-        <option value="package:mine MarketModel" />
       </list>
     </option>
   </component>
