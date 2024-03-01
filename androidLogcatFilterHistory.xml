@@ -1,10 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.jin10 20240301153224084800" />
+    <option name="mostRecentlyUsed" value="package:com.jin10  &quot;测试data&quot;" />
     <option name="nonFavorites">
       <list>
-        <option value="package:com.jin10 20240301153224084800" />
+        <option value="package:com.jin10  &quot;测试data&quot;" />
+        <option value="package:com.jin10  &quot;tag&quot;" />
         <option value="package:com.jin10 " />
+        <option value="package:com.jin10 20240301153224084800" />
         <option value="package:com.jin10 快讯事件" />
         <option value="package:com.jin10 message:快讯事件 " />
         <option value="package:com.jin10 tag:handlemsg  message:快讯事件 " />
@@ -21,8 +23,6 @@
         <option value="package:com.jin10 level:warn " />
         <option value="package:com.jin10 notifyFlash:" />
         <option value="package:mine getResponse" />
-        <option value="package:mine  " />
-        <option value="package:com.jin10 普通事件" />
       </list>
     </option>
   </component>
