@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.andy.flutter_jin10_app wallhaven-l8vp7y" />
+    <option name="mostRecentlyUsed" value="package:com.jin10  main/experienceCards" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.jin10  main/experienceCards" />
+        <option value="package:com.jin10  openBetaStatus" />
+        <option value="package:com.jin10  klinu" />
         <option value="package:com.andy.flutter_jin10_app wallhaven-l8vp7y" />
         <option value="package:com.andy.flutter_jin10_app  程序入口" />
         <option value="package:com.andy.flutter_jin10_app  initializeApp" />
@@ -20,9 +23,6 @@
         <option value="package:com.jin10 tag:handlemsg  message:快讯事件 message:&quot;type&quot;:0 me" />
         <option value="package:com.jin10 tag:handlemsg  message:快讯事件 message:快讯事件 " />
         <option value="package:mine level:warn " />
-        <option value="package:mine onPageFinished" />
-        <option value="package:mine H5ResFile" />
-        <option value="package:com.andy.flutter_jin10_app 加载链接" />
       </list>
     </option>
   </component>
