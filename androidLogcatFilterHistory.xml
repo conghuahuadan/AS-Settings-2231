@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.jin10  main/experienceCards" />
+    <option name="mostRecentlyUsed" value="package:mine getSharePanel" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine getSharePanel" />
+        <option value="package:com.jin10  " />
         <option value="package:com.jin10  main/experienceCards" />
         <option value="package:com.jin10  openBetaStatus" />
         <option value="package:com.jin10  klinu" />
@@ -21,8 +23,6 @@
         <option value="package:com.jin10 message:快讯事件 " />
         <option value="package:com.jin10 tag:handlemsg  message:快讯事件 " />
         <option value="package:com.jin10 tag:handlemsg  message:快讯事件 message:&quot;type&quot;:0 me" />
-        <option value="package:com.jin10 tag:handlemsg  message:快讯事件 message:快讯事件 " />
-        <option value="package:mine level:warn " />
       </list>
     </option>
   </component>
