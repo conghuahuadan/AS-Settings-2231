@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:com.jin10 ad2/single_unread" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.jin10 ad2/single_unread" />
         <option value="package:mine " />
         <option value="package:mine onHeaderDataExpandClick" />
         <option value="package:mine open" />
@@ -21,7 +23,6 @@
         <option value="package:com.jin10  &quot;tag&quot;" />
         <option value="package:com.jin10 " />
         <option value="package:com.jin10 20240301153224084800" />
-        <option value="package:com.jin10 快讯事件" />
       </list>
     </option>
   </component>
