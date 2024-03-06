@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine open" />
+    <option name="mostRecentlyUsed" value="package:mine onHeaderDataExpandClick" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine onHeaderDataExpandClick" />
         <option value="package:mine open" />
         <option value="package:mine " />
         <option value="package:mine getSharePanel" />
@@ -22,7 +23,6 @@
         <option value="package:com.jin10 " />
         <option value="package:com.jin10 20240301153224084800" />
         <option value="package:com.jin10 快讯事件" />
-        <option value="package:com.jin10 message:快讯事件 " />
       </list>
     </option>
   </component>
