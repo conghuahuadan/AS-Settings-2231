@@ -1,8 +1,19 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine  defaultRouteName" />
+    <option name="mostRecentlyUsed" value="生命周期监听" />
     <option name="nonFavorites">
       <list>
+        <option value="生命周期监听" />
+        <option value="app_state" />
+        <option value="---" />
+        <option value="windowsPage" />
+        <option value="currentPage" />
+        <option value="didPopRoute" />
+        <option value="onResumed" />
+        <option value="onPaused" />
+        <option value="BaseWindowsPageState" />
+        <option value="didChangeAppLifecycleState" />
+        <option value="state" />
         <option value="package:mine MOOC- init route is" />
         <option value="package:mine  defaultRouteName" />
         <option value="package:mine  currentPage" />
@@ -12,17 +23,6 @@
         <option value="package:mine " />
         <option value="package:mine onHeaderDataExpandClick" />
         <option value="package:mine open" />
-        <option value="package:mine getSharePanel" />
-        <option value="package:com.jin10  " />
-        <option value="package:com.jin10  main/experienceCards" />
-        <option value="package:com.jin10  openBetaStatus" />
-        <option value="package:com.jin10  klinu" />
-        <option value="package:com.andy.flutter_jin10_app wallhaven-l8vp7y" />
-        <option value="package:com.andy.flutter_jin10_app  程序入口" />
-        <option value="package:com.andy.flutter_jin10_app  initializeApp" />
-        <option value="package:com.andy.flutter_jin10_app  https://app-server.jin10.com" />
-        <option value="package:com.jin10 有问题" />
-        <option value="package:com.jin10 dataId" />
       </list>
     </option>
   </component>
