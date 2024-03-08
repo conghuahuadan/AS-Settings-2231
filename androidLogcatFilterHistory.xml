@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="生命周期监听" />
+    <option name="mostRecentlyUsed" value="AppLifecycleState" />
     <option name="nonFavorites">
       <list>
+        <option value="AppLifecycleState" />
+        <option value="WindowsPage" />
+        <option value="package:mine " />
         <option value="生命周期监听" />
         <option value="addPostFrameCallback" />
         <option value="app_state" />
@@ -20,9 +23,6 @@
         <option value="package:mine  currentPage" />
         <option value="package:com.andy.flutter_jin10_app  event" />
         <option value="package:com.andy.flutter_jin10_app  EventBusManager" />
-        <option value="package:com.jin10 ad2/single_unread" />
-        <option value="package:mine " />
-        <option value="package:mine onHeaderDataExpandClick" />
       </list>
     </option>
   </component>
