@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="settings.name" />
+    <option name="mostRecentlyUsed" value="ThemeProvider" />
     <option name="nonFavorites">
       <list>
+        <option value="ThemeProvider" />
         <option value="settings.name" />
         <option value="package:com.andy.flutter_jin10_app defaultRouteName" />
         <option value="package:com.andy.flutter_jin10_app " />
@@ -22,7 +23,6 @@
         <option value="BaseWindowsPageState" />
         <option value="didChangeAppLifecycleState" />
         <option value="state" />
-        <option value="package:mine MOOC- init route is" />
       </list>
     </option>
   </component>
