@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="ThemeProvider" />
+    <option name="mostRecentlyUsed" value="package:mine  TvTabFragment" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine  TvTabFragment" />
         <option value="ThemeProvider" />
         <option value="settings.name" />
         <option value="package:com.andy.flutter_jin10_app defaultRouteName" />
@@ -22,7 +23,6 @@
         <option value="onPaused" />
         <option value="BaseWindowsPageState" />
         <option value="didChangeAppLifecycleState" />
-        <option value="state" />
       </list>
     </option>
   </component>
