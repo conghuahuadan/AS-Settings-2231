@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="defaultRouteName" />
+    <option name="mostRecentlyUsed" value="package:com.andy.flutter_jin10_app defaultRouteName" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.andy.flutter_jin10_app defaultRouteName" />
+        <option value="package:com.andy.flutter_jin10_app " />
         <option value="defaultRouteName" />
         <option value="AppLifecycleState" />
         <option value="WindowsPage" />
@@ -21,8 +23,6 @@
         <option value="state" />
         <option value="package:mine MOOC- init route is" />
         <option value="package:mine  defaultRouteName" />
-        <option value="package:mine  currentPage" />
-        <option value="package:com.andy.flutter_jin10_app  event" />
       </list>
     </option>
   </component>
