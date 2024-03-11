@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="AppLifecycleState" />
+    <option name="mostRecentlyUsed" value="defaultRouteName" />
     <option name="nonFavorites">
       <list>
+        <option value="defaultRouteName" />
         <option value="AppLifecycleState" />
         <option value="WindowsPage" />
         <option value="package:mine " />
@@ -22,7 +23,6 @@
         <option value="package:mine  defaultRouteName" />
         <option value="package:mine  currentPage" />
         <option value="package:com.andy.flutter_jin10_app  event" />
-        <option value="package:com.andy.flutter_jin10_app  EventBusManager" />
       </list>
     </option>
   </component>
