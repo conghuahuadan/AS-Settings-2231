@@ -1,10 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.jin10 getResponse" />
+    <option name="mostRecentlyUsed" value="pushFlutterRoute" />
     <option name="nonFavorites">
       <list>
-        <option value="package:com.jin10 getResponse" />
-        <option value="package:com.jin10 level:warn " />
+        <option value="pushFlutterRoute" />
+        <option value="package:mine pushFlutterRoute" />
       </list>
     </option>
   </component>
