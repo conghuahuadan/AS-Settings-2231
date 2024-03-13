@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine  TvTabFragment" />
+    <option name="mostRecentlyUsed" value="package:mine 普通事件" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine 普通事件" />
+        <option value="package:mine level:info  " />
         <option value="package:mine  TvTabFragment" />
         <option value="ThemeProvider" />
         <option value="settings.name" />
@@ -21,8 +23,6 @@
         <option value="didPopRoute" />
         <option value="onResumed" />
         <option value="onPaused" />
-        <option value="BaseWindowsPageState" />
-        <option value="didChangeAppLifecycleState" />
       </list>
     </option>
   </component>
