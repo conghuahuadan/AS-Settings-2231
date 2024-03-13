@@ -1,8 +1,8 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.jin10 数量" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:com.jin10 数量" />
         <option value="package:com.jin10 普通事件" />
         <option value="package:mine 普通事件" />
@@ -15,7 +15,6 @@
         <option value="defaultRouteName" />
         <option value="AppLifecycleState" />
         <option value="WindowsPage" />
-        <option value="package:mine " />
         <option value="生命周期监听" />
         <option value="addPostFrameCallback" />
         <option value="app_state" />
