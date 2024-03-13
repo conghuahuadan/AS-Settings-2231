@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine layoutParams.y" />
+    <option name="mostRecentlyUsed" value="package:mine onTouchEvent" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine onTouchEvent" />
         <option value="package:mine layoutParams.y" />
         <option value="package:mine level:info outsideLp.y " />
         <option value="package:mine level:warn " />
@@ -22,7 +23,6 @@
         <option value="windowsPage" />
         <option value="currentPage" />
         <option value="didPopRoute" />
-        <option value="onResumed" />
       </list>
     </option>
   </component>
