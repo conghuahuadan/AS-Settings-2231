@@ -2,6 +2,7 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="nonFavorites">
       <list>
+        <option value="package:com.jin10.test" />
         <option value="package:mine " />
         <option value="package:com.jin10 数量" />
         <option value="package:com.jin10 普通事件" />
@@ -21,7 +22,6 @@
         <option value="---" />
         <option value="windowsPage" />
         <option value="currentPage" />
-        <option value="didPopRoute" />
       </list>
     </option>
   </component>
