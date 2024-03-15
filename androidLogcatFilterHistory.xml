@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine level:warn " />
+    <option name="mostRecentlyUsed" value="connectGateway" />
     <option name="nonFavorites">
       <list>
+        <option value="connectGateway" />
         <option value="package:mine level:warn " />
         <option value="package:mine " />
         <option value="package:mine 普通事件" />
@@ -22,7 +23,6 @@
         <option value="addPostFrameCallback" />
         <option value="app_state" />
         <option value="---" />
-        <option value="windowsPage" />
       </list>
     </option>
   </component>
