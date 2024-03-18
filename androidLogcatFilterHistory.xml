@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.jin10 data.size" />
+    <option name="mostRecentlyUsed" value="package:com.jin10 codes: " />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.jin10 codes: " />
         <option value="package:com.jin10 data.size" />
         <option value="connectGateway" />
         <option value="package:mine level:warn " />
@@ -22,7 +23,6 @@
         <option value="WindowsPage" />
         <option value="生命周期监听" />
         <option value="addPostFrameCallback" />
-        <option value="app_state" />
       </list>
     </option>
   </component>
