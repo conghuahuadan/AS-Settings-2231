@@ -1,28 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine onTouchEvent" />
+    <option name="mostRecentlyUsed" value="package:mine updateTopTopicList" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine onTouchEvent" />
-        <option value="package:mine layoutParams.y" />
-        <option value="package:mine level:info outsideLp.y " />
+        <option value="package:mine updateTopTopicList" />
+        <option value="package:mine showTopTopicList" />
+        <option value="package:mine show" />
+        <option value="package:mine level:info  " />
         <option value="package:mine level:warn " />
-        <option value="package:mine  TvTabFragment" />
-        <option value="ThemeProvider" />
-        <option value="settings.name" />
-        <option value="package:com.andy.flutter_jin10_app defaultRouteName" />
-        <option value="package:com.andy.flutter_jin10_app " />
-        <option value="defaultRouteName" />
-        <option value="AppLifecycleState" />
-        <option value="WindowsPage" />
+        <option value="package:mine onTouchEvent" />
         <option value="package:mine " />
-        <option value="生命周期监听" />
-        <option value="addPostFrameCallback" />
-        <option value="app_state" />
-        <option value="---" />
-        <option value="windowsPage" />
-        <option value="currentPage" />
-        <option value="didPopRoute" />
       </list>
     </option>
   </component>
