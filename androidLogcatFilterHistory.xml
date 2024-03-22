@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine boost" />
+    <option name="mostRecentlyUsed" value="package:com.andy.flutter_jin10_app" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.andy.flutter_jin10_app" />
         <option value="package:mine boost" />
         <option value="package:com.jin10 " />
         <option value="tab" />
@@ -22,7 +23,6 @@
         <option value="settings.name" />
         <option value="package:com.andy.flutter_jin10_app defaultRouteName" />
         <option value="package:com.andy.flutter_jin10_app " />
-        <option value="defaultRouteName" />
       </list>
     </option>
   </component>
