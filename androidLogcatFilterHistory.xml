@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine level:info 普通事件" />
+    <option name="mostRecentlyUsed" value="package:com.andy.flutter_jin10_app listEquals" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.andy.flutter_jin10_app listEquals" />
         <option value="package:mine level:info 普通事件" />
         <option value="package:mine level:info  " />
         <option value="package:com.jin10 普通事件" />
@@ -22,7 +23,6 @@
         <option value="package:mine  TvTabFragment" />
         <option value="ThemeProvider" />
         <option value="settings.name" />
-        <option value="package:com.andy.flutter_jin10_app defaultRouteName" />
       </list>
     </option>
   </component>
