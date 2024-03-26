@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.andy.flutter_jin10_app dy" />
+    <option name="mostRecentlyUsed" value="package:com.andy.flutter_jin10_app symbolist" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.andy.flutter_jin10_app symbolist" />
+        <option value="package:com.andy.flutter_jin10_app getMarketList" />
         <option value="package:com.andy.flutter_jin10_app dy" />
         <option value="package:com.andy.flutter_jin10_app animationController" />
         <option value="package:com.andy.flutter_jin10_app buildDrawerWidget" />
@@ -21,8 +23,6 @@
         <option value="package:com.jin10 codes: " />
         <option value="package:com.jin10 data.size" />
         <option value="connectGateway" />
-        <option value="package:mine level:warn " />
-        <option value="package:mine 普通事件" />
       </list>
     </option>
   </component>
