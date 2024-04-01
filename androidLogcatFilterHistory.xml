@@ -1,17 +1,18 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine 服务器" />
+    <option name="mostRecentlyUsed" value="package:mine onCreate r:" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine 服务器" />
-        <option value="package:mine 重连" />
-        <option value="package:mine updateTopTopicList" />
-        <option value="package:mine showTopTopicList" />
-        <option value="package:mine show" />
-        <option value="package:mine level:info  " />
-        <option value="package:mine level:warn " />
-        <option value="package:mine onTouchEvent" />
+        <option value="package:mine onCreate r:" />
         <option value="package:mine " />
+        <option value="package:mine subscribeAllSymbols" />
+        <option value="package:mine 1a1" />
+        <option value="package:mine 普通事件" />
+        <option value="package:mine  " />
+        <option value="package:mine level:info  普通事件" />
+        <option value="package:mine level:info  " />
+        <option value="package:mine level:info  endHeight" />
+        <option value="package:mine 服务器" />
       </list>
     </option>
   </component>
