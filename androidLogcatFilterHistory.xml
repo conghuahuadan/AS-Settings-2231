@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.jin10 " />
+    <option name="mostRecentlyUsed" value="package:com.jin10 saveKlineHistoryFile" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.jin10 saveKlineHistoryFile" />
+        <option value="strSaveName" />
+        <option value="getHistoryFileName" />
         <option value="package:com.jin10 " />
         <option value="package:com.jin10 onGetHistoryFile" />
         <option value="package:com.jin10 loginToken" />
@@ -20,9 +23,6 @@
         <option value="package:com.andy.flutter_jin10_app buildDrawerWidget" />
         <option value="package:com.andy.flutter_jin10_app LayoutBuilder" />
         <option value="package:com.andy.flutter_jin10_app " />
-        <option value="package:com.andy.flutter_jin10_app listEquals" />
-        <option value="package:mine level:info  " />
-        <option value="package:com.jin10 普通事件" />
       </list>
     </option>
   </component>
