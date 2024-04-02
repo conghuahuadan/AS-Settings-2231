@@ -3,11 +3,11 @@
     <option name="mostRecentlyUsed" value="package:com.jin10 level:warn " />
     <option name="nonFavorites">
       <list>
+        <option value="strSaveName" />
         <option value="package:com.jin10 level:warn " />
         <option value="package:mine  saveKlineHistoryFile" />
         <option value="package:mine level:warn " />
         <option value="package:com.jin10 saveKlineHistoryFile" />
-        <option value="strSaveName" />
         <option value="getHistoryFileName" />
         <option value="package:com.jin10 " />
         <option value="package:com.jin10 onGetHistoryFile" />
