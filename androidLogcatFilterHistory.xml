@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine level:warn " />
+    <option name="mostRecentlyUsed" value="package:mine  saveKlineHistoryFile" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine  saveKlineHistoryFile" />
         <option value="package:mine level:warn " />
         <option value="package:com.jin10 saveKlineHistoryFile" />
         <option value="strSaveName" />
@@ -22,7 +23,6 @@
         <option value="package:com.andy.flutter_jin10_app dy" />
         <option value="package:com.andy.flutter_jin10_app animationController" />
         <option value="package:com.andy.flutter_jin10_app buildDrawerWidget" />
-        <option value="package:com.andy.flutter_jin10_app LayoutBuilder" />
       </list>
     </option>
   </component>
