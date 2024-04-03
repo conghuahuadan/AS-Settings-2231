@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.jin10 requestSendLogin" />
+    <option name="mostRecentlyUsed" value="package:com.jin10 服务器" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.jin10 服务器" />
+        <option value="package:com.jin10 " />
         <option value="package:com.jin10 requestSendLogin" />
         <option value="package:com.jin10 handleQuoteLogin" />
         <option value="package:com.jin10 iCount" />
@@ -12,7 +14,6 @@
         <option value="package:mine level:warn " />
         <option value="package:com.jin10 saveKlineHistoryFile" />
         <option value="getHistoryFileName" />
-        <option value="package:com.jin10 " />
         <option value="package:com.jin10 onGetHistoryFile" />
         <option value="package:com.jin10 loginToken" />
         <option value="package:mine  " />
@@ -22,7 +23,6 @@
         <option value="package:mine level:info 普通事件" />
         <option value="package:com.andy.flutter_jin10_app handleCodeTradeState" />
         <option value="package:com.andy.flutter_jin10_app handleReqChangeStockKline" />
-        <option value="package:com.andy.flutter_jin10_app symbolist" />
       </list>
     </option>
   </component>
