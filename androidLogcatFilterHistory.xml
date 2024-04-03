@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.jin10 handleQuoteLogin" />
+    <option name="mostRecentlyUsed" value="package:com.jin10 requestSendLogin" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.jin10 requestSendLogin" />
         <option value="package:com.jin10 handleQuoteLogin" />
         <option value="package:com.jin10 iCount" />
         <option value="strSaveName" />
@@ -22,7 +23,6 @@
         <option value="package:com.andy.flutter_jin10_app handleCodeTradeState" />
         <option value="package:com.andy.flutter_jin10_app handleReqChangeStockKline" />
         <option value="package:com.andy.flutter_jin10_app symbolist" />
-        <option value="package:com.andy.flutter_jin10_app getMarketList" />
       </list>
     </option>
   </component>
