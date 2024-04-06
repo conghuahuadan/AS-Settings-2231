@@ -1,10 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine onCreate r:" />
+    <option name="mostRecentlyUsed" value="package:mine level:warn " />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine onCreate r:" />
+        <option value="package:mine level:warn " />
+        <option value="package:mine  setUnReadList" />
+        <option value="package:mine  level:warn " />
+        <option value="package:mine  https://3318fc142ea545eab931e22a61ec6e5c.z3c.jin10" />
         <option value="package:mine " />
+        <option value="package:mine onCreate r:" />
         <option value="package:mine subscribeAllSymbols" />
         <option value="package:mine 1a1" />
         <option value="package:mine 普通事件" />
