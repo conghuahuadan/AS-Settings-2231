@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.andy.androidxdemo :" />
+    <option name="mostRecentlyUsed" value="package:mine level:info " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:info " />
+        <option value="package:mine " />
         <option value="package:com.andy.androidxdemo :" />
         <option value="package:com.jin10 " />
         <option value="strCachePath" />
@@ -21,8 +23,6 @@
         <option value="package:com.jin10 saveKlineHistoryFile" />
         <option value="getHistoryFileName" />
         <option value="package:com.jin10 onGetHistoryFile" />
-        <option value="package:com.jin10 loginToken" />
-        <option value="package:mine  " />
       </list>
     </option>
   </component>
