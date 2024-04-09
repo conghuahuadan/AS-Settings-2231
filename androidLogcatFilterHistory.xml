@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine K线文件" />
+    <option name="mostRecentlyUsed" value="package:mine  " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine  " />
         <option value="package:mine K线文件" />
         <option value="package:mine " />
         <option value="package:mine 写入K线文件失败" />
@@ -22,7 +23,6 @@
         <option value="package:com.jin10 handleQuoteLogin" />
         <option value="package:com.jin10 iCount" />
         <option value="strSaveName" />
-        <option value="package:com.jin10 level:warn " />
       </list>
     </option>
   </component>
