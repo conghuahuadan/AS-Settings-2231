@@ -1,13 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine level:info " />
+    <option name="mostRecentlyUsed" value="package:mine K线文件" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine K线文件" />
+        <option value="package:mine " />
+        <option value="package:mine 写入K线文件失败" />
         <option value="package:mine level:info " />
         <option value="package:com.andy.flutter_jin10_app onKlineTrendCallback" />
         <option value="package:com.andy.flutter_jin10_app symbolist" />
         <option value="package:mine level:info 普通事件" />
-        <option value="package:mine " />
         <option value="package:com.andy.androidxdemo :" />
         <option value="package:com.jin10 " />
         <option value="strCachePath" />
@@ -21,8 +23,6 @@
         <option value="package:com.jin10 iCount" />
         <option value="strSaveName" />
         <option value="package:com.jin10 level:warn " />
-        <option value="package:mine  saveKlineHistoryFile" />
-        <option value="package:mine level:warn " />
       </list>
     </option>
   </component>
