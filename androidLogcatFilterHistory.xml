@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine  " />
+    <option name="mostRecentlyUsed" value="package:com.andy.flutter_jin10_app " />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.andy.flutter_jin10_app " />
         <option value="package:com.jin10 " />
         <option value="package:mine  " />
         <option value="package:mine K线文件" />
@@ -22,7 +23,6 @@
         <option value="package:com.jin10 requestSendLogin" />
         <option value="package:com.jin10 handleQuoteLogin" />
         <option value="package:com.jin10 iCount" />
-        <option value="strSaveName" />
       </list>
     </option>
   </component>
