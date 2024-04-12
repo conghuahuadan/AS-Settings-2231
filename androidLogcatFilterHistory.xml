@@ -1,8 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.jin10 " />
+    <option name="mostRecentlyUsed" value="package:com.jin10 复制内容:" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.jin10 复制内容:" />
+        <option value="package:com.jin10 pos:" />
+        <option value="package:com.jin10 复制13:" />
+        <option value="package:com.jin10 复制: " />
+        <option value="package:com.jin10" />
         <option value="package:com.jin10 " />
         <option value="package:com.jin10 普通" />
         <option value="package:com.jin10 普通事件" />
@@ -18,11 +23,6 @@
         <option value="package:mine level:info " />
         <option value="package:com.andy.flutter_jin10_app onKlineTrendCallback" />
         <option value="package:com.andy.flutter_jin10_app symbolist" />
-        <option value="package:mine level:info 普通事件" />
-        <option value="package:com.andy.androidxdemo :" />
-        <option value="strCachePath" />
-        <option value="package:mine saveKlineHistoryFile" />
-        <option value="package:mine onGetHistoryFile" />
       </list>
     </option>
   </component>
