@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.jin10" />
+    <option name="mostRecentlyUsed" value="package:mine flu" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine flu" />
         <option value="package:com.jin10" />
         <option value="package:com.jin10 复制内容:" />
         <option value="package:com.jin10 pos:" />
@@ -22,7 +23,6 @@
         <option value="package:mine 写入K线文件失败" />
         <option value="package:mine level:info " />
         <option value="package:com.andy.flutter_jin10_app onKlineTrendCallback" />
-        <option value="package:com.andy.flutter_jin10_app symbolist" />
       </list>
     </option>
   </component>
