@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine 普通事件" />
+    <option name="mostRecentlyUsed" value="currentState" />
     <option name="nonFavorites">
       <list>
+        <option value="currentState" />
         <option value="package:mine 普通事件" />
         <option value="package:com.jin10.android_demo main" />
         <option value="package:com.jin10.android_demo defaultRouteName" />
@@ -22,7 +23,6 @@
         <option value="package:mine get_tag_list" />
         <option value="package:mine level:warn " />
         <option value="package:com.andy.flutter_jin10_app " />
-        <option value="package:mine  " />
       </list>
     </option>
   </component>
