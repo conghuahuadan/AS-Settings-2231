@@ -1,8 +1,8 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="currentState" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="currentState" />
         <option value="package:mine 普通事件" />
         <option value="package:com.jin10.android_demo main" />
@@ -22,7 +22,6 @@
         <option value="package:mine K线文件" />
         <option value="package:mine get_tag_list" />
         <option value="package:mine level:warn " />
-        <option value="package:com.andy.flutter_jin10_app " />
       </list>
     </option>
   </component>
