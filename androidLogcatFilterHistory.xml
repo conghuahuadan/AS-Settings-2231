@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine onDestroy" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine onDestroy" />
         <option value="package:mine " />
         <option value="currentState" />
         <option value="package:mine 普通事件" />
@@ -21,7 +23,6 @@
         <option value="package:com.jin10 containsBounds222" />
         <option value="package:mine K线文件" />
         <option value="package:mine get_tag_list" />
-        <option value="package:mine level:warn " />
       </list>
     </option>
   </component>
