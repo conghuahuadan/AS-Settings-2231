@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine onDestroy" />
+    <option name="mostRecentlyUsed" value="package:com.jin10.android_demo Flutter" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.jin10.android_demo Flutter" />
+        <option value="package:com.jin10.android_demo flutter" />
+        <option value="package:com.jin10.android_demo " />
         <option value="package:mine onDestroy" />
         <option value="package:mine " />
         <option value="currentState" />
@@ -20,9 +23,6 @@
         <option value="package:com.jin10 " />
         <option value="package:com.jin10 普通" />
         <option value="package:com.jin10 普通事件" />
-        <option value="package:com.jin10 containsBounds222" />
-        <option value="package:mine K线文件" />
-        <option value="package:mine get_tag_list" />
       </list>
     </option>
   </component>
