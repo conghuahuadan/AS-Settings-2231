@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine level:warn " />
+    <option name="mostRecentlyUsed" value="package:com.jin10 order-book" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.jin10 order-book" />
         <option value="package:mine level:warn " />
         <option value="package:com.jin10 " />
         <option value="package:mine " />
@@ -22,7 +23,6 @@
         <option value="package:com.jin10 复制内容:" />
         <option value="package:com.jin10 pos:" />
         <option value="package:com.jin10 复制13:" />
-        <option value="package:com.jin10 复制: " />
       </list>
     </option>
   </component>
