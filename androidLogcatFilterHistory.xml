@@ -1,13 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.jin10 get_flash_details" />
+    <option name="mostRecentlyUsed" value="package:mine PrimaryClip" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine PrimaryClip" />
+        <option value="package:mine " />
         <option value="package:com.jin10 get_flash_details" />
         <option value="package:com.jin10 " />
         <option value="package:com.jin10 order-book" />
         <option value="package:mine level:warn " />
-        <option value="package:mine " />
         <option value="package:com.jin10 普通" />
         <option value="package:com.jin10.android_demo Flutter" />
         <option value="package:com.jin10.android_demo flutter" />
@@ -22,7 +23,6 @@
         <option value="package:mine flu" />
         <option value="package:com.jin10" />
         <option value="package:com.jin10 复制内容:" />
-        <option value="package:com.jin10 pos:" />
       </list>
     </option>
   </component>
