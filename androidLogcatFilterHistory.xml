@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine firstKlineQuote" />
+    <option name="mostRecentlyUsed" value="package:mine firstKline" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine firstKline" />
         <option value="package:mine firstKlineQuote" />
         <option value="package:mine tmp" />
         <option value="package:mine setAdvQuote" />
@@ -22,7 +23,6 @@
         <option value="currentState" />
         <option value="package:mine 普通事件" />
         <option value="package:com.jin10.android_demo main" />
-        <option value="package:com.jin10.android_demo defaultRouteName" />
       </list>
     </option>
   </component>
