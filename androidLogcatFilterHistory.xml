@@ -1,11 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine PrimaryClip" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine PrimaryClip" />
         <option value="package:mine label" />
-        <option value="package:mine " />
         <option value="package:com.jin10 get_flash_details" />
         <option value="package:com.jin10 " />
         <option value="package:com.jin10 order-book" />
