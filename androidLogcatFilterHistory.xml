@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine codes" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine codes" />
         <option value="package:mine " />
         <option value="package:mine PrimaryClip" />
         <option value="package:mine label" />
@@ -21,7 +23,6 @@
         <option value="package:mine name" />
         <option value="package:mine defaultRouteName" />
         <option value="package:mine flu" />
-        <option value="package:com.jin10" />
       </list>
     </option>
   </component>
