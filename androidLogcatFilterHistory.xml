@@ -1,7 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:com.jin10 openWebview" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.jin10 openWebview" />
+        <option value="package:com.jin10 运行web" />
         <option value="package:mine " />
         <option value="package:mine onGlobalLayout" />
         <option value="package:mine onPageScrolled" />
@@ -20,8 +23,6 @@
         <option value="package:com.jin10.android_demo Flutter" />
         <option value="package:com.jin10.android_demo flutter" />
         <option value="package:com.jin10.android_demo " />
-        <option value="package:mine onDestroy" />
-        <option value="currentState" />
       </list>
     </option>
   </component>
