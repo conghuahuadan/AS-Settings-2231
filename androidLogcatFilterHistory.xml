@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine onPageScrolled" />
+    <option name="mostRecentlyUsed" value="package:mine onGlobalLayout" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine onGlobalLayout" />
         <option value="package:mine onPageScrolled" />
         <option value="package:mine firstKline" />
         <option value="package:mine firstKlineQuote" />
@@ -22,7 +23,6 @@
         <option value="package:com.jin10.android_demo " />
         <option value="package:mine onDestroy" />
         <option value="currentState" />
-        <option value="package:mine 普通事件" />
       </list>
     </option>
   </component>
