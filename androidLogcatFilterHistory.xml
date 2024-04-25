@@ -1,8 +1,8 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine onGlobalLayout" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine onGlobalLayout" />
         <option value="package:mine onPageScrolled" />
         <option value="package:mine firstKline" />
@@ -10,7 +10,6 @@
         <option value="package:mine tmp" />
         <option value="package:mine setAdvQuote" />
         <option value="package:mine codes" />
-        <option value="package:mine " />
         <option value="package:mine PrimaryClip" />
         <option value="package:mine label" />
         <option value="package:com.jin10 get_flash_details" />
