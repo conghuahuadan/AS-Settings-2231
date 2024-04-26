@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine nightMode" />
+    <option name="mostRecentlyUsed" value="package:mine eval" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine eval" />
         <option value="package:mine nightMode" />
         <option value="package:mine onConfigurationChanged" />
         <option value="package:mine level:info convert" />
@@ -22,7 +23,6 @@
         <option value="package:mine setAdvQuote" />
         <option value="package:mine codes" />
         <option value="package:mine PrimaryClip" />
-        <option value="package:mine label" />
       </list>
     </option>
   </component>
