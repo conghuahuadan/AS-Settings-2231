@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine level:info coverId" />
+    <option name="mostRecentlyUsed" value="package:com.jin10 普通事件" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.jin10 普通事件" />
+        <option value="package:com.jin10 " />
         <option value="package:mine level:info coverId" />
         <option value="package:mine level:warn " />
         <option value="package:com.jin10 openWebview" />
@@ -18,11 +20,9 @@
         <option value="package:mine PrimaryClip" />
         <option value="package:mine label" />
         <option value="package:com.jin10 get_flash_details" />
-        <option value="package:com.jin10 " />
         <option value="package:com.jin10 order-book" />
         <option value="package:com.jin10 普通" />
         <option value="package:com.jin10.android_demo Flutter" />
-        <option value="package:com.jin10.android_demo flutter" />
       </list>
     </option>
   </component>
