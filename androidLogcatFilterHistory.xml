@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine eval" />
+    <option name="mostRecentlyUsed" value="package:mine level:info 加载链接" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:info 加载链接" />
+        <option value="package:mine realUrl" />
         <option value="package:mine eval" />
         <option value="package:mine nightMode" />
         <option value="package:mine onConfigurationChanged" />
@@ -21,8 +23,6 @@
         <option value="package:mine firstKlineQuote" />
         <option value="package:mine tmp" />
         <option value="package:mine setAdvQuote" />
-        <option value="package:mine codes" />
-        <option value="package:mine PrimaryClip" />
       </list>
     </option>
   </component>
