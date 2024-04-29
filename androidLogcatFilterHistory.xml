@@ -1,9 +1,28 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.jin10 " />
+    <option name="mostRecentlyUsed" value="package:mine level:info theme" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:info theme" />
+        <option value="package:mine level:info 加载链接" />
+        <option value="package:mine realUrl" />
+        <option value="package:mine eval" />
+        <option value="package:mine nightMode" />
+        <option value="package:mine onConfigurationChanged" />
+        <option value="package:mine level:info convert" />
+        <option value="package:mine level:info mScrollView" />
+        <option value="package:com.jin10 普通事件" />
         <option value="package:com.jin10 " />
+        <option value="package:mine level:info coverId" />
+        <option value="package:mine level:warn " />
+        <option value="package:com.jin10 openWebview" />
+        <option value="package:com.jin10 运行web" />
+        <option value="package:mine " />
+        <option value="package:mine onGlobalLayout" />
+        <option value="package:mine onPageScrolled" />
+        <option value="package:mine firstKline" />
+        <option value="package:mine firstKlineQuote" />
+        <option value="package:mine tmp" />
       </list>
     </option>
   </component>
