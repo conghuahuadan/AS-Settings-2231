@@ -1,10 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.jin10 articles/score " />
+    <option name="mostRecentlyUsed" value="package:com.jin10 score" />
     <option name="nonFavorites">
       <list>
-        <option value="package:com.jin10 articles/score " />
+        <option value="package:com.jin10 score" />
+        <option value="package:com.jin10 sc" />
         <option value="package:com.jin10 " />
+        <option value="package:com.jin10 articles/score " />
         <option value="package:com.jin10 FlashTopFloatLayout" />
         <option value="package:mine flashMenusKey" />
         <option value="package:mine level:warn " />
@@ -21,8 +23,6 @@
         <option value="package:mine level:info coverId" />
         <option value="package:com.jin10 openWebview" />
         <option value="package:com.jin10 运行web" />
-        <option value="package:mine " />
-        <option value="package:mine onGlobalLayout" />
       </list>
     </option>
   </component>
