@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.jin10 score" />
+    <option name="mostRecentlyUsed" value="package:com.jin10 api/articles/like/getArticleLikeNumber" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.jin10 api/articles/like/getArticleLikeNumber" />
         <option value="package:com.jin10 score" />
         <option value="package:com.jin10 sc" />
         <option value="package:com.jin10 " />
@@ -22,7 +23,6 @@
         <option value="package:com.jin10 普通事件" />
         <option value="package:mine level:info coverId" />
         <option value="package:com.jin10 openWebview" />
-        <option value="package:com.jin10 运行web" />
       </list>
     </option>
   </component>
