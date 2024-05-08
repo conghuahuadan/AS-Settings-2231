@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.jin10 " />
+    <option name="mostRecentlyUsed" value="package:com.jin10 普通事件" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.jin10 普通事件" />
         <option value="package:com.jin10 " />
         <option value="package:com.jin10 addArticleLike" />
         <option value="package:com.jin10 api/articles/like/getArticleLikeNumber" />
@@ -21,7 +22,6 @@
         <option value="package:mine onConfigurationChanged" />
         <option value="package:mine level:info convert" />
         <option value="package:mine level:info mScrollView" />
-        <option value="package:com.jin10 普通事件" />
         <option value="package:mine level:info coverId" />
       </list>
     </option>
