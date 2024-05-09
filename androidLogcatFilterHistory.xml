@@ -1,10 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.jin10 onMessage" />
+    <option name="mostRecentlyUsed" value="package:com.jin10 codes" />
     <option name="nonFavorites">
       <list>
-        <option value="package:com.jin10 onMessage" />
+        <option value="package:com.jin10 codes" />
         <option value="package:com.jin10 " />
+        <option value="package:com.jin10 onMessage" />
         <option value="package:com.jin10 普通事件" />
         <option value="package:com.jin10 addArticleLike" />
         <option value="package:com.jin10 api/articles/like/getArticleLikeNumber" />
@@ -22,7 +23,6 @@
         <option value="package:mine nightMode" />
         <option value="package:mine onConfigurationChanged" />
         <option value="package:mine level:info convert" />
-        <option value="package:mine level:info mScrollView" />
       </list>
     </option>
   </component>
