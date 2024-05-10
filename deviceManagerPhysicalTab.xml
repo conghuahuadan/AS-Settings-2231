@@ -45,6 +45,17 @@
         <target value="Android 13.0" />
         <api value="androidversion:33:null:3:true" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="ad8aca76" />
+          </Key>
+        </key>
+        <name value="Xiaomi M2101K9C" />
+        <target value="Android 13.0" />
+        <api value="androidversion:33:null:3:true" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
