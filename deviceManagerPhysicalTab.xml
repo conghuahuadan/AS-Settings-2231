@@ -56,6 +56,17 @@
         <target value="Android 13.0" />
         <api value="androidversion:33:null:3:true" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="4113d0b6" />
+          </Key>
+        </key>
+        <name value="Xiaomi 23046RP50C" />
+        <target value="Android 13.0" />
+        <api value="androidversion:33:null:3:true" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
