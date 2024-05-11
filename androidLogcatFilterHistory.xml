@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="buildContentLayout" />
+    <option name="mostRecentlyUsed" value="LoadMoreFooter" />
     <option name="nonFavorites">
       <list>
+        <option value="LoadMoreFooter" />
         <option value="buildContentLayout" />
         <option value="package:com.jin10 写入K线文件" />
         <option value="package:com.jin10 写入K线文件开始" />
@@ -22,7 +23,6 @@
         <option value="package:mine level:info theme" />
         <option value="package:mine level:info 加载链接" />
         <option value="package:mine realUrl" />
-        <option value="package:mine eval" />
       </list>
     </option>
   </component>
