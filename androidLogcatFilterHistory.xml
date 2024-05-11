@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="TestPage" />
+    <option name="mostRecentlyUsed" value="package:mine route:" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine route:" />
+        <option value="package:mine defaultRouteName" />
         <option value="TestPage" />
         <option value="color" />
         <option value="LoadMoreFooter" />
@@ -21,8 +23,6 @@
         <option value="package:com.jin10 FlashTopFloatLayout" />
         <option value="package:mine flashMenusKey" />
         <option value="package:mine level:warn " />
-        <option value="package:mine 重新拉去必要数据" />
-        <option value="package:mine level:info theme" />
       </list>
     </option>
   </component>
