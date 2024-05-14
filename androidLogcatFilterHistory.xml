@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine /market/gethots" />
+    <option name="mostRecentlyUsed" value="package:mine /list" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine /list" />
         <option value="package:mine /market/gethots" />
         <option value="package:com.jin10 level:info 耗时 " />
         <option value="package:com.jin10 level:warn " />
@@ -22,7 +23,6 @@
         <option value="package:com.jin10 普通事件" />
         <option value="package:com.jin10 addArticleLike" />
         <option value="package:com.jin10 api/articles/like/getArticleLikeNumber" />
-        <option value="package:com.jin10 score" />
       </list>
     </option>
   </component>
