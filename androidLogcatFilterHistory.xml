@@ -1,9 +1,16 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine level:info " />
+    <option name="mostRecentlyUsed" value="package:mine Token" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine Token" />
+        <option value="package:mine saveToken" />
+        <option value="package:mine level:info   &#10;" />
+        <option value="package:mine level:info Token " />
+        <option value="package:mine level:info getToken " />
+        <option value="package:mine level:info token " />
         <option value="package:mine level:info " />
+        <option value="package:mine level:warn " />
         <option value="package:com.jin10 耗时" />
         <option value="package:mine " />
         <option value="package:mine 普通事件" />
@@ -12,17 +19,10 @@
         <option value="package:com.jin10 flutter" />
         <option value="package:mine token" />
         <option value="package:com.jin10 token" />
-        <option value="package:mine level:warn " />
         <option value="package:mine /list" />
         <option value="package:mine /market/gethots" />
         <option value="package:com.jin10 level:info 耗时 " />
         <option value="package:com.jin10 level:warn " />
-        <option value="package:mine  汉字转拼音" />
-        <option value="package:mine  汉字转拼音总耗时" />
-        <option value="package:mine route:" />
-        <option value="package:mine defaultRouteName" />
-        <option value="TestPage" />
-        <option value="color" />
       </list>
     </option>
   </component>
