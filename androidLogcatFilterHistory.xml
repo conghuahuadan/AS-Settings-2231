@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine flutter" />
+    <option name="mostRecentlyUsed" value="package:mine" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
         <option value="package:mine flutter" />
         <option value="package:mine LoginChangedEvent" />
         <option value="package:mine Token" />
@@ -22,7 +23,6 @@
         <option value="package:mine token" />
         <option value="package:com.jin10 token" />
         <option value="package:mine /list" />
-        <option value="package:mine /market/gethots" />
       </list>
     </option>
   </component>
