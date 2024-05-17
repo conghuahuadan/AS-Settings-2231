@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine begin" />
+    <option name="mostRecentlyUsed" value="package:mine  tag:flutter" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine  tag:flutter" />
+        <option value="package:mine tag:flutter" />
         <option value="package:mine begin" />
         <option value="package:mine  dayFirstIndex" />
         <option value="package:mine  " />
@@ -21,8 +23,6 @@
         <option value="package:com.jin10 level:warn " />
         <option value="package:mine forecast" />
         <option value="package:mine comment" />
-        <option value="package:com.jin10 " />
-        <option value="package:mine tag:flutter update" />
       </list>
     </option>
   </component>
