@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine updateConfig" />
+    <option name="mostRecentlyUsed" value="package:mine 普通事件" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine 普通事件" />
+        <option value="package:com.jin10 level:info 普通事件" />
         <option value="package:mine updateConfig" />
         <option value="package:mine commentPlacehoder" />
         <option value="package:mine saveAppConfigMo" />
@@ -21,8 +23,6 @@
         <option value="package:mine" />
         <option value="package:mine flutter" />
         <option value="package:mine LoginChangedEvent" />
-        <option value="package:mine Token" />
-        <option value="package:mine saveToken" />
       </list>
     </option>
   </component>
