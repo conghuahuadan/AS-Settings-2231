@@ -1,10 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:flutter " />
+    <option name="mostRecentlyUsed" value="package:mine updateConfig" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine tag:flutter " />
+        <option value="package:mine updateConfig" />
+        <option value="package:mine commentPlacehoder" />
+        <option value="package:mine saveAppConfigMo" />
+        <option value="package:mine setConfig" />
+        <option value="package:mine level:warn " />
         <option value="package:mine " />
+        <option value="package:mine tag:flutter " />
         <option value="package:com.jin10 level:info setPrice" />
         <option value="package:com.jin10 level:info price" />
         <option value="package:com.jin10 level:info " />
@@ -18,11 +23,6 @@
         <option value="package:mine LoginChangedEvent" />
         <option value="package:mine Token" />
         <option value="package:mine saveToken" />
-        <option value="package:mine level:info   &#10;" />
-        <option value="package:mine level:info Token " />
-        <option value="package:mine level:info getToken " />
-        <option value="package:mine level:info token " />
-        <option value="package:mine level:info " />
       </list>
     </option>
   </component>
