@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.jin10 level:warn " />
+    <option name="mostRecentlyUsed" value="package:mine allMarketItems" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine allMarketItems" />
         <option value="package:com.jin10 level:warn " />
         <option value="package:com.jin10 关键" />
         <option value="package:mine  tag:flutter" />
@@ -22,7 +23,6 @@
         <option value="package:com.jin10 level:info setPrice" />
         <option value="package:com.jin10 level:info price" />
         <option value="package:com.jin10 level:info " />
-        <option value="package:mine forecast" />
       </list>
     </option>
   </component>
