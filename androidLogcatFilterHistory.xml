@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine allMarketItems" />
+    <option name="mostRecentlyUsed" value="package:mine 普通事件" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine 普通事件" />
         <option value="package:mine allMarketItems" />
         <option value="package:com.jin10 level:warn " />
         <option value="package:com.jin10 关键" />
@@ -12,7 +13,6 @@
         <option value="package:mine  dayFirstIndex" />
         <option value="package:mine  " />
         <option value="package:mine " />
-        <option value="package:mine 普通事件" />
         <option value="package:com.jin10 level:info 普通事件" />
         <option value="package:mine updateConfig" />
         <option value="package:mine commentPlacehoder" />
