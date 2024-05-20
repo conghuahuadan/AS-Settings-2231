@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine apply:" />
+    <option name="mostRecentlyUsed" value="package:com.jin10 searchData" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.jin10 searchData" />
         <option value="package:com.jin10 level:warn " />
         <option value="package:mine apply:" />
         <option value="package:mine item222:" />
@@ -22,7 +23,6 @@
         <option value="package:mine saveAppConfigMo" />
         <option value="package:mine setConfig" />
         <option value="package:mine level:warn " />
-        <option value="package:mine tag:flutter " />
       </list>
     </option>
   </component>
