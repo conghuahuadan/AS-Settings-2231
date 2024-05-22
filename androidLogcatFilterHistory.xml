@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="offset:" />
     <option name="nonFavorites">
       <list>
+        <option value="offset:" />
         <option value="mainItems" />
         <option value="package:mine 普通" />
         <option value="package:mine 普通埋点" />
@@ -22,7 +23,6 @@
         <option value="package:mine  " />
         <option value="package:mine " />
         <option value="package:com.jin10 level:info 普通事件" />
-        <option value="package:mine updateConfig" />
       </list>
     </option>
   </component>
