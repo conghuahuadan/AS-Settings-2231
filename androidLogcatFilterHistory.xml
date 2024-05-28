@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:com.jin10 快讯事件" />
+        <option value="package:com.jin10 onMessage" />
         <option value="package:mine " />
         <option value="快讯事件" />
         <option value="快讯" />
@@ -22,7 +23,6 @@
         <option value="package:mine item222:" />
         <option value="package:mine item:" />
         <option value="package:mine allMarketItems" />
-        <option value="package:mine 普通事件" />
       </list>
     </option>
   </component>
