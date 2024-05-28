@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="mStartIndex:" />
+    <option name="mostRecentlyUsed" value="快讯事件" />
     <option name="nonFavorites">
       <list>
+        <option value="快讯事件" />
+        <option value="快讯" />
         <option value="mStartIndex:" />
         <option value="length:" />
         <option value="package:com.jin10 " />
@@ -21,8 +23,6 @@
         <option value="package:mine allMarketItems" />
         <option value="package:mine 普通事件" />
         <option value="package:com.jin10 关键" />
-        <option value="package:mine  tag:flutter" />
-        <option value="package:mine tag:flutter" />
       </list>
     </option>
   </component>
