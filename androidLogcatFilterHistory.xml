@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.jin10 strMsg:" />
+    <option name="mostRecentlyUsed" value="package:com.jin10 " />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.jin10 " />
         <option value="package:com.jin10 strMsg:" />
         <option value="package:com.jin10 快讯事件" />
         <option value="package:com.jin10 onMessage" />
@@ -11,7 +12,6 @@
         <option value="快讯" />
         <option value="mStartIndex:" />
         <option value="length:" />
-        <option value="package:com.jin10 " />
         <option value="package:com.jin10 普通事件" />
         <option value="package:com.jin10 事件" />
         <option value="offset:" />
