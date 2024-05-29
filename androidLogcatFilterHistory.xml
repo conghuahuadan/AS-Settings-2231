@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="onTapUp" />
+    <option name="mostRecentlyUsed" value="_FontSeekBarPainter" />
     <option name="nonFavorites">
       <list>
+        <option value="_FontSeekBarPainter" />
         <option value="onTapUp" />
         <option value="package:com.jin10 updateLongPressFocusCandle" />
         <option value="package:com.jin10 renderVerticalLine" />
@@ -22,7 +23,6 @@
         <option value="package:com.jin10 事件" />
         <option value="offset:" />
         <option value="mainItems" />
-        <option value="package:mine 普通" />
       </list>
     </option>
   </component>
