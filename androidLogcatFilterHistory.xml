@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.jin10 computeIndicator" />
+    <option name="mostRecentlyUsed" value="package:com.jin10 renderLeft" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.jin10 renderLeft" />
         <option value="package:com.jin10 computeIndicator" />
         <option value="package:com.jin10 getFlashList" />
         <option value="package:com.jin10 " />
@@ -22,7 +23,6 @@
         <option value="package:mine 普通埋点" />
         <option value="package:com.jin10 level:warn " />
         <option value="package:mine apply:" />
-        <option value="package:com.jin10 searchData" />
       </list>
     </option>
   </component>
