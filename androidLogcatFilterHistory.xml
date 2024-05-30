@@ -1,8 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.jin10 " />
+    <option name="mostRecentlyUsed" value="flutterApp" />
     <option name="nonFavorites">
       <list>
+        <option value="flutterApp" />
+        <option value="print" />
+        <option value="Kline" />
+        <option value="KLineChartWidget" />
         <option value="package:com.jin10 " />
         <option value="package:com.jin10 updateLongPressFocusCandle" />
         <option value="package:com.jin10 renderVerticalLine" />
@@ -19,10 +23,6 @@
         <option value="length:" />
         <option value="package:com.jin10 普通事件" />
         <option value="package:com.jin10 事件" />
-        <option value="offset:" />
-        <option value="mainItems" />
-        <option value="package:mine 普通" />
-        <option value="package:mine 普通埋点" />
       </list>
     </option>
   </component>
