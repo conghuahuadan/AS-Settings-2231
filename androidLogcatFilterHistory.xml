@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="flutterApp indicatorSettingRect:" />
+    <option name="mostRecentlyUsed" value="decodeBytes" />
     <option name="nonFavorites">
       <list>
+        <option value="decodeBytes" />
         <option value="flutterApp indicatorSettingRect:" />
         <option value="translate object" />
         <option value="全屏" />
@@ -22,7 +23,6 @@
         <option value="快讯" />
         <option value="mStartIndex:" />
         <option value="length:" />
-        <option value="package:com.jin10 普通事件" />
       </list>
     </option>
   </component>
