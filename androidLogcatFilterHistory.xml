@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="decodeBytes" />
+    <option name="mostRecentlyUsed" value="loadData" />
     <option name="nonFavorites">
       <list>
+        <option value="loadData" />
         <option value="decodeBytes" />
         <option value="flutterApp indicatorSettingRect:" />
         <option value="translate object" />
@@ -22,7 +23,6 @@
         <option value="快讯事件" />
         <option value="快讯" />
         <option value="mStartIndex:" />
-        <option value="length:" />
       </list>
     </option>
   </component>
