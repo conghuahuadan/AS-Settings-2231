@@ -1,8 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="loadData" />
+    <option name="mostRecentlyUsed" value="package:com.jin10 onUniLoginEvent" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.jin10 onUniLoginEvent" />
+        <option value="package:com.jin10 " />
+        <option value="top:" />
+        <option value="package:com.jin10 level:warn " />
+        <option value="package:com.jin10 getFullCode: " />
         <option value="loadData" />
         <option value="decodeBytes" />
         <option value="flutterApp indicatorSettingRect:" />
@@ -10,7 +15,6 @@
         <option value="全屏" />
         <option value="package:mine 快讯事件" />
         <option value="flutterApp" />
-        <option value="package:com.jin10 " />
         <option value="package:com.jin10 updateLongPressFocusCandle" />
         <option value="package:com.jin10 renderVerticalLine" />
         <option value="package:com.jin10 renderLeft" />
@@ -19,10 +23,6 @@
         <option value="package:com.jin10 strMsg:" />
         <option value="package:com.jin10 快讯事件" />
         <option value="package:com.jin10 onMessage" />
-        <option value="package:mine " />
-        <option value="快讯事件" />
-        <option value="快讯" />
-        <option value="mStartIndex:" />
       </list>
     </option>
   </component>
