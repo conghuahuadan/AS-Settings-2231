@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.jin10 debuglog" />
+    <option name="mostRecentlyUsed" value="klineScrollOffset:" />
     <option name="nonFavorites">
       <list>
+        <option value="klineScrollOffset:" />
         <option value="package:mine debuglog" />
         <option value="package:com.jin10 debuglog" />
         <option value="package:mine openWebview" />
@@ -22,7 +23,6 @@
         <option value="package:com.jin10 renderVerticalLine" />
         <option value="package:com.jin10 renderLeft" />
         <option value="package:com.jin10 computeIndicator" />
-        <option value="package:com.jin10 getFlashList" />
       </list>
     </option>
   </component>
