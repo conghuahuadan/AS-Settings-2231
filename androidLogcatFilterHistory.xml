@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="klineScrollX" />
+    <option name="mostRecentlyUsed" value="onScaleUpdate" />
     <option name="nonFavorites">
       <list>
+        <option value="onScaleUpdate" />
         <option value="klineScrollX" />
         <option value="klineOffsetX" />
         <option value="klineScrollOffset" />
@@ -22,7 +23,6 @@
         <option value="flutterApp indicatorSettingRect:" />
         <option value="translate object" />
         <option value="全屏" />
-        <option value="package:mine 快讯事件" />
       </list>
     </option>
   </component>
