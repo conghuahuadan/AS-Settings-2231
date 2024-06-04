@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="klineScrollOffset" />
+    <option name="mostRecentlyUsed" value="klineOffsetX" />
     <option name="nonFavorites">
       <list>
+        <option value="klineOffsetX" />
         <option value="klineScrollOffset" />
         <option value="GestureContainer" />
         <option value="onScaleUpdate:" />
@@ -22,7 +23,6 @@
         <option value="全屏" />
         <option value="package:mine 快讯事件" />
         <option value="flutterApp" />
-        <option value="package:com.jin10 updateLongPressFocusCandle" />
       </list>
     </option>
   </component>
