@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.jin10 factor" />
+    <option name="mostRecentlyUsed" value="package:com.jin10 getCacheLiveActions" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.jin10 getCacheLiveActions" />
         <option value="package:com.jin10 debuglog" />
         <option value="package:com.jin10 factor" />
         <option value="klineScroll" />
@@ -22,7 +23,6 @@
         <option value="package:com.jin10 getFullCode: " />
         <option value="loadData" />
         <option value="decodeBytes" />
-        <option value="flutterApp indicatorSettingRect:" />
       </list>
     </option>
   </component>
