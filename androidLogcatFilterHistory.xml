@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.jin10 getCacheLiveActions" />
+    <option name="mostRecentlyUsed" value="package:mine level:warn " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:warn " />
         <option value="package:com.jin10 getCacheLiveActions" />
         <option value="package:mine convertEvent" />
         <option value="package:com.jin10 setNewDataMergeSocket" />
@@ -22,7 +23,6 @@
         <option value="package:com.jin10 onUniLoginEvent" />
         <option value="top:" />
         <option value="package:com.jin10 level:warn " />
-        <option value="package:com.jin10 getFullCode: " />
       </list>
     </option>
   </component>
