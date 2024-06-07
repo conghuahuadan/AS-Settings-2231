@@ -1,11 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine convertEvent" />
+    <option name="mostRecentlyUsed" value="package:com.jin10 getCacheLiveActions" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.jin10 getCacheLiveActions" />
         <option value="package:mine convertEvent" />
         <option value="package:com.jin10 setNewDataMergeSocket" />
-        <option value="package:com.jin10 getCacheLiveActions" />
         <option value="package:com.jin10 " />
         <option value="package:com.jin10 debuglog" />
         <option value="package:com.jin10 factor" />
