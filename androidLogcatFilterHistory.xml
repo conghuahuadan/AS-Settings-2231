@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.jin10 updateEventText" />
+    <option name="mostRecentlyUsed" value="computeKdj" />
     <option name="nonFavorites">
       <list>
+        <option value="computeKdj" />
         <option value="package:com.jin10 updateEventText" />
         <option value="package:mine level:warn " />
         <option value="package:com.jin10 getCacheLiveActions" />
@@ -22,7 +23,6 @@
         <option value="package:mine debuglog" />
         <option value="package:mine openWebview" />
         <option value="package:com.jin10 onUniLoginEvent" />
-        <option value="top:" />
       </list>
     </option>
   </component>
