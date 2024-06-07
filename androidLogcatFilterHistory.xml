@@ -1,9 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.jin10 getCacheLiveActions" />
+    <option name="mostRecentlyUsed" value="package:com.jin10 setNewDataMergeSocket" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.jin10 setNewDataMergeSocket" />
         <option value="package:com.jin10 getCacheLiveActions" />
+        <option value="package:com.jin10 " />
         <option value="package:com.jin10 debuglog" />
         <option value="package:com.jin10 factor" />
         <option value="klineScroll" />
@@ -17,12 +19,10 @@
         <option value="package:mine debuglog" />
         <option value="package:mine openWebview" />
         <option value="package:com.jin10 onUniLoginEvent" />
-        <option value="package:com.jin10 " />
         <option value="top:" />
         <option value="package:com.jin10 level:warn " />
         <option value="package:com.jin10 getFullCode: " />
         <option value="loadData" />
-        <option value="decodeBytes" />
       </list>
     </option>
   </component>
