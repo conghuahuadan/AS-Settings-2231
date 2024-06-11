@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.jin10 " />
+    <option name="mostRecentlyUsed" value="GestureContainer" />
     <option name="nonFavorites">
       <list>
+        <option value="GestureContainer" />
         <option value="package:com.jin10 " />
         <option value="loadData" />
         <option value="computeKdj" />
@@ -18,7 +19,6 @@
         <option value="klineScrollX" />
         <option value="klineOffsetX" />
         <option value="klineScrollOffset" />
-        <option value="GestureContainer" />
         <option value="onScaleUpdate:" />
         <option value="klineScrollOffset:" />
         <option value="package:mine debuglog" />
