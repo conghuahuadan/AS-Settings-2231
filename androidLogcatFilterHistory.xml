@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="parentSize" />
     <option name="nonFavorites">
       <list>
+        <option value="parentSize" />
         <option value="drawTimeAndLines" />
         <option value="onDrawCross" />
         <option value="findIndex" />
@@ -22,7 +23,6 @@
         <option value="klineScrollX" />
         <option value="klineOffsetX" />
         <option value="klineScrollOffset" />
-        <option value="onScaleUpdate:" />
       </list>
     </option>
   </component>
