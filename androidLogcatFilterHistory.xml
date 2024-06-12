@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="DrawTrendLineRenderer" />
+    <option name="mostRecentlyUsed" value="_GestureContainerState" />
     <option name="nonFavorites">
       <list>
+        <option value="_GestureContainerState" />
         <option value="DrawTrendLineRenderer" />
         <option value="parentSize" />
         <option value="drawTimeAndLines" />
@@ -22,7 +23,6 @@
         <option value="klineScroll" />
         <option value="onScaleUpdate" />
         <option value="klineScrollX" />
-        <option value="klineOffsetX" />
       </list>
     </option>
   </component>
