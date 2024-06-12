@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="onDraw" />
+    <option name="mostRecentlyUsed" value="drawBeginPoint" />
     <option name="nonFavorites">
       <list>
+        <option value="drawBeginPoint" />
         <option value="onDraw" />
         <option value="_GestureContainerState" />
         <option value="onScaleUpdate" />
@@ -22,7 +23,6 @@
         <option value="package:com.jin10 setNewDataMergeSocket" />
         <option value="package:com.jin10 debuglog" />
         <option value="package:com.jin10 factor" />
-        <option value="klineScroll" />
       </list>
     </option>
   </component>
