@@ -1,13 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.jin10 VipGroupFragment" />
+    <option name="mostRecentlyUsed" value="_GestureContainerState" />
     <option name="nonFavorites">
       <list>
+        <option value="_GestureContainerState" />
         <option value="package:com.jin10 VipGroupFragment" />
         <option value="package:com.jin10 url" />
         <option value="package:com.jin10 加载url" />
         <option value="onScaleUpdate" />
-        <option value="_GestureContainerState" />
         <option value="GestureContainer" />
         <option value="onDraw" />
         <option value="drawBeginPoint" />
