@@ -1,13 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="_GestureContainerState" />
+    <option name="mostRecentlyUsed" value="onScaleUpdate" />
     <option name="nonFavorites">
       <list>
+        <option value="onScaleUpdate" />
         <option value="_GestureContainerState" />
         <option value="GestureContainer" />
         <option value="onDraw" />
         <option value="drawBeginPoint" />
-        <option value="onScaleUpdate" />
         <option value="DrawTrendLineRenderer" />
         <option value="parentSize" />
         <option value="drawTimeAndLines" />
