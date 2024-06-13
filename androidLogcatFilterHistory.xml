@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="onDraw" />
+    <option name="mostRecentlyUsed" value="GestureContainer" />
     <option name="nonFavorites">
       <list>
+        <option value="GestureContainer" />
         <option value="onDraw" />
         <option value="drawBeginPoint" />
         <option value="_GestureContainerState" />
@@ -12,7 +13,6 @@
         <option value="drawTimeAndLines" />
         <option value="onDrawCross" />
         <option value="findIndex" />
-        <option value="GestureContainer" />
         <option value="package:com.jin10 " />
         <option value="loadData" />
         <option value="computeKdj" />
