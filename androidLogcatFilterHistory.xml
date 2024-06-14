@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="drawBeginToEndLine" />
+    <option name="mostRecentlyUsed" value="onScaleStart" />
     <option name="nonFavorites">
       <list>
+        <option value="onScaleStart" />
         <option value="drawBeginToEndLine" />
         <option value="_GestureContainerState" />
         <option value="package:com.jin10 VipGroupFragment" />
@@ -22,7 +23,6 @@
         <option value="computeKdj" />
         <option value="package:com.jin10 updateEventText" />
         <option value="package:mine level:warn " />
-        <option value="package:com.jin10 getCacheLiveActions" />
       </list>
     </option>
   </component>
