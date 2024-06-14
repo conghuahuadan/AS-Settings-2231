@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="onScaleStart" />
+    <option name="mostRecentlyUsed" value="initPoint" />
     <option name="nonFavorites">
       <list>
+        <option value="initPoint" />
+        <option value="endPointTranslate" />
         <option value="onScaleStart" />
         <option value="drawBeginToEndLine" />
         <option value="_GestureContainerState" />
@@ -21,8 +23,6 @@
         <option value="package:com.jin10 " />
         <option value="loadData" />
         <option value="computeKdj" />
-        <option value="package:com.jin10 updateEventText" />
-        <option value="package:mine level:warn " />
       </list>
     </option>
   </component>
