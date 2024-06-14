@@ -1,13 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="initPoint" />
+    <option name="mostRecentlyUsed" value="_GestureContainerState" />
     <option name="nonFavorites">
       <list>
+        <option value="_GestureContainerState" />
+        <option value="checkIsTouchDrawPoint" />
         <option value="initPoint" />
         <option value="endPointTranslate" />
         <option value="onScaleStart" />
         <option value="drawBeginToEndLine" />
-        <option value="_GestureContainerState" />
         <option value="package:com.jin10 VipGroupFragment" />
         <option value="package:com.jin10 url" />
         <option value="package:com.jin10 加载url" />
@@ -22,7 +23,6 @@
         <option value="findIndex" />
         <option value="package:com.jin10 " />
         <option value="loadData" />
-        <option value="computeKdj" />
       </list>
     </option>
   </component>
