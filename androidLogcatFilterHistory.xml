@@ -1,8 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="sumCanvasTranslateX" />
+    <option name="mostRecentlyUsed" value="_GestureContainerState" />
     <option name="nonFavorites">
       <list>
+        <option value="_GestureContainerState" />
+        <option value="onPointerPanZoomUpdate" />
+        <option value="package:com.jin10 getCurrentSpanX" />
+        <option value="scaleUpdate" />
         <option value="sumCanvasTranslateX" />
         <option value="canvasTranslate" />
         <option value="scale" />
@@ -13,16 +17,12 @@
         <option value="DataHolder" />
         <option value="onPointerUp" />
         <option value="onScaleStart" />
-        <option value="_GestureContainerState" />
         <option value="checkIsTouchDrawPoint" />
         <option value="initPoint" />
         <option value="endPointTranslate" />
         <option value="drawBeginToEndLine" />
         <option value="package:com.jin10 VipGroupFragment" />
         <option value="package:com.jin10 url" />
-        <option value="package:com.jin10 加载url" />
-        <option value="GestureContainer" />
-        <option value="onDraw" />
       </list>
     </option>
   </component>
