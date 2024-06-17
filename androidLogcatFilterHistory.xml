@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="onScaleUpdate" />
+    <option name="mostRecentlyUsed" value="dataholder" />
     <option name="nonFavorites">
       <list>
+        <option value="dataholder" />
         <option value="onScaleUpdate" />
         <option value="package:com.jin10 3318fc142ea545eab931e22a61ec6e5c" />
         <option value="package:com.jin10 " />
@@ -22,7 +23,6 @@
         <option value="onDraw" />
         <option value="drawBeginPoint" />
         <option value="DrawTrendLineRenderer" />
-        <option value="parentSize" />
       </list>
     </option>
   </component>
