@@ -1,12 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="onScaleUpdate" />
+    <option name="mostRecentlyUsed" value="DataHolder" />
     <option name="nonFavorites">
       <list>
+        <option value="DataHolder" />
+        <option value="scale" />
         <option value="onScaleUpdate" />
         <option value="onPointerUp" />
         <option value="onScaleStart" />
-        <option value="scale" />
         <option value="_GestureContainerState" />
         <option value="checkIsTouchDrawPoint" />
         <option value="initPoint" />
@@ -22,7 +23,6 @@
         <option value="parentSize" />
         <option value="drawTimeAndLines" />
         <option value="onDrawCross" />
-        <option value="findIndex" />
       </list>
     </option>
   </component>
