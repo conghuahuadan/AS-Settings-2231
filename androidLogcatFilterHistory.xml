@@ -1,12 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="_GestureContainerState" />
+    <option name="mostRecentlyUsed" value="package:mine 网页埋点" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine 网页埋点" />
+        <option value="package:mine 普通事件" />
+        <option value="scaleUpdate" />
         <option value="_GestureContainerState" />
         <option value="onPointerPanZoomUpdate" />
         <option value="package:com.jin10 getCurrentSpanX" />
-        <option value="scaleUpdate" />
         <option value="sumCanvasTranslateX" />
         <option value="canvasTranslate" />
         <option value="scale" />
@@ -21,8 +23,6 @@
         <option value="initPoint" />
         <option value="endPointTranslate" />
         <option value="drawBeginToEndLine" />
-        <option value="package:com.jin10 VipGroupFragment" />
-        <option value="package:com.jin10 url" />
       </list>
     </option>
   </component>
