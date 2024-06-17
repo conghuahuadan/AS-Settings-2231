@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="onScaleStart" />
+    <option name="mostRecentlyUsed" value="onScaleUpdate" />
     <option name="nonFavorites">
       <list>
+        <option value="onScaleUpdate" />
         <option value="onScaleStart" />
         <option value="scale" />
         <option value="_GestureContainerState" />
@@ -13,7 +14,6 @@
         <option value="package:com.jin10 VipGroupFragment" />
         <option value="package:com.jin10 url" />
         <option value="package:com.jin10 加载url" />
-        <option value="onScaleUpdate" />
         <option value="GestureContainer" />
         <option value="onDraw" />
         <option value="drawBeginPoint" />
