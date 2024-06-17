@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="onScaleUpdate" />
+        <option value="onPointerUp" />
         <option value="onScaleStart" />
         <option value="scale" />
         <option value="_GestureContainerState" />
@@ -22,7 +23,6 @@
         <option value="drawTimeAndLines" />
         <option value="onDrawCross" />
         <option value="findIndex" />
-        <option value="package:com.jin10 " />
       </list>
     </option>
   </component>
