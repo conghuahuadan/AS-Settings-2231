@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="sumCanvasTranslateX" />
+        <option value="canvasTranslate" />
         <option value="scale" />
         <option value="onScaleUpdate" />
         <option value="dataholder" />
@@ -22,7 +23,6 @@
         <option value="package:com.jin10 加载url" />
         <option value="GestureContainer" />
         <option value="onDraw" />
-        <option value="drawBeginPoint" />
       </list>
     </option>
   </component>
