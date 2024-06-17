@@ -1,14 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="onScaleUpdate" />
+    <option name="mostRecentlyUsed" value="sumCanvasTranslateX" />
     <option name="nonFavorites">
       <list>
+        <option value="sumCanvasTranslateX" />
+        <option value="scale" />
         <option value="onScaleUpdate" />
         <option value="dataholder" />
         <option value="package:com.jin10 3318fc142ea545eab931e22a61ec6e5c" />
         <option value="package:com.jin10 " />
         <option value="DataHolder" />
-        <option value="scale" />
         <option value="onPointerUp" />
         <option value="onScaleStart" />
         <option value="_GestureContainerState" />
@@ -22,7 +23,6 @@
         <option value="GestureContainer" />
         <option value="onDraw" />
         <option value="drawBeginPoint" />
-        <option value="DrawTrendLineRenderer" />
       </list>
     </option>
   </component>
