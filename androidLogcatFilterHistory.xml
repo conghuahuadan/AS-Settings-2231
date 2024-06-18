@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine 网页埋点" />
+    <option name="mostRecentlyUsed" value="drawMaSingle" />
     <option name="nonFavorites">
       <list>
+        <option value="drawMaSingle" />
         <option value="package:mine 网页埋点" />
         <option value="package:mine level:warn " />
         <option value="事件" />
@@ -22,7 +23,6 @@
         <option value="scale" />
         <option value="onScaleUpdate" />
         <option value="dataholder" />
-        <option value="package:com.jin10 3318fc142ea545eab931e22a61ec6e5c" />
       </list>
     </option>
   </component>
