@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine onCheckedChanged" />
+    <option name="mostRecentlyUsed" value="package:mine level:info level:warn " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:info level:warn " />
         <option value="package:mine onCheckedChanged" />
         <option value="package:com.jin10 updateTopTopicList" />
         <option value="package:com.jin10 " />
@@ -22,7 +23,6 @@
         <option value="package:mine 埋点" />
         <option value="package:mine 事件" />
         <option value="package:mine 普通事件" />
-        <option value="_GestureContainerState" />
       </list>
     </option>
   </component>
