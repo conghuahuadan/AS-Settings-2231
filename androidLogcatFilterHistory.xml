@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="onComputeData" />
+    <option name="mostRecentlyUsed" value="package:com.jin10 " />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.jin10 " />
         <option value="onComputeData" />
         <option value="logicalLocXToIndex" />
         <option value="package:mine 耗时" />
@@ -22,7 +23,6 @@
         <option value="_GestureContainerState" />
         <option value="onPointerPanZoomUpdate" />
         <option value="package:com.jin10 getCurrentSpanX" />
-        <option value="sumCanvasTranslateX" />
       </list>
     </option>
   </component>
