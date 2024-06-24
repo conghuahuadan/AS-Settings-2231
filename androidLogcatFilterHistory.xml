@@ -1,17 +1,20 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine level:warn " />
+    <option name="mostRecentlyUsed" value="package:com.jin10 handleMessage" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.jin10 handleMessage" />
+        <option value="socket" />
+        <option value="package:com.jin10 level:warn " />
+        <option value="package:com.jin10 " />
+        <option value="package:com.jin10 http://345ebfda03e749a291d535322d54292a.z4c.jin10.com/indicator/pivot" />
         <option value="package:mine level:warn " />
         <option value="package:mine  " />
-        <option value="package:com.jin10 level:warn " />
         <option value="package:com.jin10  " />
         <option value="package:com.jin10 gli" />
         <option value="package:mine level:info level:warn " />
         <option value="package:mine onCheckedChanged" />
         <option value="package:com.jin10 updateTopTopicList" />
-        <option value="package:com.jin10 " />
         <option value="onComputeData" />
         <option value="logicalLocXToIndex" />
         <option value="package:mine 耗时" />
@@ -20,9 +23,6 @@
         <option value="package:mine 网页埋点" />
         <option value="事件" />
         <option value="package:mine 普通" />
-        <option value=" :mine  " />
-        <option value="package:mine  事件" />
-        <option value="scaleUpdate" />
       </list>
     </option>
   </component>
