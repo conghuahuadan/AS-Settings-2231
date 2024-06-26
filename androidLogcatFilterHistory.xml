@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine level:warn " />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="rejectGesture" />
+        <option value="KLineGestureDetector" />
         <option value="package:mine level:warn " />
         <option value="package:mine  " />
         <option value="package:com.jin10 level:warn " />
@@ -21,8 +23,6 @@
         <option value="事件" />
         <option value="package:mine 普通" />
         <option value=" :mine  " />
-        <option value="package:mine  事件" />
-        <option value="scaleUpdate" />
       </list>
     </option>
   </component>
