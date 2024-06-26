@@ -3,6 +3,7 @@
     <option name="mostRecentlyUsed" value="package:com.jin10 handleMessage" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:com.jin10 handleMessage" />
         <option value="socket" />
         <option value="package:com.jin10 level:warn " />
@@ -22,7 +23,6 @@
         <option value="drawMaSingle" />
         <option value="package:mine 网页埋点" />
         <option value="事件" />
-        <option value="package:mine 普通" />
       </list>
     </option>
   </component>
