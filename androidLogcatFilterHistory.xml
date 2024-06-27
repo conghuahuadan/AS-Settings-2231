@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine onViewCreated" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine onViewCreated" />
         <option value="package:mine " />
         <option value="package:mine onCreate" />
         <option value="KLineGestureHandler" />
@@ -21,7 +23,6 @@
         <option value="onComputeData" />
         <option value="logicalLocXToIndex" />
         <option value="package:mine 耗时" />
-        <option value="package:mine getSongFace" />
       </list>
     </option>
   </component>
