@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="MarketSocket" />
+    <option name="mostRecentlyUsed" value="kLine" />
     <option name="nonFavorites">
       <list>
+        <option value="kLine" />
         <option value="MarketSocket" />
         <option value="data" />
         <option value="package:com.jin10.flutter_kline_demo dispatchTouchEvent" />
@@ -22,7 +23,6 @@
         <option value="package:com.jin10 http://345ebfda03e749a291d535322d54292a.z4c.jin10.com/indicator/pivot" />
         <option value="package:mine level:warn " />
         <option value="package:mine  " />
-        <option value="package:com.jin10  " />
       </list>
     </option>
   </component>
