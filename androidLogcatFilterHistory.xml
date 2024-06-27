@@ -1,10 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="data" />
+    <option name="mostRecentlyUsed" value="MarketSocket" />
     <option name="nonFavorites">
       <list>
-        <option value="data" />
         <option value="MarketSocket" />
+        <option value="data" />
         <option value="package:com.jin10.flutter_kline_demo dispatchTouchEvent" />
         <option value="package:com.jin10 verify" />
         <option value="package:com.jin10 " />
