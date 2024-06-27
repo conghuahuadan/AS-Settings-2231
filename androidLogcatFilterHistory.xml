@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.jin10.flutter_kline_demo dispatchTouchEvent" />
+    <option name="mostRecentlyUsed" value="MarketSocket" />
     <option name="nonFavorites">
       <list>
+        <option value="MarketSocket" />
         <option value="package:com.jin10.flutter_kline_demo dispatchTouchEvent" />
         <option value="package:com.jin10 verify" />
         <option value="package:com.jin10 " />
@@ -22,7 +23,6 @@
         <option value="package:mine  " />
         <option value="package:com.jin10  " />
         <option value="package:com.jin10 gli" />
-        <option value="package:mine level:info level:warn " />
       </list>
     </option>
   </component>
