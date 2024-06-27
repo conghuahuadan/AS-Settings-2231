@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine sale_unread_count" />
+    <option name="mostRecentlyUsed" value="package:com.jin10 verify" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.jin10 verify" />
+        <option value="package:com.jin10 " />
         <option value="package:mine sale_unread_count" />
         <option value="package:mine f634b37932114888916ec51f48bc6378" />
         <option value="package:mine " />
@@ -14,7 +16,6 @@
         <option value="package:com.jin10 handleMessage" />
         <option value="socket" />
         <option value="package:com.jin10 level:warn " />
-        <option value="package:com.jin10 " />
         <option value="package:com.jin10 http://345ebfda03e749a291d535322d54292a.z4c.jin10.com/indicator/pivot" />
         <option value="package:mine level:warn " />
         <option value="package:mine  " />
@@ -22,7 +23,6 @@
         <option value="package:com.jin10 gli" />
         <option value="package:mine level:info level:warn " />
         <option value="package:mine onCheckedChanged" />
-        <option value="package:com.jin10 updateTopTopicList" />
       </list>
     </option>
   </component>
