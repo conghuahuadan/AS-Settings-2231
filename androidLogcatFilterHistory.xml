@@ -1,8 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="KLineGestureHandler" />
+    <option name="mostRecentlyUsed" value="reconnectTimer" />
     <option name="nonFavorites">
       <list>
+        <option value="reconnectTimer" />
+        <option value="_onDone" />
+        <option value="_onError" />
+        <option value="addOpenCallbackImmediately" />
         <option value="KLineGestureHandler" />
         <option value="KLineGestureDetector" />
         <option value="package:mine " />
@@ -19,10 +23,6 @@
         <option value="package:mine onCheckedChanged" />
         <option value="package:com.jin10 updateTopTopicList" />
         <option value="onComputeData" />
-        <option value="logicalLocXToIndex" />
-        <option value="package:mine 耗时" />
-        <option value="package:mine getSongFace" />
-        <option value="drawMaSingle" />
       </list>
     </option>
   </component>
