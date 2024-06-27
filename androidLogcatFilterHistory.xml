@@ -1,10 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.jin10 普通事件" />
+    <option name="mostRecentlyUsed" value="package:mine sale_unread_count" />
     <option name="nonFavorites">
       <list>
-        <option value="package:com.jin10 普通事件" />
+        <option value="package:mine sale_unread_count" />
+        <option value="package:mine f634b37932114888916ec51f48bc6378" />
         <option value="package:mine " />
+        <option value="package:com.jin10 普通事件" />
         <option value="package:mine onViewCreated" />
         <option value="package:mine onCreate" />
         <option value="KLineGestureHandler" />
@@ -21,8 +23,6 @@
         <option value="package:mine level:info level:warn " />
         <option value="package:mine onCheckedChanged" />
         <option value="package:com.jin10 updateTopTopicList" />
-        <option value="onComputeData" />
-        <option value="logicalLocXToIndex" />
       </list>
     </option>
   </component>
