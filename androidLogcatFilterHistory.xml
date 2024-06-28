@@ -1,11 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.jin10 vip/config" />
+    <option name="mostRecentlyUsed" value="package:com.jin10 level:warn " />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.jin10 level:warn " />
+        <option value="package:com.jin10 " />
+        <option value="package:com.jin10 restoreStockFloatWindows" />
         <option value="package:com.jin10 vip/config" />
         <option value="package:com.jin10 pivot/point" />
-        <option value="package:com.jin10 " />
         <option value="package:com.jin10 HttpsURLConnection" />
         <option value="kLine" />
         <option value="MarketSocket" />
@@ -21,8 +23,6 @@
         <option value="KLineGestureHandler" />
         <option value="KLineGestureDetector" />
         <option value="package:com.jin10 handleMessage" />
-        <option value="socket" />
-        <option value="package:com.jin10 level:warn " />
       </list>
     </option>
   </component>
