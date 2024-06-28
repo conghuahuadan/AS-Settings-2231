@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.jin10 pivot/point" />
+    <option name="mostRecentlyUsed" value="package:com.jin10 vip/config" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.jin10 vip/config" />
         <option value="package:com.jin10 pivot/point" />
         <option value="package:com.jin10 " />
         <option value="package:com.jin10 HttpsURLConnection" />
@@ -22,7 +23,6 @@
         <option value="package:com.jin10 handleMessage" />
         <option value="socket" />
         <option value="package:com.jin10 level:warn " />
-        <option value="package:com.jin10 http://345ebfda03e749a291d535322d54292a.z4c.jin10.com/indicator/pivot" />
       </list>
     </option>
   </component>
