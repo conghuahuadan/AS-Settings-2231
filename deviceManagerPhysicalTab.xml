@@ -78,6 +78,17 @@
         <target value="Android 12.0" />
         <api value="androidversion:31:null:1:true" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="dc169cb1" />
+          </Key>
+        </key>
+        <name value="Xiaomi 23113RKC6C" />
+        <target value="Android API 34" />
+        <api value="androidversion:34:null:7:true" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
