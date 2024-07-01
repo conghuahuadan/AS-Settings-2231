@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="top" />
+    <option name="mostRecentlyUsed" value="onGetHistoryFile" />
     <option name="nonFavorites">
       <list>
+        <option value="onGetHistoryFile" />
+        <option value="timeStamp" />
         <option value="top" />
         <option value="package:com.jin10 level:warn " />
         <option value="package:com.jin10 " />
@@ -21,8 +23,6 @@
         <option value="package:mine f634b37932114888916ec51f48bc6378" />
         <option value="package:mine " />
         <option value="package:com.jin10 普通事件" />
-        <option value="package:mine onViewCreated" />
-        <option value="package:mine onCreate" />
       </list>
     </option>
   </component>
