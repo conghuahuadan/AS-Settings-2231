@@ -6,9 +6,9 @@
       <mapping pattern="astock_web_route_search" type="AUTO_DETECTED" />
       <mapping pattern="22" type="Groovy" />
       <mapping pattern="JTest" type="Groovy" />
-      <mapping pattern="Jenkinsfile_Final" type="Groovy" />
       <mapping pattern="Jenkinsfile" type="Groovy" />
       <mapping pattern="Jenkinsfile_Final3" type="Groovy" />
+      <mapping pattern="Jenkinsfile_Final" type="Groovy" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="0" type="Native" />
