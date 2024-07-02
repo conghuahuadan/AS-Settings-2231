@@ -1,8 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="onGetHistoryFile" />
+    <option name="mostRecentlyUsed" value="package:mine flutter" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine flutter" />
+        <option value="package:mine launchPage" />
+        <option value="package:mine level:warn " />
+        <option value="事件" />
+        <option value="package:mine " />
         <option value="onGetHistoryFile" />
         <option value="timeStamp" />
         <option value="top" />
@@ -18,11 +23,6 @@
         <option value="MarketSocket" />
         <option value="data" />
         <option value="package:com.jin10.flutter_kline_demo dispatchTouchEvent" />
-        <option value="package:com.jin10 verify" />
-        <option value="package:mine sale_unread_count" />
-        <option value="package:mine f634b37932114888916ec51f48bc6378" />
-        <option value="package:mine " />
-        <option value="package:com.jin10 普通事件" />
       </list>
     </option>
   </component>
