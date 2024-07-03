@@ -1,28 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine  https://stare-api.jin10.com" />
+    <option name="mostRecentlyUsed" value="package:mine flutter" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine  https://stare-api.jin10.com" />
-        <option value="package:mine level:warn https://stare-api.jin10.com" />
-        <option value="package:mine level:warn " />
-        <option value="onData" />
-        <option value="reconnectTimer" />
-        <option value="_onDone" />
-        <option value="_onError" />
-        <option value="addOpenCallbackImmediately" />
-        <option value="KLineGestureHandler" />
-        <option value="KLineGestureDetector" />
-        <option value="package:mine " />
-        <option value="package:com.jin10 handleMessage" />
-        <option value="socket" />
-        <option value="package:com.jin10 level:warn " />
-        <option value="package:com.jin10 " />
-        <option value="package:com.jin10 http://345ebfda03e749a291d535322d54292a.z4c.jin10.com/indicator/pivot" />
-        <option value="package:mine  " />
-        <option value="package:com.jin10  " />
-        <option value="package:com.jin10 gli" />
-        <option value="package:mine level:info level:warn " />
+        <option value="package:mine flutter" />
       </list>
     </option>
   </component>
