@@ -1,5 +1,6 @@
 <application>
   <component name="PgyASPluginKeysManager">
     <TeamManager />
+    <name>futures.socket</name>
   </component>
 </application>
