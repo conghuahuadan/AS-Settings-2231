@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine level:info  dayFirstIndex" />
+    <option name="mostRecentlyUsed" value="flutter " />
     <option name="nonFavorites">
       <list>
+        <option value="flutter " />
+        <option value="flutter drawTimeline" />
         <option value="package:mine level:info  dayFirstIndex" />
         <option value="package:mine flutter" />
         <option value="package:mine onCodeListVersionChanged" />
@@ -21,8 +23,6 @@
         <option value="package:com.jin10 " />
         <option value="addOnLoadMoreCallback" />
         <option value="onDrawCrossVertical" />
-        <option value="package:com.jin10 restoreStockFloatWindows" />
-        <option value="package:com.jin10 vip/config" />
       </list>
     </option>
   </component>
