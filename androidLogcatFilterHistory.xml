@@ -1,13 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine onCodeListVersionChanged" />
+    <option name="mostRecentlyUsed" value="package:mine level:info  dayFirstIndex" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:info  dayFirstIndex" />
+        <option value="package:mine flutter" />
         <option value="package:mine onCodeListVersionChanged" />
         <option value="flutter" />
         <option value="package:mine level:info  MarketDetailActivity" />
         <option value="package:mine level:warn MarketDetailActivity" />
-        <option value="package:mine flutter" />
         <option value="package:mine flutter period" />
         <option value="package:mine launchPage" />
         <option value="package:mine level:warn " />
@@ -22,7 +23,6 @@
         <option value="onDrawCrossVertical" />
         <option value="package:com.jin10 restoreStockFloatWindows" />
         <option value="package:com.jin10 vip/config" />
-        <option value="package:com.jin10 pivot/point" />
       </list>
     </option>
   </component>
