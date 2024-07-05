@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine level:info  MarketDetailActivity" />
+    <option name="mostRecentlyUsed" value="flutter" />
     <option name="nonFavorites">
       <list>
+        <option value="flutter" />
         <option value="package:mine level:info  MarketDetailActivity" />
         <option value="package:mine level:warn MarketDetailActivity" />
         <option value="package:mine flutter" />
@@ -22,7 +23,6 @@
         <option value="package:com.jin10 vip/config" />
         <option value="package:com.jin10 pivot/point" />
         <option value="package:com.jin10 HttpsURLConnection" />
-        <option value="kLine" />
       </list>
     </option>
   </component>
