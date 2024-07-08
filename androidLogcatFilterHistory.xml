@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine getDrawingCache" />
+    <option name="mostRecentlyUsed" value="package:mine level:warn " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:warn " />
         <option value="package:mine getDrawingCache" />
         <option value="flutter " />
         <option value="flutter drawTimeline" />
@@ -14,7 +15,6 @@
         <option value="package:mine level:warn MarketDetailActivity" />
         <option value="package:mine flutter period" />
         <option value="package:mine launchPage" />
-        <option value="package:mine level:warn " />
         <option value="事件" />
         <option value="package:mine " />
         <option value="onGetHistoryFile" />
