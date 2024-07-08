@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="flutter " />
+    <option name="mostRecentlyUsed" value="package:mine getDrawingCache" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine getDrawingCache" />
         <option value="flutter " />
         <option value="flutter drawTimeline" />
         <option value="package:mine level:info  dayFirstIndex" />
@@ -22,7 +23,6 @@
         <option value="package:com.jin10 level:warn " />
         <option value="package:com.jin10 " />
         <option value="addOnLoadMoreCallback" />
-        <option value="onDrawCrossVertical" />
       </list>
     </option>
   </component>
