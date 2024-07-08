@@ -1,11 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine level:warn " />
+    <option name="mostRecentlyUsed" value="flutter " />
     <option name="nonFavorites">
       <list>
+        <option value="flutter " />
+        <option value="flutter onKLineQuote" />
         <option value="package:mine level:warn " />
         <option value="package:mine getDrawingCache" />
-        <option value="flutter " />
         <option value="flutter drawTimeline" />
         <option value="package:mine level:info  dayFirstIndex" />
         <option value="package:mine flutter" />
@@ -22,7 +23,6 @@
         <option value="top" />
         <option value="package:com.jin10 level:warn " />
         <option value="package:com.jin10 " />
-        <option value="addOnLoadMoreCallback" />
       </list>
     </option>
   </component>
