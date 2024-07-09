@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="newOrientation" />
+    <option name="mostRecentlyUsed" value="flutter drawBody" />
     <option name="nonFavorites">
       <list>
+        <option value="flutter drawBody" />
         <option value="newOrientation" />
         <option value="flutter " />
         <option value="flutter onKLineQuote" />
@@ -22,7 +23,6 @@
         <option value="onGetHistoryFile" />
         <option value="timeStamp" />
         <option value="top" />
-        <option value="package:com.jin10 level:warn " />
       </list>
     </option>
   </component>
