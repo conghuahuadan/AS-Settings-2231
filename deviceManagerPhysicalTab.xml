@@ -5,6 +5,17 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="22b8f30c" />
+          </Key>
+        </key>
+        <name value="OnePlus HD1900" />
+        <target value="Android 12L" />
+        <api value="androidversion:32:null:1:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="Q5S5T19327000041" />
           </Key>
         </key>
@@ -22,17 +33,6 @@
         <name value="Xiaomi 2211133C" />
         <target value="Android 13.0" />
         <api value="androidversion:33:null:3:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="22b8f30c" />
-          </Key>
-        </key>
-        <name value="OnePlus HD1900" />
-        <target value="Android 12L" />
-        <api value="androidversion:32:null:1:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -77,6 +77,17 @@
         <name value="HUAWEI FOA-AL00" />
         <target value="Android 12.0" />
         <api value="androidversion:31:null:1:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="dc169cb1" />
+          </Key>
+        </key>
+        <name value="Xiaomi 23113RKC6C" />
+        <target value="Android API 34" />
+        <api value="androidversion:34:null:7:true" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
