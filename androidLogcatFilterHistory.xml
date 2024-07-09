@@ -1,9 +1,28 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="flutter" />
+    <option name="mostRecentlyUsed" value="package:com.jin10 checkData" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.jin10 checkData" />
+        <option value="flutter " />
+        <option value="flutter changeLoadMoreStatus" />
+        <option value="flutter onGetHistoryFile" />
+        <option value="flutter drawBody" />
+        <option value="newOrientation" />
+        <option value="flutter onKLineQuote" />
+        <option value="package:mine level:warn " />
+        <option value="package:mine getDrawingCache" />
+        <option value="flutter drawTimeline" />
+        <option value="package:mine level:info  dayFirstIndex" />
+        <option value="package:mine flutter" />
+        <option value="package:mine onCodeListVersionChanged" />
         <option value="flutter" />
+        <option value="package:mine level:info  MarketDetailActivity" />
+        <option value="package:mine level:warn MarketDetailActivity" />
+        <option value="package:mine flutter period" />
+        <option value="package:mine launchPage" />
+        <option value="事件" />
+        <option value="package:mine " />
       </list>
     </option>
   </component>
