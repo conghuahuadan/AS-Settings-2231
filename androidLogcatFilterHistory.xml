@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="flutter " />
+        <option value="flutter changeLoadMoreStatus" />
         <option value="flutter onGetHistoryFile" />
         <option value="flutter drawBody" />
         <option value="newOrientation" />
@@ -22,7 +23,6 @@
         <option value="事件" />
         <option value="package:mine " />
         <option value="onGetHistoryFile" />
-        <option value="timeStamp" />
       </list>
     </option>
   </component>
