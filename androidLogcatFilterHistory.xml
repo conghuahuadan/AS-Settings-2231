@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="flutter precision" />
+    <option name="mostRecentlyUsed" value="flutter " />
     <option name="nonFavorites">
       <list>
+        <option value="flutter " />
         <option value="flutter precision" />
         <option value="package:mine flutter" />
         <option value="package:mine " />
@@ -11,7 +12,6 @@
         <option value="package:mine 耗时" />
         <option value="package:com.jin10 level:warn " />
         <option value="package:com.jin10 checkData" />
-        <option value="flutter " />
         <option value="flutter changeLoadMoreStatus" />
         <option value="flutter onGetHistoryFile" />
         <option value="flutter drawBody" />
