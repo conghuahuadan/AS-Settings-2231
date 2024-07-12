@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine  searchAppMarketInfo" />
+    <option name="mostRecentlyUsed" value="package:mine level:info url" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:info url" />
+        <option value="package:mine level:info" />
+        <option value="package:com.jin10  " />
         <option value="package:mine  searchAppMarketInfo" />
       </list>
     </option>
