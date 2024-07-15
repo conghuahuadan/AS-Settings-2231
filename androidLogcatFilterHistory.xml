@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="flutter " />
+    <option name="mostRecentlyUsed" value="package:mine onBroadcastEvent" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine onBroadcastEvent" />
         <option value="flutter " />
         <option value="flutter KLinePage" />
         <option value="package:com.jin10  普通事件" />
