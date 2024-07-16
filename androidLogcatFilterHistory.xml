@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.jin10 methodName" />
+    <option name="mostRecentlyUsed" value="package:com.jin10 93e3b7cd331940779c38c576191214c1" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.jin10 93e3b7cd331940779c38c576191214c1" />
+        <option value="package:com.jin10 " />
         <option value="package:com.jin10 methodName" />
         <option value="package:mine isAndroid" />
         <option value="package:mine " />
@@ -12,7 +14,6 @@
         <option value="package:mine https://93e3b7cd331940779c38c576191214c1.z3c.jin10.com/" />
         <option value="package:mine onBroadcastEvent" />
         <option value="package:com.jin10 level:warn " />
-        <option value="package:com.jin10 " />
         <option value="package:com.jin10  onBroadcastEvent" />
         <option value="package:com.jin10  https://93e3b7cd331940779c38c576191214c1.z3c.jin10.com" />
         <option value="package:com.jin10  " />
@@ -22,7 +23,6 @@
         <option value="package:mine 网页埋点" />
         <option value="package:mine level:warn " />
         <option value="package:mine 普通事件" />
-        <option value="package:mine level:info url" />
       </list>
     </option>
   </component>
