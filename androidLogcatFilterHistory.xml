@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine level:warn " />
+    <option name="mostRecentlyUsed" value="package:com.jin10 onNotifyMessageOpened" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.jin10 onNotifyMessageOpened" />
+        <option value="package:com.jin10 onBroadcastEvent" />
         <option value="package:mine level:warn " />
         <option value="package:mine WebViewActivity" />
         <option value="package:mine level:info commApi" />
@@ -16,13 +18,11 @@
         <option value="package:mine isAndroid" />
         <option value="package:mine " />
         <option value="package:com.jin10 普通事件" />
-        <option value="package:com.jin10 onBroadcastEvent" />
         <option value="package:mine https://93e3b7cd331940779c38c576191214c1.z3c.jin10.com/" />
         <option value="package:mine onBroadcastEvent" />
         <option value="package:com.jin10 level:warn " />
         <option value="package:com.jin10  onBroadcastEvent" />
         <option value="package:com.jin10  https://93e3b7cd331940779c38c576191214c1.z3c.jin10.com" />
-        <option value="package:com.jin10  " />
       </list>
     </option>
   </component>
