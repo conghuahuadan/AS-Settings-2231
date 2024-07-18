@@ -1,13 +1,18 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.andy.jpushdemo token" />
+    <option name="mostRecentlyUsed" value="package:com.jin10 SquareLog" />
     <option name="nonFavorites">
       <list>
-        <option value="package:com.andy.jpushdemo token" />
-        <option value="package:mine level:info " />
-        <option value="package:com.jin10 " />
-        <option value="package:com.jin10 普通事件" />
         <option value="package:com.jin10 SquareLog" />
+        <option value="package:com.jin10 " />
+        <option value="package:com.andy.jpushdemo PushMessageReceiver" />
+        <option value="package:com.andy.jpushdemo " />
+        <option value="package:com.andy.jpushdemo 140" />
+        <option value="package:mine SquareLog" />
+        <option value="package:mine level:info SquareLog" />
+        <option value="package:mine level:info " />
+        <option value="package:com.andy.jpushdemo token" />
+        <option value="package:com.jin10 普通事件" />
         <option value="package:com.jin10 onNotifyMessageArrived" />
         <option value="package:com.jin10 level:warn " />
         <option value="package:com.jin10 onNotifyMessageOpened" />
@@ -18,11 +23,6 @@
         <option value="flutter " />
         <option value="flutter" />
         <option value="package:mine InnerJavascriptInterface" />
-        <option value="package:com.jin10 93e3b7cd331940779c38c576191214c1" />
-        <option value="package:com.jin10 methodName" />
-        <option value="package:mine isAndroid" />
-        <option value="package:mine " />
-        <option value="package:mine https://93e3b7cd331940779c38c576191214c1.z3c.jin10.com/" />
       </list>
     </option>
   </component>
