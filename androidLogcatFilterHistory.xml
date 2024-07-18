@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.jin10 " />
+    <option name="mostRecentlyUsed" value="flutter " />
     <option name="nonFavorites">
       <list>
+        <option value="flutter " />
+        <option value="flutter onWebResourceError" />
         <option value="package:com.jin10 " />
         <option value="package:com.jin10 SquareLog" />
         <option value="package:com.andy.jpushdemo PushMessageReceiver" />
@@ -20,9 +22,7 @@
         <option value="package:mine level:warn " />
         <option value="package:mine WebViewActivity" />
         <option value="package:mine level:info commApi" />
-        <option value="flutter " />
         <option value="flutter" />
-        <option value="package:mine InnerJavascriptInterface" />
       </list>
     </option>
   </component>
