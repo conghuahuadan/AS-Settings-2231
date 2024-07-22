@@ -1,9 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="flutter " />
+    <option name="mostRecentlyUsed" value="flutter candleVisibleCount" />
     <option name="nonFavorites">
       <list>
+        <option value="flutter candleVisibleCount" />
+        <option value="flutter _computeSegmentAvg" />
+        <option value="flutter drawTimeline" />
         <option value="flutter " />
+        <option value="flutter period" />
         <option value="package:com.jin10 普通事件" />
         <option value="package:com.jin10 forecast" />
         <option value="flutter 耗时" />
@@ -19,10 +23,6 @@
         <option value="package:mine level:info " />
         <option value="package:com.andy.jpushdemo token" />
         <option value="package:com.jin10 onNotifyMessageArrived" />
-        <option value="package:com.jin10 level:warn " />
-        <option value="package:com.jin10 onNotifyMessageOpened" />
-        <option value="package:com.jin10 onBroadcastEvent" />
-        <option value="package:mine level:warn " />
       </list>
     </option>
   </component>
