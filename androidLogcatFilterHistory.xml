@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="flutter klineChartDefaultOffset" />
+    <option name="mostRecentlyUsed" value="flutter scaleReset" />
     <option name="nonFavorites">
       <list>
+        <option value="flutter scaleReset" />
         <option value="flutter klineChartDefaultOffset" />
         <option value="flutter klineOffsetX" />
         <option value="flutter candleVisibleCount" />
