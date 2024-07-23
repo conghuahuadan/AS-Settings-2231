@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="initState" />
+    <option name="mostRecentlyUsed" value="pageChangedListener" />
     <option name="nonFavorites">
       <list>
+        <option value="pageChangedListener" />
         <option value="initState" />
         <option value="pageController" />
         <option value="flutter candleVisibleCount" />
@@ -22,7 +23,6 @@
         <option value="package:com.andy.jpushdemo 140" />
         <option value="package:mine SquareLog" />
         <option value="package:mine level:info SquareLog" />
-        <option value="package:mine level:info " />
       </list>
     </option>
   </component>
