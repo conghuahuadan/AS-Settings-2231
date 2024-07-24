@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="onVisible" />
+    <option name="mostRecentlyUsed" value="listener" />
     <option name="nonFavorites">
       <list>
+        <option value="listener" />
         <option value="onVisible" />
         <option value="currentState" />
         <option value="pageChangedListener" />
@@ -22,7 +23,6 @@
         <option value="package:com.jin10 SquareLog" />
         <option value="package:com.andy.jpushdemo PushMessageReceiver" />
         <option value="package:com.andy.jpushdemo " />
-        <option value="package:com.andy.jpushdemo 140" />
       </list>
     </option>
   </component>
