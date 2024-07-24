@@ -1,10 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="currentState" />
+    <option name="mostRecentlyUsed" value="onVisible" />
     <option name="nonFavorites">
       <list>
-        <option value="currentState" />
         <option value="onVisible" />
+        <option value="currentState" />
         <option value="pageChangedListener" />
         <option value="initState" />
         <option value="pageController" />
