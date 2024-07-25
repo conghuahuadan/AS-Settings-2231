@@ -1,14 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine onCreate" />
+    <option name="mostRecentlyUsed" value="initState" />
     <option name="nonFavorites">
       <list>
+        <option value="initState" />
         <option value="package:mine onCreate" />
         <option value="listener" />
         <option value="onVisible" />
         <option value="currentState" />
         <option value="pageChangedListener" />
-        <option value="initState" />
         <option value="pageController" />
         <option value="flutter candleVisibleCount" />
         <option value="flutter _computeSegmentAvg" />
