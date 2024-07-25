@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="flutter " />
+    <option name="mostRecentlyUsed" value="flutter ScrollHeightNotifier" />
     <option name="nonFavorites">
       <list>
+        <option value="flutter ScrollHeightNotifier" />
+        <option value="flutter scrollHeightNotifier" />
         <option value="flutter " />
         <option value="initState" />
         <option value="package:mine onCreate" />
@@ -21,8 +23,6 @@
         <option value="flutter" />
         <option value="flutter onWebResourceError" />
         <option value="package:com.jin10 " />
-        <option value="package:com.jin10 SquareLog" />
-        <option value="package:com.andy.jpushdemo PushMessageReceiver" />
       </list>
     </option>
   </component>
