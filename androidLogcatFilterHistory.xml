@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="initState" />
+    <option name="mostRecentlyUsed" value="flutter " />
     <option name="nonFavorites">
       <list>
+        <option value="flutter " />
         <option value="initState" />
         <option value="package:mine onCreate" />
         <option value="listener" />
@@ -13,7 +14,6 @@
         <option value="flutter candleVisibleCount" />
         <option value="flutter _computeSegmentAvg" />
         <option value="flutter drawTimeline" />
-        <option value="flutter " />
         <option value="flutter period" />
         <option value="package:com.jin10 普通事件" />
         <option value="package:com.jin10 forecast" />
