@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="flutter ScrollHeightNotifier" />
+    <option name="mostRecentlyUsed" value="flutter 绘制完成" />
     <option name="nonFavorites">
       <list>
+        <option value="flutter 绘制完成" />
         <option value="flutter ScrollHeightNotifier" />
         <option value="flutter scrollHeightNotifier" />
         <option value="flutter " />
@@ -22,7 +23,6 @@
         <option value="flutter 耗时" />
         <option value="flutter" />
         <option value="flutter onWebResourceError" />
-        <option value="package:com.jin10 " />
       </list>
     </option>
   </component>
