@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="drag--" />
+    <option name="mostRecentlyUsed" value="delta1" />
     <option name="nonFavorites">
       <list>
+        <option value="delta1" />
+        <option value="delta" />
         <option value="drag--" />
         <option value="_handleDragUpdate" />
         <option value="scrollController" />
@@ -21,8 +23,6 @@
         <option value="package:mine onCreate" />
         <option value="listener" />
         <option value="onVisible" />
-        <option value="currentState" />
-        <option value="pageChangedListener" />
       </list>
     </option>
   </component>
