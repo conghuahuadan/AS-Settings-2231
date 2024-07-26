@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="paint" />
+    <option name="mostRecentlyUsed" value="constraints" />
     <option name="nonFavorites">
       <list>
+        <option value="constraints" />
+        <option value="parentHeight" />
         <option value="paint" />
         <option value="package:com.jin10 " />
         <option value="onScrollOffsetChanged" />
@@ -21,8 +23,6 @@
         <option value="flutter candleVisibleCount" />
         <option value="flutter _computeSegmentAvg" />
         <option value="flutter drawTimeline" />
-        <option value="flutter period" />
-        <option value="package:com.jin10 普通事件" />
       </list>
     </option>
   </component>
