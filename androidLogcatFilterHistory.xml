@@ -1,17 +1,19 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="delta1" />
+    <option name="mostRecentlyUsed" value="applyUserOffset" />
     <option name="nonFavorites">
       <list>
+        <option value="applyUserOffset" />
+        <option value="scrollController" />
+        <option value="paint" />
+        <option value="childHeight" />
         <option value="delta1" />
         <option value="delta" />
         <option value="drag--" />
         <option value="_handleDragUpdate" />
-        <option value="scrollController" />
         <option value="performLayout" />
         <option value="constraints" />
         <option value="parentHeight" />
-        <option value="paint" />
         <option value="package:com.jin10 " />
         <option value="onScrollOffsetChanged" />
         <option value="flutter paint" />
@@ -21,8 +23,6 @@
         <option value="flutter " />
         <option value="initState" />
         <option value="package:mine onCreate" />
-        <option value="listener" />
-        <option value="onVisible" />
       </list>
     </option>
   </component>
