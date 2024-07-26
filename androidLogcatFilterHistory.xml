@@ -1,11 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="applyUserOffset" />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
-        <option value="applyUserOffset" />
         <option value="scrollController" />
+        <option value="WebViewBoxAdapter" />
         <option value="paint" />
+        <option value="scrollview" />
+        <option value="applyUserOffset" />
         <option value="childHeight" />
         <option value="delta1" />
         <option value="delta" />
@@ -21,8 +23,6 @@
         <option value="flutter ScrollHeightNotifier" />
         <option value="flutter scrollHeightNotifier" />
         <option value="flutter " />
-        <option value="initState" />
-        <option value="package:mine onCreate" />
       </list>
     </option>
   </component>
