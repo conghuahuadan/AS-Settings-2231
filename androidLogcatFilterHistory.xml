@@ -1,9 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
         <option value="scrollController" />
+        <option value="package:mine " />
+        <option value="package:com.jin10 " />
         <option value="WebViewBoxAdapter" />
         <option value="paint" />
         <option value="scrollview" />
@@ -16,13 +17,11 @@
         <option value="performLayout" />
         <option value="constraints" />
         <option value="parentHeight" />
-        <option value="package:com.jin10 " />
         <option value="onScrollOffsetChanged" />
         <option value="flutter paint" />
         <option value="flutter 绘制完成" />
         <option value="flutter ScrollHeightNotifier" />
         <option value="flutter scrollHeightNotifier" />
-        <option value="flutter " />
       </list>
     </option>
   </component>
