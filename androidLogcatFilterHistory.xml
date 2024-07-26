@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="performLayout" />
+    <option name="mostRecentlyUsed" value="drag--" />
     <option name="nonFavorites">
       <list>
+        <option value="drag--" />
+        <option value="_handleDragUpdate" />
+        <option value="scrollController" />
         <option value="performLayout" />
         <option value="constraints" />
         <option value="parentHeight" />
@@ -20,9 +23,6 @@
         <option value="onVisible" />
         <option value="currentState" />
         <option value="pageChangedListener" />
-        <option value="pageController" />
-        <option value="flutter candleVisibleCount" />
-        <option value="flutter _computeSegmentAvg" />
       </list>
     </option>
   </component>
