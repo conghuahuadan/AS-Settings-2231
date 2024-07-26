@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="constraints" />
+    <option name="mostRecentlyUsed" value="performLayout" />
     <option name="nonFavorites">
       <list>
+        <option value="performLayout" />
         <option value="constraints" />
         <option value="parentHeight" />
         <option value="paint" />
@@ -22,7 +23,6 @@
         <option value="pageController" />
         <option value="flutter candleVisibleCount" />
         <option value="flutter _computeSegmentAvg" />
-        <option value="flutter drawTimeline" />
       </list>
     </option>
   </component>
