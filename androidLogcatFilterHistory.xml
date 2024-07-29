@@ -1,12 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.jin10 下拉刷新url" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:com.jin10 下拉刷新url" />
         <option value="package:mine 下拉刷新url" />
         <option value="scrollController" />
-        <option value="package:mine " />
         <option value="package:com.jin10 " />
         <option value="WebViewBoxAdapter" />
         <option value="paint" />
