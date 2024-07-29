@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="package:mine 下拉刷新url" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine 下拉刷新url" />
         <option value="scrollController" />
         <option value="package:mine " />
         <option value="package:com.jin10 " />
@@ -22,7 +23,6 @@
         <option value="flutter paint" />
         <option value="flutter 绘制完成" />
         <option value="flutter ScrollHeightNotifier" />
-        <option value="flutter scrollHeightNotifier" />
       </list>
     </option>
   </component>
