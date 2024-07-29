@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.jin10 " />
+    <option name="mostRecentlyUsed" value="package:com.jin10 methodName" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.jin10 methodName" />
         <option value="package:mine " />
         <option value="package:com.jin10 " />
         <option value="package:com.jin10 下拉刷新url" />
@@ -22,7 +23,6 @@
         <option value="parentHeight" />
         <option value="onScrollOffsetChanged" />
         <option value="flutter paint" />
-        <option value="flutter 绘制完成" />
       </list>
     </option>
   </component>
