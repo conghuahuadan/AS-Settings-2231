@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="flutter" />
+    <option name="mostRecentlyUsed" value="Navigator.push" />
     <option name="nonFavorites">
       <list>
+        <option value="Navigator.push" />
+        <option value="object" />
         <option value="flutter" />
         <option value="package:com.jin10 " />
         <option value="package:com.jin10 methodName" />
@@ -21,8 +23,6 @@
         <option value="_handleDragUpdate" />
         <option value="performLayout" />
         <option value="constraints" />
-        <option value="parentHeight" />
-        <option value="onScrollOffsetChanged" />
       </list>
     </option>
   </component>
