@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="Navigator.push" />
+    <option name="mostRecentlyUsed" value="NestPageHelperParent" />
     <option name="nonFavorites">
       <list>
+        <option value="NestPageHelperParent" />
+        <option value="NestPageHelperChild" />
+        <option value="NestPageHelper" />
         <option value="package:com.jin10" />
         <option value="Navigator.push" />
         <option value="object" />
@@ -20,9 +23,6 @@
         <option value="childHeight" />
         <option value="delta1" />
         <option value="delta" />
-        <option value="drag--" />
-        <option value="_handleDragUpdate" />
-        <option value="performLayout" />
       </list>
     </option>
   </component>
