@@ -3,6 +3,7 @@
     <option name="mostRecentlyUsed" value="Navigator.push" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.jin10" />
         <option value="Navigator.push" />
         <option value="object" />
         <option value="flutter" />
@@ -22,7 +23,6 @@
         <option value="drag--" />
         <option value="_handleDragUpdate" />
         <option value="performLayout" />
-        <option value="constraints" />
       </list>
     </option>
   </component>
