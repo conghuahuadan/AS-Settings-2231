@@ -3,6 +3,7 @@
     <variable name="date" expression="date(&quot;yyyy-MM-dd, E&quot;)" defaultValue="" alwaysStopAt="true" />
     <variable name="text" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="DART" value="true" />
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
