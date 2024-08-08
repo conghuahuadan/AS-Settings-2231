@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="currentPosition" />
+    <option name="mostRecentlyUsed" value="onHorizontalDragEnd" />
     <option name="nonFavorites">
       <list>
+        <option value="onHorizontalDragEnd" />
         <option value="currentPosition" />
         <option value="startX" />
         <option value="LayoutBuilder" />
@@ -22,7 +23,6 @@
         <option value="package:mine 下拉刷新url" />
         <option value="scrollController" />
         <option value="WebViewBoxAdapter" />
-        <option value="paint" />
       </list>
     </option>
   </component>
