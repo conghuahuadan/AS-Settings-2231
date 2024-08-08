@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="NestPageHelperParent" />
+    <option name="mostRecentlyUsed" value="computeData" />
     <option name="nonFavorites">
       <list>
+        <option value="computeData" />
         <option value="NestPageHelperParent" />
         <option value="NestPageHelperChild" />
         <option value="NestPageHelper" />
@@ -22,7 +23,6 @@
         <option value="applyUserOffset" />
         <option value="childHeight" />
         <option value="delta1" />
-        <option value="delta" />
       </list>
     </option>
   </component>
