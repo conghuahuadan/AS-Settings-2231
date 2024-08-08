@@ -1,8 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="computeData" />
+    <option name="mostRecentlyUsed" value="currentPosition" />
     <option name="nonFavorites">
       <list>
+        <option value="currentPosition" />
+        <option value="startX" />
+        <option value="LayoutBuilder" />
+        <option value="onHorizontalDragUpdate" />
         <option value="computeData" />
         <option value="NestPageHelperParent" />
         <option value="NestPageHelperChild" />
@@ -19,10 +23,6 @@
         <option value="scrollController" />
         <option value="WebViewBoxAdapter" />
         <option value="paint" />
-        <option value="scrollview" />
-        <option value="applyUserOffset" />
-        <option value="childHeight" />
-        <option value="delta1" />
       </list>
     </option>
   </component>
