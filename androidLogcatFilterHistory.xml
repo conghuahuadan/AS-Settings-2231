@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="flutter dateTimeToPosition" />
+    <option name="mostRecentlyUsed" value="flutter positionToTime" />
     <option name="nonFavorites">
       <list>
+        <option value="flutter positionToTime" />
         <option value="flutter dateTimeToPosition" />
         <option value="flutter" />
         <option value="package:mine flutter" />
@@ -22,7 +23,6 @@
         <option value="object" />
         <option value="package:com.jin10 " />
         <option value="package:com.jin10 methodName" />
-        <option value="package:mine " />
       </list>
     </option>
   </component>
