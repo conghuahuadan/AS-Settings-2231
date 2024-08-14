@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="flutter positionToTime" />
+    <option name="mostRecentlyUsed" value="spDebugHttpProxyBool" />
     <option name="nonFavorites">
       <list>
+        <option value="spDebugHttpProxyBool" />
+        <option value="flutter " />
         <option value="flutter positionToTime" />
         <option value="flutter dateTimeToPosition" />
         <option value="flutter" />
@@ -21,8 +23,6 @@
         <option value="package:com.jin10" />
         <option value="Navigator.push" />
         <option value="object" />
-        <option value="package:com.jin10 " />
-        <option value="package:com.jin10 methodName" />
       </list>
     </option>
   </component>
