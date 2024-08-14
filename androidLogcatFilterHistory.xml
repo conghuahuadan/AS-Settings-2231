@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="flutter" />
+    <option name="mostRecentlyUsed" value="flutter token" />
     <option name="nonFavorites">
       <list>
+        <option value="flutter token" />
         <option value="flutter" />
         <option value="VipNavBarList" />
         <option value="getNavBarListFirstLocal" />
@@ -22,7 +23,6 @@
         <option value="computeData" />
         <option value="NestPageHelperParent" />
         <option value="NestPageHelperChild" />
-        <option value="NestPageHelper" />
       </list>
     </option>
   </component>
