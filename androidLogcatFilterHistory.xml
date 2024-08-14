@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="VipNavBarList" />
+    <option name="mostRecentlyUsed" value="flutter" />
     <option name="nonFavorites">
       <list>
+        <option value="flutter" />
         <option value="VipNavBarList" />
         <option value="getNavBarListFirstLocal" />
         <option value="flutter " />
@@ -10,7 +11,6 @@
         <option value="spDebugHttpProxyBool" />
         <option value="flutter positionToTime" />
         <option value="flutter dateTimeToPosition" />
-        <option value="flutter" />
         <option value="package:mine flutter" />
         <option value="isDaylightSavingTime" />
         <option value="onScaleChanged" />
