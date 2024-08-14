@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="flutter " />
+    <option name="mostRecentlyUsed" value="VipNavBarList" />
     <option name="nonFavorites">
       <list>
+        <option value="VipNavBarList" />
+        <option value="getNavBarListFirstLocal" />
         <option value="flutter " />
         <option value="flutter builder" />
         <option value="spDebugHttpProxyBool" />
@@ -21,8 +23,6 @@
         <option value="NestPageHelperParent" />
         <option value="NestPageHelperChild" />
         <option value="NestPageHelper" />
-        <option value="package:com.jin10" />
-        <option value="Navigator.push" />
       </list>
     </option>
   </component>
