@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="flutter " />
+    <option name="mostRecentlyUsed" value="package:mine 普通事件" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine 普通事件" />
+        <option value="package:mine 耗时" />
+        <option value="package:mine flutter" />
         <option value="flutter " />
         <option value="flutter drawDragBlock" />
         <option value="drawDragBlock" />
@@ -14,15 +17,12 @@
         <option value="flutter builder" />
         <option value="flutter positionToTime" />
         <option value="flutter dateTimeToPosition" />
-        <option value="package:mine flutter" />
         <option value="isDaylightSavingTime" />
         <option value="onScaleChanged" />
         <option value="onHorizontalDragEnd" />
         <option value="currentPosition" />
         <option value="startX" />
         <option value="LayoutBuilder" />
-        <option value="onHorizontalDragUpdate" />
-        <option value="computeData" />
       </list>
     </option>
   </component>
