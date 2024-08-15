@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="flutter token" />
+    <option name="mostRecentlyUsed" value="flutter drawDragBlock" />
     <option name="nonFavorites">
       <list>
+        <option value="flutter drawDragBlock" />
+        <option value="drawDragBlock" />
         <option value="spDebugHttpProxyBool" />
         <option value="flutter token" />
         <option value="flutter" />
@@ -21,8 +23,6 @@
         <option value="LayoutBuilder" />
         <option value="onHorizontalDragUpdate" />
         <option value="computeData" />
-        <option value="NestPageHelperParent" />
-        <option value="NestPageHelperChild" />
       </list>
     </option>
   </component>
