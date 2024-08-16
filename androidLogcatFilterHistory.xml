@@ -3,11 +3,11 @@
     <option name="mostRecentlyUsed" value="package:mine level:warn " />
     <option name="nonFavorites">
       <list>
+        <option value="flutter " />
         <option value="package:mine level:warn " />
         <option value="package:mine flutter" />
         <option value="package:mine 普通事件" />
         <option value="package:mine 耗时" />
-        <option value="flutter " />
         <option value="flutter drawDragBlock" />
         <option value="drawDragBlock" />
         <option value="spDebugHttpProxyBool" />
