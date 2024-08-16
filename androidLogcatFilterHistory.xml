@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="flutter onSwitchChanged" />
     <option name="nonFavorites">
       <list>
+        <option value="flutter onSwitchChanged" />
         <option value="package:mine " />
         <option value="package:mine level:info " />
         <option value="flutter " />
@@ -21,7 +23,6 @@
         <option value="flutter dateTimeToPosition" />
         <option value="isDaylightSavingTime" />
         <option value="onScaleChanged" />
-        <option value="onHorizontalDragEnd" />
       </list>
     </option>
   </component>
