@@ -1,15 +1,17 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine /category/info" />
+    <option name="mostRecentlyUsed" value="flutter JinWebViewWidget" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine /category/info" />
+        <option value="flutter JinWebViewWidget" />
         <option value="flutter " />
-        <option value="flutter onSwitchChanged" />
+        <option value="flutter flashMarketNameTable" />
+        <option value="package:mine flutter" />
         <option value="package:mine " />
+        <option value="package:mine /category/info" />
+        <option value="flutter onSwitchChanged" />
         <option value="package:mine level:info " />
         <option value="package:mine level:warn " />
-        <option value="package:mine flutter" />
         <option value="package:mine 普通事件" />
         <option value="package:mine 耗时" />
         <option value="flutter drawDragBlock" />
@@ -21,8 +23,6 @@
         <option value="getNavBarListFirstLocal" />
         <option value="flutter builder" />
         <option value="flutter positionToTime" />
-        <option value="flutter dateTimeToPosition" />
-        <option value="isDaylightSavingTime" />
       </list>
     </option>
   </component>
