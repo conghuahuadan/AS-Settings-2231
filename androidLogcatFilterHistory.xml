@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="getAppUserInfos" />
+    <option name="mostRecentlyUsed" value="_countries" />
     <option name="nonFavorites">
       <list>
+        <option value="_countries" />
         <option value="getAppUserInfos" />
         <option value="Commapi" />
         <option value="package:mine " />
@@ -22,7 +23,6 @@
         <option value="drawDragBlock" />
         <option value="spDebugHttpProxyBool" />
         <option value="flutter token" />
-        <option value="VipNavBarList" />
       </list>
     </option>
   </component>
