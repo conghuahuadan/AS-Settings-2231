@@ -1,16 +1,17 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="flutter" />
+    <option name="mostRecentlyUsed" value="getAppUserInfos" />
     <option name="nonFavorites">
       <list>
-        <option value="flutter" />
         <option value="getAppUserInfos" />
+        <option value="Commapi" />
+        <option value="package:mine " />
         <option value="flutter getAppUserInfos" />
+        <option value="flutter" />
         <option value="flutter JinWebViewWidget" />
         <option value="flutter " />
         <option value="flutter flashMarketNameTable" />
         <option value="package:mine flutter" />
-        <option value="package:mine " />
         <option value="package:mine /category/info" />
         <option value="flutter onSwitchChanged" />
         <option value="package:mine level:info " />
@@ -22,7 +23,6 @@
         <option value="spDebugHttpProxyBool" />
         <option value="flutter token" />
         <option value="VipNavBarList" />
-        <option value="getNavBarListFirstLocal" />
       </list>
     </option>
   </component>
