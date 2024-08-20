@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="flutter getAppUserInfos" />
+    <option name="mostRecentlyUsed" value="flutter" />
     <option name="nonFavorites">
       <list>
+        <option value="flutter" />
         <option value="getAppUserInfos" />
         <option value="flutter getAppUserInfos" />
         <option value="flutter JinWebViewWidget" />
@@ -20,7 +21,6 @@
         <option value="drawDragBlock" />
         <option value="spDebugHttpProxyBool" />
         <option value="flutter token" />
-        <option value="flutter" />
         <option value="VipNavBarList" />
         <option value="getNavBarListFirstLocal" />
       </list>
