@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="getAppUserInfos" />
+    <option name="mostRecentlyUsed" value="flutter getAppUserInfos" />
     <option name="nonFavorites">
       <list>
+        <option value="flutter getAppUserInfos" />
         <option value="getAppUserInfos" />
         <option value="flutter JinWebViewWidget" />
         <option value="flutter " />
@@ -22,7 +23,6 @@
         <option value="flutter" />
         <option value="VipNavBarList" />
         <option value="getNavBarListFirstLocal" />
-        <option value="flutter builder" />
       </list>
     </option>
   </component>
