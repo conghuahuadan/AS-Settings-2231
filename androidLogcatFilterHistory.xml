@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="getCategoryConfig" />
+    <option name="mostRecentlyUsed" value="scheduledUpdateTime" />
     <option name="nonFavorites">
       <list>
+        <option value="scheduledUpdateTime" />
+        <option value="str" />
+        <option value="currentPage" />
         <option value="getCategoryConfig" />
         <option value="buildBodyWidget" />
         <option value="_countries" />
@@ -20,9 +23,6 @@
         <option value="package:mine level:info " />
         <option value="package:mine level:warn " />
         <option value="package:mine 普通事件" />
-        <option value="package:mine 耗时" />
-        <option value="flutter drawDragBlock" />
-        <option value="drawDragBlock" />
       </list>
     </option>
   </component>
