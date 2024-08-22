@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="getAppUserInfos" />
     <option name="nonFavorites">
       <list>
+        <option value="getAppUserInfos" />
+        <option value="commapi" />
         <option value="getVipSummaryList" />
         <option value="scheduledUpdateTime" />
         <option value="str" />
@@ -10,7 +12,6 @@
         <option value="getCategoryConfig" />
         <option value="buildBodyWidget" />
         <option value="_countries" />
-        <option value="getAppUserInfos" />
         <option value="Commapi" />
         <option value="package:mine " />
         <option value="flutter getAppUserInfos" />
@@ -22,7 +23,6 @@
         <option value="package:mine /category/info" />
         <option value="flutter onSwitchChanged" />
         <option value="package:mine level:info " />
-        <option value="package:mine level:warn " />
       </list>
     </option>
   </component>
