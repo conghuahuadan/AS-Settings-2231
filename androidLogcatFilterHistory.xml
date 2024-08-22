@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="getAppUserInfos" />
+    <option name="mostRecentlyUsed" value="flutter getAppUserInfos" />
     <option name="nonFavorites">
       <list>
+        <option value="flutter getAppUserInfos" />
+        <option value="package:mine getAppUserInfos" />
         <option value="getAppUserInfos" />
         <option value="commapi" />
         <option value="getVipSummaryList" />
@@ -14,7 +16,6 @@
         <option value="_countries" />
         <option value="Commapi" />
         <option value="package:mine " />
-        <option value="flutter getAppUserInfos" />
         <option value="flutter" />
         <option value="flutter JinWebViewWidget" />
         <option value="flutter " />
@@ -22,7 +23,6 @@
         <option value="package:mine flutter" />
         <option value="package:mine /category/info" />
         <option value="flutter onSwitchChanged" />
-        <option value="package:mine level:info " />
       </list>
     </option>
   </component>
