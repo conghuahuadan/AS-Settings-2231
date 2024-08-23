@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine handleMessage" />
+    <option name="mostRecentlyUsed" value="flutter getVipSummaryList" />
     <option name="nonFavorites">
       <list>
+        <option value="flutter getVipSummaryList" />
+        <option value="flutter " />
         <option value="package:mine handleMessage" />
         <option value="flutter" />
         <option value="package:mine flutter" />
@@ -21,8 +23,6 @@
         <option value="getCategoryConfig" />
         <option value="buildBodyWidget" />
         <option value="_countries" />
-        <option value="Commapi" />
-        <option value="flutter JinWebViewWidget" />
       </list>
     </option>
   </component>
