@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine flutter" />
+    <option name="mostRecentlyUsed" value="flutter" />
     <option name="nonFavorites">
       <list>
+        <option value="flutter" />
         <option value="package:mine flutter" />
         <option value="onSwitchChanged" />
         <option value="scrollController" />
@@ -20,7 +21,6 @@
         <option value="buildBodyWidget" />
         <option value="_countries" />
         <option value="Commapi" />
-        <option value="flutter" />
         <option value="flutter JinWebViewWidget" />
         <option value="flutter " />
       </list>
