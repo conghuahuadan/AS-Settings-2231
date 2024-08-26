@@ -1,8 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="flutter IntrinsicHeight" />
+    <option name="mostRecentlyUsed" value="listenMethodCall &#10;" />
     <option name="nonFavorites">
       <list>
+        <option value="listenMethodCall &#10;" />
+        <option value="package:mine listenMethodCall" />
+        <option value="flutter listenMethodCall &#10;" />
+        <option value="flutter listenMethodCall" />
         <option value="flutter IntrinsicHeight" />
         <option value="flutter " />
         <option value="flutter scrollController" />
@@ -19,10 +23,6 @@
         <option value="flutter getAppUserInfos" />
         <option value="getAppUserInfos" />
         <option value="commapi" />
-        <option value="getVipSummaryList" />
-        <option value="scheduledUpdateTime" />
-        <option value="str" />
-        <option value="currentPage" />
       </list>
     </option>
   </component>
