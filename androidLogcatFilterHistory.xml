@@ -1,16 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="flutter getVipSummaryList" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
+        <option value="package:mine handleMessage" />
         <option value="flutter getVipSummaryList" />
         <option value="flutter " />
-        <option value="package:mine handleMessage" />
         <option value="flutter" />
         <option value="package:mine flutter" />
         <option value="onSwitchChanged" />
         <option value="scrollController" />
-        <option value="package:mine " />
         <option value="package:mine getAppUserInfos" />
         <option value="package:mine get" />
         <option value="flutter getAppUserInfos" />
