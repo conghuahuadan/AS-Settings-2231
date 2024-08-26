@@ -1,7 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="flutter scrollController" />
     <option name="nonFavorites">
       <list>
+        <option value="flutter scrollController" />
+        <option value="flutter setShowOpenVipBtn" />
         <option value="package:mine " />
         <option value="package:mine handleMessage" />
         <option value="flutter getVipSummaryList" />
@@ -20,8 +23,6 @@
         <option value="str" />
         <option value="currentPage" />
         <option value="getCategoryConfig" />
-        <option value="buildBodyWidget" />
-        <option value="_countries" />
       </list>
     </option>
   </component>
