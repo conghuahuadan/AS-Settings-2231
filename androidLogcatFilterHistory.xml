@@ -1,15 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="flutter IntrinsicHeight" />
+    <option name="mostRecentlyUsed" value="flutter " />
     <option name="nonFavorites">
       <list>
+        <option value="flutter " />
         <option value="flutter IntrinsicHeight" />
         <option value="flutter scrollController" />
         <option value="flutter setShowOpenVipBtn" />
         <option value="package:mine " />
         <option value="package:mine handleMessage" />
         <option value="flutter getVipSummaryList" />
-        <option value="flutter " />
         <option value="flutter" />
         <option value="package:mine flutter" />
         <option value="onSwitchChanged" />
