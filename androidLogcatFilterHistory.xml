@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="flutter scrollController" />
+    <option name="mostRecentlyUsed" value="flutter IntrinsicHeight" />
     <option name="nonFavorites">
       <list>
+        <option value="flutter IntrinsicHeight" />
         <option value="flutter scrollController" />
         <option value="flutter setShowOpenVipBtn" />
         <option value="package:mine " />
@@ -22,7 +23,6 @@
         <option value="scheduledUpdateTime" />
         <option value="str" />
         <option value="currentPage" />
-        <option value="getCategoryConfig" />
       </list>
     </option>
   </component>
