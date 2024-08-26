@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="onScaleChanged&#10;" />
+    <option name="mostRecentlyUsed" value="HorizontalTimeScaleWidget" />
     <option name="nonFavorites">
       <list>
+        <option value="HorizontalTimeScaleWidget" />
+        <option value="onHorizontal" />
+        <option value="package:mine onBroadcastEvent" />
         <option value="onScaleChanged&#10;" />
         <option value="listenMethodCall &#10;" />
         <option value="package:mine listenMethodCall" />
@@ -20,9 +23,6 @@
         <option value="onSwitchChanged" />
         <option value="scrollController" />
         <option value="package:mine getAppUserInfos" />
-        <option value="package:mine get" />
-        <option value="flutter getAppUserInfos" />
-        <option value="getAppUserInfos" />
       </list>
     </option>
   </component>
