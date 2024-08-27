@@ -1,9 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="getAppUserInfos" />
+    <option name="mostRecentlyUsed" value="onPageStarted" />
     <option name="nonFavorites">
       <list>
+        <option value="onPageStarted" />
         <option value="getAppUserInfos" />
+        <option value="LoginChangedEvent" />
         <option value="Flutter onPageStarted" />
         <option value="Flutter" />
         <option value="onVipSummaryChanged" />
@@ -21,8 +23,6 @@
         <option value="flutter IntrinsicHeight" />
         <option value="flutter " />
         <option value="flutter scrollController" />
-        <option value="flutter setShowOpenVipBtn" />
-        <option value="package:mine " />
       </list>
     </option>
   </component>
