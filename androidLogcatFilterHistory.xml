@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="getAppUserInfos" />
     <option name="nonFavorites">
       <list>
+        <option value="getAppUserInfos" />
+        <option value="Flutter onPageStarted" />
         <option value="Flutter" />
         <option value="onVipSummaryChanged" />
         <option value="Timer" />
@@ -21,8 +23,6 @@
         <option value="flutter scrollController" />
         <option value="flutter setShowOpenVipBtn" />
         <option value="package:mine " />
-        <option value="package:mine handleMessage" />
-        <option value="flutter getVipSummaryList" />
       </list>
     </option>
   </component>
