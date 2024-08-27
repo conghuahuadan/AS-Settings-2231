@@ -8,9 +8,8 @@
             <value value="a188bb66" />
           </Key>
         </key>
-        <name value="Xiaomi M2002J9E" />
-        <target value="Android 12L" />
-        <api value="androidversion:32:null:1:true" />
+        <name value="Device" />
+        <target value="Android 1.0" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -108,6 +107,17 @@
           </Key>
         </key>
         <name value="Xiaomi Redmi K30" />
+        <target value="Android 12.0" />
+        <api value="androidversion:31:null:1:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="YP5PMFFUNF9XAI5T" />
+          </Key>
+        </key>
+        <name value="OPPO PDYM20" />
         <target value="Android 12.0" />
         <api value="androidversion:31:null:1:true" />
       </PhysicalDevice>
