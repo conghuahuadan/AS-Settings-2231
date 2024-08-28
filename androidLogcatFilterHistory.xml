@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="locationTimer" />
+    <option name="mostRecentlyUsed" value="package:mine level:warn " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:warn " />
+        <option value="普通事件" />
         <option value="locationTimer" />
         <option value="flutter JinWebViewRecognizer" />
         <option value="flutter addAllowedPointer" />
@@ -21,8 +23,6 @@
         <option value="onScaleChanged&#10;" />
         <option value="listenMethodCall &#10;" />
         <option value="package:mine listenMethodCall" />
-        <option value="flutter listenMethodCall &#10;" />
-        <option value="flutter listenMethodCall" />
       </list>
     </option>
   </component>
