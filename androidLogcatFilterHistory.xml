@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="locationTimer" />
     <option name="nonFavorites">
       <list>
+        <option value="locationTimer" />
         <option value="flutter JinWebViewRecognizer" />
         <option value="flutter addAllowedPointer" />
         <option value="onPageStarted" />
@@ -22,7 +23,6 @@
         <option value="package:mine listenMethodCall" />
         <option value="flutter listenMethodCall &#10;" />
         <option value="flutter listenMethodCall" />
-        <option value="flutter IntrinsicHeight" />
       </list>
     </option>
   </component>
