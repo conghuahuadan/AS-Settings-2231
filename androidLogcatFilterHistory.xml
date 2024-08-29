@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="flutter" />
+    <option name="mostRecentlyUsed" value="package:mine JinFlutterFragment" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine JinFlutterFragment" />
+        <option value="package:mine uuid:" />
         <option value="package:mine level:warn " />
         <option value="flutter" />
         <option value="getVipHeaderAd" />
@@ -21,8 +23,6 @@
         <option value="onVipSummaryChanged" />
         <option value="Timer" />
         <option value="onBroadcastEvent" />
-        <option value=" &#10;" />
-        <option value="HorizontalTimeScaleWidget" />
       </list>
     </option>
   </component>
