@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="缓存路径" />
+    <option name="mostRecentlyUsed" value="getVipHeaderAd" />
     <option name="nonFavorites">
       <list>
+        <option value="getVipHeaderAd" />
         <option value="缓存路径" />
         <option value="kolAvatarLight" />
         <option value="package:mine level:warn " />
@@ -22,7 +23,6 @@
         <option value=" &#10;" />
         <option value="HorizontalTimeScaleWidget" />
         <option value="onHorizontal" />
-        <option value="package:mine onBroadcastEvent" />
       </list>
     </option>
   </component>
