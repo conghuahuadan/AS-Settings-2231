@@ -1,8 +1,8 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="Flutter" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="Flutter" />
         <option value="package:mine 普通事件" />
         <option value="package:mine JinFlutterFragment" />
@@ -22,7 +22,6 @@
         <option value="LoginChangedEvent" />
         <option value="Flutter onPageStarted" />
         <option value="onVipSummaryChanged" />
-        <option value="Timer" />
       </list>
     </option>
   </component>
