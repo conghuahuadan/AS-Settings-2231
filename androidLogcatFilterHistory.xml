@@ -1,10 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine flutter" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine flutter" />
+        <option value="package:mine 普通事件" />
+        <option value="package:mine 普通" />
         <option value="package:mine " />
         <option value="package:mine 导航块" />
-        <option value="package:mine 普通事件" />
         <option value="Flutter" />
         <option value="package:mine JinFlutterFragment" />
         <option value="package:mine uuid:" />
@@ -20,8 +23,6 @@
         <option value="flutter addAllowedPointer" />
         <option value="onPageStarted" />
         <option value="getAppUserInfos" />
-        <option value="LoginChangedEvent" />
-        <option value="Flutter onPageStarted" />
       </list>
     </option>
   </component>
