@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine https://cdn.jin10.com/json/index/cates.json" />
+    <option name="mostRecentlyUsed" value="MarketHeaderState" />
     <option name="nonFavorites">
       <list>
+        <option value="MarketHeaderState" />
         <option value="package:mine https://cdn.jin10.com/json/index/cates.json" />
         <option value="package:mine cdn.jin10.com/json/index/cates.json" />
         <option value="package:mine cdn.jin10.com" />
@@ -22,7 +23,6 @@
         <option value="getVipHeaderAd" />
         <option value="缓存路径" />
         <option value="kolAvatarLight" />
-        <option value="package:mine" />
       </list>
     </option>
   </component>
