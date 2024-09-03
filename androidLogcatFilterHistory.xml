@@ -1,11 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="WebViewHostApiImpl" />
+    <option name="mostRecentlyUsed" value="CommApi" />
     <option name="nonFavorites">
       <list>
+        <option value="CommApi" />
         <option value="WebViewHostApiImpl" />
         <option value="DWebViewManager" />
-        <option value="CommApi" />
         <option value="openAppWebViewWithNav" />
         <option value="getAppUserInfos" />
         <option value="openKline" />
