@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="CommApi" />
+    <option name="mostRecentlyUsed" value="普通事件" />
     <option name="nonFavorites">
       <list>
+        <option value="普通事件" />
         <option value="CommApi" />
         <option value="WebViewHostApiImpl" />
         <option value="DWebViewManager" />
@@ -22,7 +23,6 @@
         <option value="package:mine 普通" />
         <option value="package:mine 导航块" />
         <option value="Flutter" />
-        <option value="package:mine JinFlutterFragment" />
       </list>
     </option>
   </component>
