@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="flutter" />
+    <option name="mostRecentlyUsed" value="flutter getBoomConfigList" />
     <option name="nonFavorites">
       <list>
+        <option value="flutter getBoomConfigList" />
         <option value="flutter" />
         <option value="普通事件" />
         <option value="CommApi" />
@@ -22,7 +23,6 @@
         <option value="package:mine flutter" />
         <option value="package:mine offsetListener" />
         <option value="package:mine 普通" />
-        <option value="package:mine 导航块" />
       </list>
     </option>
   </component>
