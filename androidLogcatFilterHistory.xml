@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="flutter KLineMainBodyEvent" />
+    <option name="mostRecentlyUsed" value="flutter KLineMainBodyData" />
     <option name="nonFavorites">
       <list>
+        <option value="flutter KLineMainBodyData" />
         <option value="flutter KLineMainBodyEvent" />
         <option value="flutter " />
         <option value="flutter sumCanvasTranslateY" />
@@ -22,7 +23,6 @@
         <option value="getAppUserInfos" />
         <option value="openKline" />
         <option value="MarketHeaderState" />
-        <option value="package:mine https://cdn.jin10.com/json/index/cates.json" />
       </list>
     </option>
   </component>
