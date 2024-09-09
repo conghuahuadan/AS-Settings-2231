@@ -1,11 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="flutter KLineMainBodyData" />
+    <option name="mostRecentlyUsed" value="flutter " />
     <option name="nonFavorites">
       <list>
+        <option value="flutter " />
+        <option value="flutter OrderDistributionChartPainter" />
         <option value="flutter KLineMainBodyData" />
         <option value="flutter KLineMainBodyEvent" />
-        <option value="flutter " />
         <option value="flutter sumCanvasTranslateY" />
         <option value="flutter pair" />
         <option value="flutter MeasureSizeWidget" />
@@ -22,7 +23,6 @@
         <option value="openAppWebViewWithNav" />
         <option value="getAppUserInfos" />
         <option value="openKline" />
-        <option value="MarketHeaderState" />
       </list>
     </option>
   </component>
