@@ -1,12 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="flutter sumCanvasTranslateY" />
+    <option name="mostRecentlyUsed" value="flutter " />
     <option name="nonFavorites">
       <list>
+        <option value="flutter " />
         <option value="flutter sumCanvasTranslateY" />
         <option value="flutter pair" />
         <option value="flutter MeasureSizeWidget" />
-        <option value="flutter " />
         <option value="flutter booms" />
         <option value="flutter 耗时" />
         <option value="flutter getBoomList" />
