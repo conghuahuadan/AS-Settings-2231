@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="flutter " />
+    <option name="mostRecentlyUsed" value="flutter MeasureSizeWidget" />
     <option name="nonFavorites">
       <list>
+        <option value="flutter MeasureSizeWidget" />
         <option value="flutter " />
         <option value="flutter booms" />
         <option value="flutter 耗时" />
@@ -22,7 +23,6 @@
         <option value="package:mine cdn.jin10.com/json/index/cates.json" />
         <option value="package:mine cdn.jin10.com" />
         <option value="package:mine " />
-        <option value="package:mine supplementaryListInfo" />
       </list>
     </option>
   </component>
