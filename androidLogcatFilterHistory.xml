@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="flutter " />
+        <option value="flutter booms" />
         <option value="flutter 耗时" />
         <option value="flutter getBoomList" />
         <option value="flutter getBoomConfigListFirstLocal" />
@@ -22,7 +23,6 @@
         <option value="package:mine cdn.jin10.com" />
         <option value="package:mine " />
         <option value="package:mine supplementaryListInfo" />
-        <option value="package:mine 普通事件" />
       </list>
     </option>
   </component>
