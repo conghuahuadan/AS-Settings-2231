@@ -1,8 +1,8 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="drawBody" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="flutter OrderDistributionChartPainter" />
         <option value="drawBody" />
         <option value="OrderDistributionChartPainter" />
@@ -10,7 +10,6 @@
         <option value="flutter " />
         <option value="package:mine 服务器" />
         <option value="package:mine FlashPushHelper" />
-        <option value="package:mine " />
         <option value="package:mine https://cdn.jin10.com/json/index/cates.json" />
         <option value="flutter KLineMainBodyData" />
         <option value="flutter addPostFrameCallback" />
