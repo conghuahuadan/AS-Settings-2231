@@ -1,11 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="OrderDistributionChartPainter" />
+    <option name="mostRecentlyUsed" value="drawBody" />
     <option name="nonFavorites">
       <list>
+        <option value="flutter OrderDistributionChartPainter" />
+        <option value="drawBody" />
         <option value="OrderDistributionChartPainter" />
         <option value="callOnKLineMainBodyDataChanged" />
-        <option value="flutter OrderDistributionChartPainter" />
         <option value="flutter " />
         <option value="package:mine 服务器" />
         <option value="package:mine FlashPushHelper" />
@@ -22,7 +23,6 @@
         <option value="flutter KLineMainBodyEvent" />
         <option value="flutter sumCanvasTranslateY" />
         <option value="flutter pair" />
-        <option value="flutter MeasureSizeWidget" />
       </list>
     </option>
   </component>
