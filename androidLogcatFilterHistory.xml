@@ -1,8 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="flutter OrderDistributionChartPainter" />
+    <option name="mostRecentlyUsed" value="package:mine 服务器" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine 服务器" />
+        <option value="package:mine FlashPushHelper" />
+        <option value="package:mine " />
+        <option value="package:mine https://cdn.jin10.com/json/index/cates.json" />
         <option value="flutter OrderDistributionChartPainter" />
         <option value="flutter KLineMainBodyData" />
         <option value="flutter addPostFrameCallback" />
@@ -19,10 +23,6 @@
         <option value="flutter pair" />
         <option value="flutter MeasureSizeWidget" />
         <option value="flutter booms" />
-        <option value="flutter 耗时" />
-        <option value="flutter getBoomList" />
-        <option value="flutter getBoomConfigListFirstLocal" />
-        <option value="flutter getBoomConfigList" />
       </list>
     </option>
   </component>
