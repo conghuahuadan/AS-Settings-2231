@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="callOnKLineMainBodyDataChanged" />
+    <option name="mostRecentlyUsed" value="OrderDistributionChartPainter" />
     <option name="nonFavorites">
       <list>
+        <option value="OrderDistributionChartPainter" />
         <option value="callOnKLineMainBodyDataChanged" />
         <option value="flutter OrderDistributionChartPainter" />
         <option value="flutter " />
@@ -14,7 +15,6 @@
         <option value="flutter addPostFrameCallback" />
         <option value="flutter rebuild" />
         <option value="OrderDistributionChartWidget" />
-        <option value="OrderDistributionChartPainter" />
         <option value="KLineMainBodyData" />
         <option value="flutter OrderDistributionChartWidget" />
         <option value="flutter callOnKLineMainBodyDataChanged" />
