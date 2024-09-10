@@ -1,11 +1,18 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="flutter OrderDistributionChartPainter" />
+    <option name="mostRecentlyUsed" value="flutter KLineMainBodyData" />
     <option name="nonFavorites">
       <list>
-        <option value="flutter OrderDistributionChartPainter" />
-        <option value="flutter " />
         <option value="flutter KLineMainBodyData" />
+        <option value="flutter " />
+        <option value="flutter rebuild" />
+        <option value="OrderDistributionChartWidget" />
+        <option value="OrderDistributionChartPainter" />
+        <option value="KLineMainBodyData" />
+        <option value="flutter OrderDistributionChartWidget" />
+        <option value="flutter callOnKLineMainBodyDataChanged" />
+        <option value="flutter OrderDistributionChartPainter" />
+        <option value="flutter setOnRenderCallback" />
         <option value="flutter KLineMainBodyEvent" />
         <option value="flutter sumCanvasTranslateY" />
         <option value="flutter pair" />
@@ -16,13 +23,6 @@
         <option value="flutter getBoomConfigListFirstLocal" />
         <option value="flutter getBoomConfigList" />
         <option value="flutter" />
-        <option value="普通事件" />
-        <option value="CommApi" />
-        <option value="WebViewHostApiImpl" />
-        <option value="DWebViewManager" />
-        <option value="openAppWebViewWithNav" />
-        <option value="getAppUserInfos" />
-        <option value="openKline" />
       </list>
     </option>
   </component>
