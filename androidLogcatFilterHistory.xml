@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine flutter" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine flutter" />
         <option value="package:mine " />
         <option value="flutter OrderDistributionChartPainter" />
         <option value="drawBody" />
@@ -21,7 +23,6 @@
         <option value="flutter setOnRenderCallback" />
         <option value="flutter KLineMainBodyEvent" />
         <option value="flutter sumCanvasTranslateY" />
-        <option value="flutter pair" />
       </list>
     </option>
   </component>
