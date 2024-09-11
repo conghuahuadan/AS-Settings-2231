@@ -1,15 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine flutter" />
+    <option name="mostRecentlyUsed" value="flutter " />
     <option name="nonFavorites">
       <list>
+        <option value="flutter " />
         <option value="package:mine flutter" />
         <option value="package:mine " />
         <option value="flutter OrderDistributionChartPainter" />
         <option value="drawBody" />
         <option value="OrderDistributionChartPainter" />
         <option value="callOnKLineMainBodyDataChanged" />
-        <option value="flutter " />
         <option value="package:mine 服务器" />
         <option value="package:mine FlashPushHelper" />
         <option value="package:mine https://cdn.jin10.com/json/index/cates.json" />
