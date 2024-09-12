@@ -1,7 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine receiveMsgPacket" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine receiveMsgPacket" />
+        <option value="flutter receiveMsgPacket" />
         <option value="package:mine " />
         <option value="flutter " />
         <option value="package:mine flutter" />
@@ -20,8 +23,6 @@
         <option value="flutter OrderDistributionChartWidget" />
         <option value="flutter callOnKLineMainBodyDataChanged" />
         <option value="flutter setOnRenderCallback" />
-        <option value="flutter KLineMainBodyEvent" />
-        <option value="flutter sumCanvasTranslateY" />
       </list>
     </option>
   </component>
