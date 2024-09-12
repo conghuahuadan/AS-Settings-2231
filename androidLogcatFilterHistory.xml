@@ -1,13 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine handleMessage" />
+    <option name="mostRecentlyUsed" value="flutter " />
     <option name="nonFavorites">
       <list>
+        <option value="flutter " />
         <option value="package:mine handleMessage" />
         <option value="package:mine receiveMsgPacket" />
         <option value="flutter receiveMsgPacket" />
         <option value="package:mine " />
-        <option value="flutter " />
         <option value="package:mine flutter" />
         <option value="flutter OrderDistributionChartPainter" />
         <option value="drawBody" />
