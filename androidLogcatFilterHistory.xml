@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="flutter " />
+    <option name="mostRecentlyUsed" value="transactions" />
     <option name="nonFavorites">
       <list>
+        <option value="transactions" />
         <option value="flutter " />
         <option value="flutter ScreenIndex" />
         <option value="package:mine flutter" />
@@ -22,7 +23,6 @@
         <option value="flutter rebuild" />
         <option value="OrderDistributionChartWidget" />
         <option value="KLineMainBodyData" />
-        <option value="flutter OrderDistributionChartWidget" />
       </list>
     </option>
   </component>
