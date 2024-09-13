@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="_computeTransaction" />
+    <option name="mostRecentlyUsed" value="MarketChartPage" />
     <option name="nonFavorites">
       <list>
+        <option value="MarketChartPage" />
+        <option value="addOnCodeTradeStatusCallback" />
         <option value="_computeTransaction" />
         <option value="drawHeaderBar" />
         <option value="transactions" />
@@ -21,8 +23,6 @@
         <option value="package:mine FlashPushHelper" />
         <option value="package:mine https://cdn.jin10.com/json/index/cates.json" />
         <option value="flutter KLineMainBodyData" />
-        <option value="flutter addPostFrameCallback" />
-        <option value="flutter rebuild" />
       </list>
     </option>
   </component>
