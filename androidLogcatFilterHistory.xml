@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="transactions" />
+    <option name="mostRecentlyUsed" value="_computeTransaction" />
     <option name="nonFavorites">
       <list>
+        <option value="_computeTransaction" />
+        <option value="drawHeaderBar" />
         <option value="transactions" />
         <option value="flutter " />
         <option value="flutter ScreenIndex" />
@@ -21,8 +23,6 @@
         <option value="flutter KLineMainBodyData" />
         <option value="flutter addPostFrameCallback" />
         <option value="flutter rebuild" />
-        <option value="OrderDistributionChartWidget" />
-        <option value="KLineMainBodyData" />
       </list>
     </option>
   </component>
