@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="TopLayoutWidget" />
+    <option name="mostRecentlyUsed" value="flutter" />
     <option name="nonFavorites">
       <list>
+        <option value="flutter" />
         <option value="TopLayoutWidget" />
         <option value="klineKey.currentState" />
         <option value="handleBombEvent" />
@@ -22,7 +23,6 @@
         <option value="drawBody" />
         <option value="OrderDistributionChartPainter" />
         <option value="callOnKLineMainBodyDataChanged" />
-        <option value="package:mine 服务器" />
       </list>
     </option>
   </component>
