@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="flutter TopLayoutWidget" />
+    <option name="mostRecentlyUsed" value="flutter TopLayoutWidget bind" />
     <option name="nonFavorites">
       <list>
+        <option value="flutter TopLayoutWidget bind" />
         <option value="flutter TopLayoutWidget" />
         <option value="flutter KLineChartWidget" />
         <option value="flutter" />
@@ -22,7 +23,6 @@
         <option value="flutter receiveMsgPacket" />
         <option value="package:mine receiveMsgPacket" />
         <option value="flutter OrderDistributionChartPainter" />
-        <option value="drawBody" />
       </list>
     </option>
   </component>
