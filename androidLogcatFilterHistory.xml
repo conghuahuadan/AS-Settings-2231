@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="TopLayoutWidget" />
     <option name="nonFavorites">
       <list>
+        <option value="TopLayoutWidget" />
         <option value="handleBombEvent" />
         <option value="package:mine handleMessage" />
         <option value="MarketChartPage" />
@@ -22,7 +23,6 @@
         <option value="callOnKLineMainBodyDataChanged" />
         <option value="package:mine 服务器" />
         <option value="package:mine FlashPushHelper" />
-        <option value="package:mine https://cdn.jin10.com/json/index/cates.json" />
       </list>
     </option>
   </component>
