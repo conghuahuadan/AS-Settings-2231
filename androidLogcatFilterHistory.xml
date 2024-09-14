@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="MarketChartPage" />
+    <option name="mostRecentlyUsed" value="package:mine handleMessage" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine handleMessage" />
         <option value="MarketChartPage" />
         <option value="addOnCodeTradeStatusCallback" />
         <option value="_computeTransaction" />
@@ -14,7 +15,6 @@
         <option value="package:mine " />
         <option value="flutter receiveMsgPacket" />
         <option value="package:mine receiveMsgPacket" />
-        <option value="package:mine handleMessage" />
         <option value="flutter OrderDistributionChartPainter" />
         <option value="drawBody" />
         <option value="OrderDistributionChartPainter" />
