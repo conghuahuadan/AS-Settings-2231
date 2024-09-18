@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="解析" />
+    <option name="mostRecentlyUsed" value="画线" />
     <option name="nonFavorites">
       <list>
+        <option value="画线" />
         <option value="解析" />
         <option value="onPointerUp" />
         <option value="WebViewHeight" />
@@ -22,7 +23,6 @@
         <option value="flutter" />
         <option value="TopLayoutWidget" />
         <option value="klineKey.currentState" />
-        <option value="handleBombEvent" />
       </list>
     </option>
   </component>
