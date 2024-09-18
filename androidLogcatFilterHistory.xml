@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="handleStockWatch" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
+        <option value="package:mine flutter" />
         <option value="handleStockWatch" />
         <option value="onLiveTradeOrderCallback" />
         <option value="addOnStockWatchCallback" />
@@ -21,8 +22,6 @@
         <option value="drawHeaderBar" />
         <option value="transactions" />
         <option value="flutter " />
-        <option value="flutter ScreenIndex" />
-        <option value="package:mine flutter" />
       </list>
     </option>
   </component>
