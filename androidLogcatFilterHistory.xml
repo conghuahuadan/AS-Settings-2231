@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine flutter" />
+    <option name="mostRecentlyUsed" value="onPointerUp" />
     <option name="nonFavorites">
       <list>
+        <option value="onPointerUp" />
+        <option value="WebViewHeight" />
+        <option value="onPageFinished" />
         <option value="package:mine flutter" />
         <option value="package:mine level:warn " />
         <option value="package:mine " />
@@ -20,9 +23,6 @@
         <option value="klineKey.currentState" />
         <option value="handleBombEvent" />
         <option value="MarketChartPage" />
-        <option value="addOnCodeTradeStatusCallback" />
-        <option value="_computeTransaction" />
-        <option value="drawHeaderBar" />
       </list>
     </option>
   </component>
