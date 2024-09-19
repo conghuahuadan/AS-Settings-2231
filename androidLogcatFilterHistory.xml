@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="SocketManager" />
+    <option name="mostRecentlyUsed" value="package:mine callbackVoltickQuote" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine callbackVoltickQuote" />
         <option value="SocketManager" />
         <option value="AbsSocketManager" />
         <option value="_handleVolTickQuote" />
@@ -22,7 +23,6 @@
         <option value="addOnStockWatchCallback" />
         <option value="flutter TopLayoutWidget bind" />
         <option value="package:mine trendSettings" />
-        <option value="flutter TopLayoutWidget" />
       </list>
     </option>
   </component>
