@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="flutter onVolTickUpdateCallback" />
+    <option name="mostRecentlyUsed" value="flutter KLineMainBodyData" />
     <option name="nonFavorites">
       <list>
+        <option value="flutter KLineMainBodyData" />
         <option value="flutter onVolTickUpdateCallback" />
         <option value="package:mine drawPoint" />
         <option value="package:mine " />
@@ -22,7 +23,6 @@
         <option value="onPointerUp" />
         <option value="WebViewHeight" />
         <option value="onPageFinished" />
-        <option value="package:mine level:warn " />
       </list>
     </option>
   </component>
