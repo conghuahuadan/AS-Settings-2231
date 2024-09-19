@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine handleMessage" />
+    <option name="mostRecentlyUsed" value="_handleVolTickQuote" />
     <option name="nonFavorites">
       <list>
+        <option value="_handleVolTickQuote" />
+        <option value="_handleVolTickQuote" />
         <option value="package:mine handleMessage" />
         <option value="package:mine flutter" />
         <option value="package:mine " />
@@ -21,8 +23,6 @@
         <option value="flutter TopLayoutWidget" />
         <option value="flutter KLineChartWidget" />
         <option value="flutter" />
-        <option value="TopLayoutWidget" />
-        <option value="klineKey.currentState" />
       </list>
     </option>
   </component>
