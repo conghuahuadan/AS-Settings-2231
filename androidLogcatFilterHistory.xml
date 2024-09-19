@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="flutter SocketManager" />
     <option name="nonFavorites">
       <list>
+        <option value="flutter SocketManager" />
         <option value="package:mine " />
         <option value="package:mine handleFirstVoltickQuoteJapp" />
         <option value="flutter" />
@@ -21,7 +23,6 @@
         <option value="package:mine aiDrawSelected" />
         <option value="handleStockWatch" />
         <option value="onLiveTradeOrderCallback" />
-        <option value="addOnStockWatchCallback" />
       </list>
     </option>
   </component>
