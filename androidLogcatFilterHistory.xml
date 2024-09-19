@@ -1,16 +1,17 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine callbackVoltickQuote" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine callbackVoltickQuote" />
+        <option value="package:mine " />
+        <option value="package:mine handleFirstVoltickQuoteJapp" />
+        <option value="flutter" />
         <option value="SocketManager" />
+        <option value="package:mine callbackVoltickQuote" />
         <option value="AbsSocketManager" />
         <option value="_handleVolTickQuote" />
         <option value="_handleVolTickQuote" />
         <option value="package:mine handleMessage" />
         <option value="package:mine flutter" />
-        <option value="package:mine " />
         <option value="画线" />
         <option value="解析" />
         <option value="onPointerUp" />
@@ -21,8 +22,6 @@
         <option value="handleStockWatch" />
         <option value="onLiveTradeOrderCallback" />
         <option value="addOnStockWatchCallback" />
-        <option value="flutter TopLayoutWidget bind" />
-        <option value="package:mine trendSettings" />
       </list>
     </option>
   </component>
