@@ -1,10 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="flutter onVolTickFirstCallback" />
+    <option name="mostRecentlyUsed" value="package:mine drawPoint" />
     <option name="nonFavorites">
       <list>
-        <option value="flutter onVolTickFirstCallback" />
+        <option value="package:mine drawPoint" />
         <option value="package:mine " />
+        <option value="flutter onVolTickFirstCallback" />
         <option value="flutter onVolTickUpdateCallback" />
         <option value="flutter SocketManager" />
         <option value="package:mine handleFirstVoltickQuoteJapp" />
@@ -22,7 +23,6 @@
         <option value="WebViewHeight" />
         <option value="onPageFinished" />
         <option value="package:mine level:warn " />
-        <option value="package:mine aiDrawSelected" />
       </list>
     </option>
   </component>
