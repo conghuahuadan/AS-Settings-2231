@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="drawBomb" />
+    <option name="mostRecentlyUsed" value="computeRS" />
     <option name="nonFavorites">
       <list>
+        <option value="computeRS" />
         <option value="drawBomb" />
         <option value="targets" />
         <option value="onVolTickUpdateCallback" />
@@ -22,7 +23,6 @@
         <option value="_handleVolTickQuote" />
         <option value="_handleVolTickQuote" />
         <option value="package:mine handleMessage" />
-        <option value="package:mine flutter" />
       </list>
     </option>
   </component>
