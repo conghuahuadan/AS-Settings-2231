@@ -1,11 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="flutter callOnKLineMainBodyDataChanged" />
+    <option name="mostRecentlyUsed" value="drawBomb" />
     <option name="nonFavorites">
       <list>
+        <option value="drawBomb" />
+        <option value="targets" />
+        <option value="onVolTickUpdateCallback" />
+        <option value="flutter " />
+        <option value="flutter onVolTickUpdateCallback" />
         <option value="flutter callOnKLineMainBodyDataChanged" />
         <option value="flutter KLineMainBodyData" />
-        <option value="flutter onVolTickUpdateCallback" />
         <option value="package:mine drawPoint" />
         <option value="package:mine " />
         <option value="flutter onVolTickFirstCallback" />
@@ -19,10 +23,6 @@
         <option value="_handleVolTickQuote" />
         <option value="package:mine handleMessage" />
         <option value="package:mine flutter" />
-        <option value="画线" />
-        <option value="解析" />
-        <option value="onPointerUp" />
-        <option value="WebViewHeight" />
       </list>
     </option>
   </component>
