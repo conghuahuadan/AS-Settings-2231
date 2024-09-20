@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="resistancePrices" />
+    <option name="mostRecentlyUsed" value="oneR" />
     <option name="nonFavorites">
       <list>
+        <option value="oneR" />
         <option value="resistancePrices" />
         <option value="computeRS" />
         <option value="symbol-historical-transaction" />
@@ -22,7 +23,6 @@
         <option value="flutter" />
         <option value="SocketManager" />
         <option value="package:mine callbackVoltickQuote" />
-        <option value="AbsSocketManager" />
       </list>
     </option>
   </component>
