@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="computeRS" />
+    <option name="mostRecentlyUsed" value="package:mine level:warn " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:warn " />
         <option value="computeRS" />
         <option value="callOnKLineMainBodyDataChanged" />
         <option value="oneR" />
@@ -22,7 +23,6 @@
         <option value="flutter SocketManager" />
         <option value="package:mine handleFirstVoltickQuoteJapp" />
         <option value="flutter" />
-        <option value="SocketManager" />
       </list>
     </option>
   </component>
