@@ -1,8 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine level:warn " />
+    <option name="mostRecentlyUsed" value="ScreenIndex" />
     <option name="nonFavorites">
       <list>
+        <option value="ScreenIndex" />
+        <option value="flutter" />
+        <option value="package:com.jin10 " />
+        <option value="package:mine" />
         <option value="package:mine level:warn " />
         <option value="computeRS" />
         <option value="callOnKLineMainBodyDataChanged" />
@@ -19,10 +23,6 @@
         <option value="flutter KLineMainBodyData" />
         <option value="package:mine drawPoint" />
         <option value="package:mine " />
-        <option value="flutter onVolTickFirstCallback" />
-        <option value="flutter SocketManager" />
-        <option value="package:mine handleFirstVoltickQuoteJapp" />
-        <option value="flutter" />
       </list>
     </option>
   </component>
