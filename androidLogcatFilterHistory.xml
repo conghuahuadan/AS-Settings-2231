@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="flutter" />
+    <option name="mostRecentlyUsed" value="flutter maxHeight" />
     <option name="nonFavorites">
       <list>
+        <option value="flutter maxHeight" />
         <option value="flutter" />
         <option value="ad/ad_click_stat3" />
         <option value="会员页" />
@@ -22,7 +23,6 @@
         <option value="onVolTickUpdateCallback" />
         <option value="flutter " />
         <option value="flutter onVolTickUpdateCallback" />
-        <option value="flutter callOnKLineMainBodyDataChanged" />
       </list>
     </option>
   </component>
