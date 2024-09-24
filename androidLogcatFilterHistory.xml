@@ -1,8 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="flutter orientation" />
+    <option name="mostRecentlyUsed" value="flutter periodic" />
     <option name="nonFavorites">
       <list>
+        <option value="flutter periodic" />
+        <option value="flutter currentState" />
+        <option value="flutter kLineMainBodyData" />
+        <option value="flutter addPostFrameCallback" />
+        <option value="flutter build" />
+        <option value="flutter setSecondaryIndicator" />
         <option value="flutter orientation" />
         <option value="flutter setupConfig" />
         <option value="flutter maxHeight" />
@@ -17,12 +23,6 @@
         <option value="computeRS" />
         <option value="callOnKLineMainBodyDataChanged" />
         <option value="oneR" />
-        <option value="resistancePrices" />
-        <option value="symbol-historical-transaction" />
-        <option value="getConfig" />
-        <option value="drawBomb" />
-        <option value="targets" />
-        <option value="onVolTickUpdateCallback" />
       </list>
     </option>
   </component>
