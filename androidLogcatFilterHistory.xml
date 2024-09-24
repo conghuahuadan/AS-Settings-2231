@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="ad/ad_click_stat3" />
     <option name="nonFavorites">
       <list>
+        <option value="ad/ad_click_stat3" />
+        <option value="会员页" />
         <option value="package:mine level:warn " />
         <option value="getKLine" />
         <option value="package:mine" />
@@ -21,8 +23,6 @@
         <option value="flutter " />
         <option value="flutter onVolTickUpdateCallback" />
         <option value="flutter callOnKLineMainBodyDataChanged" />
-        <option value="flutter KLineMainBodyData" />
-        <option value="package:mine drawPoint" />
       </list>
     </option>
   </component>
