@@ -1,15 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="ad/ad_click_stat3" />
+    <option name="mostRecentlyUsed" value="flutter" />
     <option name="nonFavorites">
       <list>
+        <option value="flutter" />
         <option value="ad/ad_click_stat3" />
         <option value="会员页" />
         <option value="package:mine level:warn " />
         <option value="getKLine" />
         <option value="package:mine" />
         <option value="ScreenIndex" />
-        <option value="flutter" />
         <option value="package:com.jin10 " />
         <option value="computeRS" />
         <option value="callOnKLineMainBodyDataChanged" />
