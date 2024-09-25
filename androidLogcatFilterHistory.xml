@@ -4,6 +4,9 @@
     <option name="nonFavorites">
       <list>
         <option value="flutter " />
+        <option value="flutter buildLongPressUi" />
+        <option value="flutter longPressUpdate" />
+        <option value="flutter onLongPress" />
         <option value="flutter updatePeriods" />
         <option value="flutter periods" />
         <option value="flutter startPointTwinkleAnim" />
@@ -20,9 +23,6 @@
         <option value="ad/ad_click_stat3" />
         <option value="会员页" />
         <option value="package:mine level:warn " />
-        <option value="getKLine" />
-        <option value="package:mine" />
-        <option value="ScreenIndex" />
       </list>
     </option>
   </component>
