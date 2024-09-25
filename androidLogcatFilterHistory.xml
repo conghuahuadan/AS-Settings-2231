@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="flutter periodic" />
+    <option name="mostRecentlyUsed" value="flutter startPointTwinkleAnim" />
     <option name="nonFavorites">
       <list>
+        <option value="flutter startPointTwinkleAnim" />
         <option value="flutter periodic" />
         <option value="flutter currentState" />
         <option value="flutter kLineMainBodyData" />
@@ -22,7 +23,6 @@
         <option value="package:com.jin10 " />
         <option value="computeRS" />
         <option value="callOnKLineMainBodyDataChanged" />
-        <option value="oneR" />
       </list>
     </option>
   </component>
