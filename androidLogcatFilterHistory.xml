@@ -1,13 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="flutter scrollReset" />
+    <option name="mostRecentlyUsed" value="flutter " />
     <option name="nonFavorites">
       <list>
+        <option value="flutter " />
         <option value="flutter scrollReset" />
         <option value="flutter 耗时" />
         <option value="flutter onKLinesAddCallback" />
         <option value="flutter longPressUpdate" />
-        <option value="flutter " />
         <option value="flutter buildLongPressUi" />
         <option value="flutter onLongPress" />
         <option value="flutter updatePeriods" />
