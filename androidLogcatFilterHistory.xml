@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="flutter checkScrollAndComputeOffset" />
+    <option name="mostRecentlyUsed" value="flutter rectLeft" />
     <option name="nonFavorites">
       <list>
+        <option value="flutter rectLeft" />
         <option value="flutter checkScrollAndComputeOffset" />
         <option value="flutter _klineMaxScroll" />
         <option value="flutter " />
@@ -22,7 +23,6 @@
         <option value="flutter build" />
         <option value="flutter setSecondaryIndicator" />
         <option value="flutter orientation" />
-        <option value="flutter setupConfig" />
       </list>
     </option>
   </component>
