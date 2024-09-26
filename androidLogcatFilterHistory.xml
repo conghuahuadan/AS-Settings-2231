@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="flutter longPressUpdate" />
+    <option name="mostRecentlyUsed" value="flutter scrollReset" />
     <option name="nonFavorites">
       <list>
+        <option value="flutter scrollReset" />
+        <option value="flutter 耗时" />
+        <option value="flutter onKLinesAddCallback" />
         <option value="flutter longPressUpdate" />
         <option value="flutter " />
         <option value="flutter buildLongPressUi" />
@@ -20,9 +23,6 @@
         <option value="flutter setupConfig" />
         <option value="flutter maxHeight" />
         <option value="flutter" />
-        <option value="ad/ad_click_stat3" />
-        <option value="会员页" />
-        <option value="package:mine level:warn " />
       </list>
     </option>
   </component>
