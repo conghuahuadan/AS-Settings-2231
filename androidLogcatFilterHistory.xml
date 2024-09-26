@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="flutter HideTimeSharePanelEvent" />
+    <option name="mostRecentlyUsed" value="flutter pullHistoryData" />
     <option name="nonFavorites">
       <list>
+        <option value="flutter pullHistoryData" />
         <option value="flutter HideTimeSharePanelEvent" />
         <option value="flutter hideViewTimeshare" />
         <option value="flutter rectLeft" />
@@ -22,7 +23,6 @@
         <option value="flutter currentState" />
         <option value="flutter kLineMainBodyData" />
         <option value="flutter addPostFrameCallback" />
-        <option value="flutter build" />
       </list>
     </option>
   </component>
