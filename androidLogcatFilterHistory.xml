@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="flutter rectLeft" />
+    <option name="mostRecentlyUsed" value="flutter HideTimeSharePanelEvent" />
     <option name="nonFavorites">
       <list>
+        <option value="flutter HideTimeSharePanelEvent" />
+        <option value="flutter hideViewTimeshare" />
         <option value="flutter rectLeft" />
         <option value="flutter checkScrollAndComputeOffset" />
         <option value="flutter _klineMaxScroll" />
@@ -21,8 +23,6 @@
         <option value="flutter kLineMainBodyData" />
         <option value="flutter addPostFrameCallback" />
         <option value="flutter build" />
-        <option value="flutter setSecondaryIndicator" />
-        <option value="flutter orientation" />
       </list>
     </option>
   </component>
