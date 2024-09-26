@@ -1,11 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="flutter " />
+    <option name="mostRecentlyUsed" value="flutter longPressUpdate" />
     <option name="nonFavorites">
       <list>
+        <option value="flutter longPressUpdate" />
         <option value="flutter " />
         <option value="flutter buildLongPressUi" />
-        <option value="flutter longPressUpdate" />
         <option value="flutter onLongPress" />
         <option value="flutter updatePeriods" />
         <option value="flutter periods" />
