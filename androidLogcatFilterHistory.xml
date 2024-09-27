@@ -1,28 +1,28 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="flutter pullHistoryData" />
+    <option name="mostRecentlyUsed" value="flutter TodayTimeSharePanelWidget2" />
     <option name="nonFavorites">
       <list>
+        <option value="flutter TodayTimeSharePanelWidget2" />
+        <option value="flutter TodayTimeSharePanelWidget" />
+        <option value="flutter scrollReset" />
+        <option value="flutter computeScaleIfTodayTimeLine" />
+        <option value="flutter candleVisibleCount" />
+        <option value="flutter onGetHistoryFileCallback" />
         <option value="flutter pullHistoryData" />
+        <option value="flutter resultList" />
+        <option value="flutter tmpList" />
+        <option value="flutter " />
+        <option value="flutter setYesterdayPrice" />
+        <option value="flutter initState" />
+        <option value="flutter changeLoadMoreStatus" />
+        <option value="flutter onAdvancedQuoteCallback" />
+        <option value="flutter yesterdayPrice" />
         <option value="flutter HideTimeSharePanelEvent" />
         <option value="flutter hideViewTimeshare" />
         <option value="flutter rectLeft" />
         <option value="flutter checkScrollAndComputeOffset" />
         <option value="flutter _klineMaxScroll" />
-        <option value="flutter " />
-        <option value="flutter scrollReset" />
-        <option value="flutter 耗时" />
-        <option value="flutter onKLinesAddCallback" />
-        <option value="flutter longPressUpdate" />
-        <option value="flutter buildLongPressUi" />
-        <option value="flutter onLongPress" />
-        <option value="flutter updatePeriods" />
-        <option value="flutter periods" />
-        <option value="flutter startPointTwinkleAnim" />
-        <option value="flutter periodic" />
-        <option value="flutter currentState" />
-        <option value="flutter kLineMainBodyData" />
-        <option value="flutter addPostFrameCallback" />
       </list>
     </option>
   </component>
