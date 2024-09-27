@@ -1,10 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="flutter TodayTimeSharePanelWidget2" />
+    <option name="mostRecentlyUsed" value="普通事件" />
     <option name="nonFavorites">
       <list>
-        <option value="flutter TodayTimeSharePanelWidget2" />
+        <option value="普通事件" />
         <option value="flutter " />
+        <option value="flutter TodayTimeSharePanelWidget2" />
         <option value="flutter showTimesharePanel" />
         <option value="flutter TodayTimeSharePanelWidget" />
         <option value="flutter scrollReset" />
@@ -22,7 +23,6 @@
         <option value="flutter HideTimeSharePanelEvent" />
         <option value="flutter hideViewTimeshare" />
         <option value="flutter rectLeft" />
-        <option value="flutter checkScrollAndComputeOffset" />
       </list>
     </option>
   </component>
