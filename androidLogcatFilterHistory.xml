@@ -4,6 +4,8 @@
     <option name="nonFavorites">
       <list>
         <option value="flutter TodayTimeSharePanelWidget2" />
+        <option value="flutter " />
+        <option value="flutter showTimesharePanel" />
         <option value="flutter TodayTimeSharePanelWidget" />
         <option value="flutter scrollReset" />
         <option value="flutter computeScaleIfTodayTimeLine" />
@@ -12,7 +14,6 @@
         <option value="flutter pullHistoryData" />
         <option value="flutter resultList" />
         <option value="flutter tmpList" />
-        <option value="flutter " />
         <option value="flutter setYesterdayPrice" />
         <option value="flutter initState" />
         <option value="flutter changeLoadMoreStatus" />
@@ -22,7 +23,6 @@
         <option value="flutter hideViewTimeshare" />
         <option value="flutter rectLeft" />
         <option value="flutter checkScrollAndComputeOffset" />
-        <option value="flutter _klineMaxScroll" />
       </list>
     </option>
   </component>
