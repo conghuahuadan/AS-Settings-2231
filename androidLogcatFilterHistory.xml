@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="flutter currentState" />
+    <option name="mostRecentlyUsed" value="flutter OrderDistributionChartWidget" />
     <option name="nonFavorites">
       <list>
+        <option value="flutter OrderDistributionChartWidget" />
+        <option value="flutter computeLSPanel" />
+        <option value="flutter callOnKLineMainBodyDataChanged" />
         <option value="flutter currentState" />
         <option value="flutter setOnLongPressHorUpdateCallback" />
         <option value="flutter onDrawCrossHorizontal" />
@@ -20,9 +23,6 @@
         <option value="flutter scrollReset" />
         <option value="flutter computeScaleIfTodayTimeLine" />
         <option value="flutter candleVisibleCount" />
-        <option value="flutter onGetHistoryFileCallback" />
-        <option value="flutter pullHistoryData" />
-        <option value="flutter resultList" />
       </list>
     </option>
   </component>
