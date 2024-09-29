@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="OrderDistributionChartPainter" />
+    <option name="mostRecentlyUsed" value="flutter addPostFrameCallback" />
     <option name="nonFavorites">
       <list>
+        <option value="flutter addPostFrameCallback" />
+        <option value="currentState" />
         <option value="OrderDistributionChartPainter" />
         <option value="buildLongPressUi" />
         <option value="画线" />
@@ -21,8 +23,6 @@
         <option value="flutter setYesterdayPrice" />
         <option value="flutter initState" />
         <option value="flutter changeLoadMoreStatus" />
-        <option value="flutter onAdvancedQuoteCallback" />
-        <option value="flutter yesterdayPrice" />
       </list>
     </option>
   </component>
