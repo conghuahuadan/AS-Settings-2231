@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="flutter onDrawCrossHorizontal" />
+    <option name="mostRecentlyUsed" value="flutter currentState" />
     <option name="nonFavorites">
       <list>
+        <option value="flutter currentState" />
+        <option value="flutter setOnLongPressHorUpdateCallback" />
         <option value="flutter onDrawCrossHorizontal" />
         <option value="flutter setOnLongPressCallback" />
         <option value="flutter addPostFrameCallback" />
@@ -21,8 +23,6 @@
         <option value="flutter onGetHistoryFileCallback" />
         <option value="flutter pullHistoryData" />
         <option value="flutter resultList" />
-        <option value="flutter tmpList" />
-        <option value="flutter setYesterdayPrice" />
       </list>
     </option>
   </component>
