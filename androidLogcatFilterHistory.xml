@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="flutter OrderDistributionChartWidget" />
+    <option name="mostRecentlyUsed" value="flutter onTapUp" />
     <option name="nonFavorites">
       <list>
+        <option value="flutter onTapUp" />
         <option value="flutter OrderDistributionChartWidget" />
         <option value="flutter computeLSPanel" />
         <option value="flutter callOnKLineMainBodyDataChanged" />
@@ -22,7 +23,6 @@
         <option value="flutter TodayTimeSharePanelWidget" />
         <option value="flutter scrollReset" />
         <option value="flutter computeScaleIfTodayTimeLine" />
-        <option value="flutter candleVisibleCount" />
       </list>
     </option>
   </component>
