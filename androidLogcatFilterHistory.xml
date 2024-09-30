@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="flutter " />
+    <option name="mostRecentlyUsed" value="flutter onSecondaryIndicatorToggle" />
     <option name="nonFavorites">
       <list>
+        <option value="flutter onSecondaryIndicatorToggle" />
         <option value="flutter " />
         <option value="flutter dispose" />
         <option value="flutter onInvisible" />
@@ -22,7 +23,6 @@
         <option value="普通事件" />
         <option value="flutter TodayTimeSharePanelWidget2" />
         <option value="flutter showTimesharePanel" />
-        <option value="flutter TodayTimeSharePanelWidget" />
       </list>
     </option>
   </component>
