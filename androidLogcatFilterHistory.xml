@@ -1,10 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="flutter findAncestorStateOfType" />
+    <option name="mostRecentlyUsed" value="flutter onVisible" />
     <option name="nonFavorites">
       <list>
-        <option value="flutter findAncestorStateOfType" />
         <option value="flutter onVisible" />
+        <option value="flutter findAncestorStateOfType" />
         <option value="flutter onExpandChanged" />
         <option value="flutter onSecondaryIndicatorToggle" />
         <option value="flutter " />
