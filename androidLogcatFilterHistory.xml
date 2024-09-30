@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="flutter onExpandChanged" />
+    <option name="mostRecentlyUsed" value="flutter findAncestorStateOfType" />
     <option name="nonFavorites">
       <list>
+        <option value="flutter findAncestorStateOfType" />
+        <option value="flutter onVisible" />
         <option value="flutter onExpandChanged" />
         <option value="flutter onSecondaryIndicatorToggle" />
         <option value="flutter " />
@@ -21,8 +23,6 @@
         <option value="OrderDistributionChartPainter" />
         <option value="buildLongPressUi" />
         <option value="画线" />
-        <option value="普通事件" />
-        <option value="flutter TodayTimeSharePanelWidget2" />
       </list>
     </option>
   </component>
