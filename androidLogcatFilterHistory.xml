@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="flutter onVisible" />
+    <option name="mostRecentlyUsed" value="flutter computeRS" />
     <option name="nonFavorites">
       <list>
+        <option value="flutter computeRS" />
         <option value="flutter onVisible" />
         <option value="flutter findAncestorStateOfType" />
         <option value="flutter onExpandChanged" />
@@ -22,7 +23,6 @@
         <option value="currentState" />
         <option value="OrderDistributionChartPainter" />
         <option value="buildLongPressUi" />
-        <option value="画线" />
       </list>
     </option>
   </component>
