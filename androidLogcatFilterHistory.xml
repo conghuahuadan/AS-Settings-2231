@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="flutter _obserQuoteSocket" />
+    <option name="mostRecentlyUsed" value="flutter chartConfig" />
     <option name="nonFavorites">
       <list>
+        <option value="flutter chartConfig" />
         <option value="package:mine iInterval" />
         <option value="flutter _obserQuoteSocket" />
         <option value="flutter computeRS" />
@@ -22,7 +23,6 @@
         <option value="flutter onDrawCrossHorizontal" />
         <option value="flutter setOnLongPressCallback" />
         <option value="flutter addPostFrameCallback" />
-        <option value="currentState" />
       </list>
     </option>
   </component>
