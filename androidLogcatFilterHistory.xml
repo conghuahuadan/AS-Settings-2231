@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="flutter computeRS" />
+    <option name="mostRecentlyUsed" value="flutter _obserQuoteSocket" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine iInterval" />
+        <option value="flutter _obserQuoteSocket" />
         <option value="flutter computeRS" />
         <option value="flutter onVisible" />
         <option value="flutter findAncestorStateOfType" />
@@ -21,8 +23,6 @@
         <option value="flutter setOnLongPressCallback" />
         <option value="flutter addPostFrameCallback" />
         <option value="currentState" />
-        <option value="OrderDistributionChartPainter" />
-        <option value="buildLongPressUi" />
       </list>
     </option>
   </component>
