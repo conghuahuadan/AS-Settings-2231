@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine indicatorSecondSel" />
+    <option name="mostRecentlyUsed" value="flutter toStringAsFixedTest" />
     <option name="nonFavorites">
       <list>
+        <option value="flutter toStringAsFixedTest" />
+        <option value="flutter " />
+        <option value="flutter initState" />
         <option value="package:mine indicatorSecondSel" />
         <option value="package:mine callSaveSecondarySelectedData" />
         <option value="flutter chartConfig" />
@@ -13,7 +16,6 @@
         <option value="flutter findAncestorStateOfType" />
         <option value="flutter onExpandChanged" />
         <option value="flutter onSecondaryIndicatorToggle" />
-        <option value="flutter " />
         <option value="flutter dispose" />
         <option value="flutter onInvisible" />
         <option value="flutter onTapUp" />
@@ -21,8 +23,6 @@
         <option value="flutter computeLSPanel" />
         <option value="flutter callOnKLineMainBodyDataChanged" />
         <option value="flutter currentState" />
-        <option value="flutter setOnLongPressHorUpdateCallback" />
-        <option value="flutter onDrawCrossHorizontal" />
       </list>
     </option>
   </component>
