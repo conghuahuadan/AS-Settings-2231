@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="flutter levels" />
+    <option name="mostRecentlyUsed" value="flutter setOnLongPressVerUpdateCallback" />
     <option name="nonFavorites">
       <list>
+        <option value="flutter setOnLongPressVerUpdateCallback" />
         <option value="flutter levels" />
         <option value="flutter handleEvent" />
         <option value="package:mine iInterval" />
@@ -22,7 +23,6 @@
         <option value="flutter chartConfig" />
         <option value="flutter _obserQuoteSocket" />
         <option value="flutter computeRS" />
-        <option value="flutter onVisible" />
       </list>
     </option>
   </component>
