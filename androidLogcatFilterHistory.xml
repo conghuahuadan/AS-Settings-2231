@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine iInterval" />
+    <option name="mostRecentlyUsed" value="flutter getKLineHistoryFile" />
     <option name="nonFavorites">
       <list>
+        <option value="flutter getKLineHistoryFile" />
         <option value="package:mine iInterval" />
         <option value="flutter longPress" />
         <option value="flutter pullHistoryData" />
@@ -22,7 +23,6 @@
         <option value="flutter dispose" />
         <option value="flutter onInvisible" />
         <option value="flutter onTapUp" />
-        <option value="flutter OrderDistributionChartWidget" />
       </list>
     </option>
   </component>
