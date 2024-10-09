@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="flutter onDrawStaticEnd" />
+    <option name="mostRecentlyUsed" value="flutter drawLevels" />
     <option name="nonFavorites">
       <list>
+        <option value="flutter drawLevels" />
         <option value="flutter onDrawStaticEnd" />
         <option value="flutter setOnLongPressVerUpdateCallback" />
         <option value="flutter levels" />
@@ -22,7 +23,6 @@
         <option value="package:mine indicatorSecondSel" />
         <option value="package:mine callSaveSecondarySelectedData" />
         <option value="flutter chartConfig" />
-        <option value="flutter _obserQuoteSocket" />
       </list>
     </option>
   </component>
