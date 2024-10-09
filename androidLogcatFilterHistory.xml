@@ -4,6 +4,8 @@
     <option name="nonFavorites">
       <list>
         <option value="flutter getKLineHistoryFile" />
+        <option value="flutter _computeSegmentAvg" />
+        <option value="flutter computeScaleIfTodayTimeLine" />
         <option value="package:mine iInterval" />
         <option value="flutter longPress" />
         <option value="flutter pullHistoryData" />
@@ -21,8 +23,6 @@
         <option value="flutter onExpandChanged" />
         <option value="flutter onSecondaryIndicatorToggle" />
         <option value="flutter dispose" />
-        <option value="flutter onInvisible" />
-        <option value="flutter onTapUp" />
       </list>
     </option>
   </component>
