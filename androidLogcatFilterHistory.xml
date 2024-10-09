@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="flutter TodayTimeSharePanelWidget" />
+    <option name="mostRecentlyUsed" value="flutter handleEvent" />
     <option name="nonFavorites">
       <list>
+        <option value="flutter handleEvent" />
         <option value="flutter TodayTimeSharePanelWidget" />
         <option value="flutter _computeSegmentAvg" />
         <option value="flutter _getOneDayBeginIndex" />
@@ -22,7 +23,6 @@
         <option value="flutter computeRS" />
         <option value="flutter onVisible" />
         <option value="flutter findAncestorStateOfType" />
-        <option value="flutter onExpandChanged" />
       </list>
     </option>
   </component>
