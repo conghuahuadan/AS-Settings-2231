@@ -1,11 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="flutter config" />
+    <option name="mostRecentlyUsed" value="flutter onDrawStaticEnd" />
     <option name="nonFavorites">
       <list>
+        <option value="flutter onDrawStaticEnd" />
         <option value="flutter config" />
         <option value="flutter drawLevels" />
-        <option value="flutter onDrawStaticEnd" />
         <option value="flutter setOnLongPressVerUpdateCallback" />
         <option value="flutter levels" />
         <option value="flutter handleEvent" />
