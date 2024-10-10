@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="flutter onDrawStaticEnd" />
+    <option name="mostRecentlyUsed" value="flutter " />
     <option name="nonFavorites">
       <list>
+        <option value="flutter " />
         <option value="flutter onDrawStaticEnd" />
         <option value="flutter config" />
         <option value="flutter drawLevels" />
@@ -18,7 +19,6 @@
         <option value="flutter longPress" />
         <option value="flutter pullHistoryData" />
         <option value="flutter onGetHistoryFile" />
-        <option value="flutter " />
         <option value="flutter toStringAsFixedTest" />
         <option value="flutter initState" />
         <option value="package:mine indicatorSecondSel" />
