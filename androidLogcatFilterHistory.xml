@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="flutter " />
+    <option name="mostRecentlyUsed" value="package:mine onFetchCompleted" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine onFetchCompleted" />
         <option value="flutter " />
         <option value="flutter onDrawStaticEnd" />
         <option value="flutter _loadFrames" />
@@ -22,7 +23,6 @@
         <option value="flutter computeScaleIfTodayTimeLine" />
         <option value="flutter longPress" />
         <option value="flutter pullHistoryData" />
-        <option value="flutter onGetHistoryFile" />
       </list>
     </option>
   </component>
