@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="flutter TopLayoutWidget" />
+    <option name="mostRecentlyUsed" value="flutter _loadFrames" />
     <option name="nonFavorites">
       <list>
+        <option value="flutter _loadFrames" />
+        <option value="flutter state" />
         <option value="flutter TopLayoutWidget" />
         <option value="flutter onFetchCompleted" />
         <option value="flutter " />
@@ -21,8 +23,6 @@
         <option value="flutter longPress" />
         <option value="flutter pullHistoryData" />
         <option value="flutter onGetHistoryFile" />
-        <option value="flutter toStringAsFixedTest" />
-        <option value="flutter initState" />
       </list>
     </option>
   </component>
