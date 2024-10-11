@@ -1,9 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="flutter onVolTickFirstCallback" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine " />
+        <option value="flutter onVolTickFirstCallback" />
         <option value="flutter " />
+        <option value="package:mine " />
         <option value="flutter TriggerBomb" />
         <option value="flutter bombRedGifCtrl" />
         <option value="flutter drawHeader" />
@@ -21,7 +23,6 @@
         <option value="flutter handleEvent" />
         <option value="package:mine iInterval" />
         <option value="flutter TodayTimeSharePanelWidget" />
-        <option value="flutter _computeSegmentAvg" />
       </list>
     </option>
   </component>
