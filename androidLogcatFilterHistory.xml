@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="flutter onVisible" />
+    <option name="mostRecentlyUsed" value="flutter drawLockBody" />
     <option name="nonFavorites">
       <list>
+        <option value="flutter drawLockBody" />
+        <option value="flutter onFetchCompleted" />
+        <option value="flutter widgets" />
         <option value="flutter onVisible" />
         <option value="flutter test" />
         <option value="package:mine 222_handleMessage_m_opcode_" />
@@ -19,10 +22,7 @@
         <option value="flutter _loadFrames" />
         <option value="flutter state" />
         <option value="flutter TopLayoutWidget" />
-        <option value="flutter onFetchCompleted" />
         <option value="flutter config" />
-        <option value="flutter drawLevels" />
-        <option value="flutter setOnLongPressVerUpdateCallback" />
       </list>
     </option>
   </component>
