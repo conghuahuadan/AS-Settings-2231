@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="flutter test" />
+    <option name="mostRecentlyUsed" value="flutter onVisible" />
     <option name="nonFavorites">
       <list>
+        <option value="flutter onVisible" />
         <option value="flutter test" />
         <option value="package:mine 222_handleMessage_m_opcode_" />
         <option value="package:mine " />
@@ -22,7 +23,6 @@
         <option value="flutter config" />
         <option value="flutter drawLevels" />
         <option value="flutter setOnLongPressVerUpdateCallback" />
-        <option value="flutter levels" />
       </list>
     </option>
   </component>
