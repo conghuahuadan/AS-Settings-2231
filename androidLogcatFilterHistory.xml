@@ -1,11 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="flutter getBombHistoryData" />
+    <option name="mostRecentlyUsed" value="flutter " />
     <option name="nonFavorites">
       <list>
+        <option value="flutter " />
         <option value="flutter getBombHistoryData" />
         <option value="package:mine onFetchCompleted" />
-        <option value="flutter " />
         <option value="flutter onDrawStaticEnd" />
         <option value="flutter _loadFrames" />
         <option value="flutter state" />
