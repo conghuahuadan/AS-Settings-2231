@@ -1,11 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="flutter onVolTickFirstCallback" />
+    <option name="mostRecentlyUsed" value="flutter test" />
     <option name="nonFavorites">
       <list>
+        <option value="flutter test" />
+        <option value="package:mine 222_handleMessage_m_opcode_" />
+        <option value="package:mine " />
+        <option value="flutter handleBombEvent" />
         <option value="flutter onVolTickFirstCallback" />
         <option value="flutter " />
-        <option value="package:mine " />
         <option value="flutter TriggerBomb" />
         <option value="flutter bombRedGifCtrl" />
         <option value="flutter drawHeader" />
@@ -20,9 +23,6 @@
         <option value="flutter drawLevels" />
         <option value="flutter setOnLongPressVerUpdateCallback" />
         <option value="flutter levels" />
-        <option value="flutter handleEvent" />
-        <option value="package:mine iInterval" />
-        <option value="flutter TodayTimeSharePanelWidget" />
       </list>
     </option>
   </component>
