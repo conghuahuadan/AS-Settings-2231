@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="flutter " />
+    <option name="mostRecentlyUsed" value="flutter bombRedGifCtrl" />
     <option name="nonFavorites">
       <list>
+        <option value="flutter bombRedGifCtrl" />
         <option value="flutter " />
         <option value="flutter drawHeader" />
         <option value="flutter getBombHistoryData" />
@@ -22,7 +23,6 @@
         <option value="flutter _computeSegmentAvg" />
         <option value="flutter _getOneDayBeginIndex" />
         <option value="flutter getKLineHistoryFile" />
-        <option value="flutter computeScaleIfTodayTimeLine" />
       </list>
     </option>
   </component>
