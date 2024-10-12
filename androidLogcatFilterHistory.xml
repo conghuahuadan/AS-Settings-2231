@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="flutter fetchMarketOrder" />
+    <option name="mostRecentlyUsed" value="package:mine level:warn " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:warn " />
         <option value="flutter fetchMarketOrder" />
         <option value="flutter hasDistribution" />
         <option value="package:mine " />
@@ -22,7 +23,6 @@
         <option value="flutter " />
         <option value="flutter TriggerBomb" />
         <option value="flutter bombRedGifCtrl" />
-        <option value="flutter drawHeader" />
       </list>
     </option>
   </component>
