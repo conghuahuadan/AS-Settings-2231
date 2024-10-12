@@ -1,8 +1,8 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="flutter changeLoadMoreStatus" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="flutter changeLoadMoreStatus" />
         <option value="flutter 画线" />
         <option value="flutter didUpdateWidget" />
@@ -14,7 +14,6 @@
         <option value="flutter onVisible" />
         <option value="flutter test" />
         <option value="package:mine 222_handleMessage_m_opcode_" />
-        <option value="package:mine " />
         <option value="flutter handleBombEvent" />
         <option value="flutter onVolTickFirstCallback" />
         <option value="flutter " />
