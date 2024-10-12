@@ -4,9 +4,11 @@
     <option name="nonFavorites">
       <list>
         <option value="flutter 画线" />
+        <option value="flutter orderPageKey" />
+        <option value="flutter " />
+        <option value="flutter setSecondaryIndicator" />
         <option value="flutter addOnKLineMainBodyDataChangedImmediately" />
         <option value="flutter computeRS" />
-        <option value="flutter " />
         <option value="package:mine level:warn " />
         <option value="flutter fetchMarketOrder" />
         <option value="flutter hasDistribution" />
@@ -21,8 +23,6 @@
         <option value="flutter onVisible" />
         <option value="flutter test" />
         <option value="package:mine 222_handleMessage_m_opcode_" />
-        <option value="flutter handleBombEvent" />
-        <option value="flutter onVolTickFirstCallback" />
       </list>
     </option>
   </component>
