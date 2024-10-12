@@ -1,10 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="flutter " />
+    <option name="mostRecentlyUsed" value="flutter addOnKLineMainBodyDataChangedImmediately" />
     <option name="nonFavorites">
       <list>
-        <option value="flutter " />
         <option value="flutter addOnKLineMainBodyDataChangedImmediately" />
+        <option value="flutter computeRS" />
+        <option value="flutter " />
         <option value="package:mine level:warn " />
         <option value="flutter fetchMarketOrder" />
         <option value="flutter hasDistribution" />
@@ -22,7 +23,6 @@
         <option value="package:mine 222_handleMessage_m_opcode_" />
         <option value="flutter handleBombEvent" />
         <option value="flutter onVolTickFirstCallback" />
-        <option value="flutter TriggerBomb" />
       </list>
     </option>
   </component>
