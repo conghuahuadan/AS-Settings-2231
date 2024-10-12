@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="flutter onFetchCompleted" />
+    <option name="mostRecentlyUsed" value="flutter tradeStatus" />
     <option name="nonFavorites">
       <list>
+        <option value="flutter tradeStatus" />
         <option value="flutter onFetchCompleted" />
         <option value="flutter drawLockBody" />
         <option value="flutter widgets" />
@@ -22,7 +23,6 @@
         <option value="flutter _loadFrames" />
         <option value="flutter state" />
         <option value="flutter TopLayoutWidget" />
-        <option value="flutter config" />
       </list>
     </option>
   </component>
