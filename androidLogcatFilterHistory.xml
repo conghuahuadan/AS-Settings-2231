@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="flutter addOnKLineMainBodyDataChangedImmediately" />
+    <option name="mostRecentlyUsed" value="flutter 画线" />
     <option name="nonFavorites">
       <list>
+        <option value="flutter 画线" />
         <option value="flutter addOnKLineMainBodyDataChangedImmediately" />
         <option value="flutter computeRS" />
         <option value="flutter " />
@@ -11,7 +12,6 @@
         <option value="flutter hasDistribution" />
         <option value="package:mine " />
         <option value="flutter changeLoadMoreStatus" />
-        <option value="flutter 画线" />
         <option value="flutter didUpdateWidget" />
         <option value="flutter bombId" />
         <option value="flutter tradeStatus" />
