@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="flutter tradeStatus" />
+    <option name="mostRecentlyUsed" value="flutter didUpdateWidget" />
     <option name="nonFavorites">
       <list>
+        <option value="flutter didUpdateWidget" />
+        <option value="flutter bombId" />
         <option value="flutter tradeStatus" />
         <option value="flutter onFetchCompleted" />
         <option value="flutter drawLockBody" />
@@ -21,8 +23,6 @@
         <option value="package:mine onFetchCompleted" />
         <option value="flutter onDrawStaticEnd" />
         <option value="flutter _loadFrames" />
-        <option value="flutter state" />
-        <option value="flutter TopLayoutWidget" />
       </list>
     </option>
   </component>
