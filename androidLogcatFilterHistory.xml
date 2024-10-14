@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="flutter 画线" />
+    <option name="mostRecentlyUsed" value="package:mine handleMessage" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine handleMessage" />
         <option value="flutter 画线" />
         <option value="flutter orderPageKey" />
         <option value="flutter " />
@@ -22,7 +23,6 @@
         <option value="flutter widgets" />
         <option value="flutter onVisible" />
         <option value="flutter test" />
-        <option value="package:mine 222_handleMessage_m_opcode_" />
       </list>
     </option>
   </component>
