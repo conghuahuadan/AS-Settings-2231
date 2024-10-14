@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="flutter newestBomb" />
+    <option name="mostRecentlyUsed" value="flutter setTransaction" />
     <option name="nonFavorites">
       <list>
+        <option value="flutter setTransaction" />
+        <option value="flutter onVolTick" />
         <option value="flutter newestBomb" />
         <option value="flutter setOnBombTriggerCallback" />
         <option value="flutter endPoint" />
@@ -21,8 +23,6 @@
         <option value="package:mine level:warn " />
         <option value="flutter fetchMarketOrder" />
         <option value="flutter hasDistribution" />
-        <option value="flutter changeLoadMoreStatus" />
-        <option value="flutter didUpdateWidget" />
       </list>
     </option>
   </component>
