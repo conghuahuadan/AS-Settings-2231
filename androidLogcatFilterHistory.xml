@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="flutter bombLockGifCtrl" />
+    <option name="mostRecentlyUsed" value="flutter onMoveUpdate" />
     <option name="nonFavorites">
       <list>
+        <option value="flutter onMoveUpdate" />
         <option value="flutter bombLockGifCtrl" />
         <option value="flutter " />
         <option value="package:mine handleMessage" />
@@ -22,7 +23,6 @@
         <option value="flutter onFetchCompleted" />
         <option value="flutter drawLockBody" />
         <option value="flutter widgets" />
-        <option value="flutter onVisible" />
       </list>
     </option>
   </component>
