@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine 222_handleMessage_m_opcode_" />
+    <option name="mostRecentlyUsed" value="package:mine handleVoltickQuote" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine handleVoltickQuote" />
         <option value="package:mine 222_handleMessage_m_opcode_" />
         <option value="package:mine " />
         <option value="package:mine handleMessage" />
@@ -22,7 +23,6 @@
         <option value="flutter bombId" />
         <option value="flutter tradeStatus" />
         <option value="flutter onFetchCompleted" />
-        <option value="flutter drawLockBody" />
       </list>
     </option>
   </component>
