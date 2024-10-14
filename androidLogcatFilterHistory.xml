@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine handleVoltickQuote" />
+    <option name="mostRecentlyUsed" value="flutter endPoint" />
     <option name="nonFavorites">
       <list>
+        <option value="flutter endPoint" />
         <option value="package:mine handleVoltickQuote" />
         <option value="package:mine 222_handleMessage_m_opcode_" />
         <option value="package:mine " />
@@ -22,7 +23,6 @@
         <option value="flutter didUpdateWidget" />
         <option value="flutter bombId" />
         <option value="flutter tradeStatus" />
-        <option value="flutter onFetchCompleted" />
       </list>
     </option>
   </component>
