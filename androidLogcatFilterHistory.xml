@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine level:warn " />
+    <option name="mostRecentlyUsed" value="flutter drawBollSingle" />
     <option name="nonFavorites">
       <list>
+        <option value="flutter drawBollSingle" />
+        <option value="flutter onDrawDynamic" />
+        <option value="flutter lineColor" />
         <option value="package:mine level:warn " />
         <option value="package:mine " />
         <option value="flutter fetchKLine" />
@@ -20,9 +23,6 @@
         <option value="flutter setOnBombTriggerCallback" />
         <option value="flutter endPoint" />
         <option value="package:mine handleVoltickQuote" />
-        <option value="package:mine 222_handleMessage_m_opcode_" />
-        <option value="package:mine handleMessage" />
-        <option value="flutter onMoveUpdate" />
       </list>
     </option>
   </component>
