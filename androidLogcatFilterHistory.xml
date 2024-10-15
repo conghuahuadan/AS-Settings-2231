@@ -1,12 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="flutter bombThreshold2" />
+    <option name="mostRecentlyUsed" value="flutter " />
     <option name="nonFavorites">
       <list>
+        <option value="flutter " />
         <option value="flutter bombThreshold2" />
         <option value="package:mine 普通事件" />
         <option value="package:mine " />
-        <option value="flutter " />
         <option value="flutter _computeTransaction" />
         <option value="package:mine flutter" />
         <option value="flutter setTransaction" />
