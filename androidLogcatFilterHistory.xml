@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="flutter BombTrigger" />
+    <option name="mostRecentlyUsed" value="flutter fetchKLine" />
     <option name="nonFavorites">
       <list>
+        <option value="flutter fetchKLine" />
+        <option value="flutter addOnMarketOpenCallback" />
         <option value="flutter BombTrigger" />
         <option value="flutter systemTime" />
         <option value="package:mine " />
@@ -21,8 +23,6 @@
         <option value="package:mine handleMessage" />
         <option value="flutter onMoveUpdate" />
         <option value="flutter bombLockGifCtrl" />
-        <option value="flutter 画线" />
-        <option value="flutter orderPageKey" />
       </list>
     </option>
   </component>
