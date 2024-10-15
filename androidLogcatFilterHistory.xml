@@ -1,9 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="flutter BombTrigger" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine " />
+        <option value="flutter BombTrigger" />
         <option value="flutter systemTime" />
+        <option value="package:mine " />
         <option value="flutter " />
         <option value="flutter bombThreshold2" />
         <option value="package:mine 普通事件" />
@@ -21,7 +23,6 @@
         <option value="flutter bombLockGifCtrl" />
         <option value="flutter 画线" />
         <option value="flutter orderPageKey" />
-        <option value="flutter setSecondaryIndicator" />
       </list>
     </option>
   </component>
