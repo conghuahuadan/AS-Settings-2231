@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="flutter drawBollSingle" />
+    <option name="mostRecentlyUsed" value="flutter " />
     <option name="nonFavorites">
       <list>
+        <option value="flutter " />
         <option value="flutter drawBollSingle" />
         <option value="flutter onDrawDynamic" />
         <option value="flutter lineColor" />
@@ -12,7 +13,6 @@
         <option value="flutter addOnMarketOpenCallback" />
         <option value="flutter BombTrigger" />
         <option value="flutter systemTime" />
-        <option value="flutter " />
         <option value="flutter bombThreshold2" />
         <option value="package:mine 普通事件" />
         <option value="flutter _computeTransaction" />
