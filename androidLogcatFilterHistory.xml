@@ -1,10 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine flutter" />
+    <option name="mostRecentlyUsed" value="flutter " />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine flutter" />
+        <option value="flutter " />
         <option value="flutter _computeTransaction" />
+        <option value="package:mine flutter" />
         <option value="package:mine 普通事件" />
         <option value="flutter setTransaction" />
         <option value="flutter onVolTick" />
@@ -17,7 +18,6 @@
         <option value="package:mine handleMessage" />
         <option value="flutter onMoveUpdate" />
         <option value="flutter bombLockGifCtrl" />
-        <option value="flutter " />
         <option value="flutter 画线" />
         <option value="flutter orderPageKey" />
         <option value="flutter setSecondaryIndicator" />
