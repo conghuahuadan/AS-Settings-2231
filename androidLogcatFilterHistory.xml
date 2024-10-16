@@ -1,10 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="flutter onVisible" />
+    <option name="mostRecentlyUsed" value="flutter " />
     <option name="nonFavorites">
       <list>
-        <option value="flutter onVisible" />
         <option value="flutter " />
+        <option value="flutter 1122" />
+        <option value="flutter onVisible" />
         <option value="package:mine " />
         <option value="package:mine 加载" />
         <option value="package:mine level:warn " />
@@ -22,7 +23,6 @@
         <option value="flutter _computeTransaction" />
         <option value="package:mine flutter" />
         <option value="flutter setTransaction" />
-        <option value="flutter onVolTick" />
       </list>
     </option>
   </component>
