@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="flutter setData" />
+    <option name="mostRecentlyUsed" value="flutter _computeRsi" />
     <option name="nonFavorites">
       <list>
+        <option value="flutter _computeRsi" />
         <option value="flutter setData" />
         <option value="flutter onKLinesSetCallback" />
         <option value="flutter getKLine" />
@@ -22,7 +23,6 @@
         <option value="flutter bombThreshold2" />
         <option value="package:mine 普通事件" />
         <option value="flutter _computeTransaction" />
-        <option value="package:mine flutter" />
       </list>
     </option>
   </component>
