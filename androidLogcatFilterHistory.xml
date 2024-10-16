@@ -1,13 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="flutter 耗时" />
+    <option name="mostRecentlyUsed" value="flutter setData" />
     <option name="nonFavorites">
       <list>
+        <option value="flutter setData" />
         <option value="flutter 耗时" />
         <option value="afterAddGroupKLine" />
         <option value="list" />
         <option value="flutter _computeRsi" />
-        <option value="flutter setData" />
         <option value="flutter onKLinesSetCallback" />
         <option value="flutter getKLine" />
         <option value="flutter " />
