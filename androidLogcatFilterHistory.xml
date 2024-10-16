@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="flutter setData" />
+    <option name="mostRecentlyUsed" value="flutter onKLines" />
     <option name="nonFavorites">
       <list>
+        <option value="flutter onKLines" />
         <option value="flutter setData" />
         <option value="flutter 耗时" />
         <option value="afterAddGroupKLine" />
@@ -22,7 +23,6 @@
         <option value="flutter fetchKLine" />
         <option value="flutter addOnMarketOpenCallback" />
         <option value="flutter BombTrigger" />
-        <option value="flutter systemTime" />
       </list>
     </option>
   </component>
