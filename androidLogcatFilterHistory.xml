@@ -1,13 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="flutter " />
     <option name="nonFavorites">
       <list>
+        <option value="flutter " />
         <option value="package:mine " />
         <option value="package:mine 加载" />
         <option value="package:mine level:warn " />
         <option value="flutter getKLine" />
         <option value="flutter setData" />
-        <option value="flutter " />
         <option value="flutter drawBollSingle" />
         <option value="flutter onDrawDynamic" />
         <option value="flutter lineColor" />
