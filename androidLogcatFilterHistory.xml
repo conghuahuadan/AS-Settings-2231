@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="package:mine level:warn " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:warn " />
         <option value="flutter _computeRsi" />
         <option value="afterAddGroupKLine" />
         <option value="flutter initEndPoint" />
@@ -18,7 +19,6 @@
         <option value="flutter onVisible" />
         <option value="package:mine " />
         <option value="package:mine 加载" />
-        <option value="package:mine level:warn " />
         <option value="flutter drawBollSingle" />
         <option value="flutter onDrawDynamic" />
         <option value="flutter lineColor" />
