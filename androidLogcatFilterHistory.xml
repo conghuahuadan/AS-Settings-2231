@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="flutter onKLines" />
+    <option name="mostRecentlyUsed" value="flutter initEndPoint" />
     <option name="nonFavorites">
       <list>
+        <option value="flutter initEndPoint" />
+        <option value="flutter endPoint" />
+        <option value="flutter " />
         <option value="flutter onKLines" />
         <option value="flutter setData" />
         <option value="flutter 耗时" />
@@ -11,7 +14,6 @@
         <option value="flutter _computeRsi" />
         <option value="flutter onKLinesSetCallback" />
         <option value="flutter getKLine" />
-        <option value="flutter " />
         <option value="flutter 1122" />
         <option value="flutter onVisible" />
         <option value="package:mine " />
@@ -21,8 +23,6 @@
         <option value="flutter onDrawDynamic" />
         <option value="flutter lineColor" />
         <option value="flutter fetchKLine" />
-        <option value="flutter addOnMarketOpenCallback" />
-        <option value="flutter BombTrigger" />
       </list>
     </option>
   </component>
