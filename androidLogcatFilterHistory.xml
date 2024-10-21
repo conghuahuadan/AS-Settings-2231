@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="checkScrollAndComputeOffset" />
+    <option name="mostRecentlyUsed" value="NineTurnsAlgorithm" />
     <option name="nonFavorites">
       <list>
+        <option value="NineTurnsAlgorithm" />
         <option value="checkScrollAndComputeOffset" />
         <option value="package:mine 普通事件" />
         <option value="package:mine" />
@@ -22,7 +23,6 @@
         <option value="flutter onKLinesSetCallback" />
         <option value="flutter getKLine" />
         <option value="flutter 1122" />
-        <option value="flutter onVisible" />
       </list>
     </option>
   </component>
