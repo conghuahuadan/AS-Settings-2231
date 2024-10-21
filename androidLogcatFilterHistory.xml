@@ -1,7 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="checkScrollAndComputeOffset" />
     <option name="nonFavorites">
       <list>
+        <option value="checkScrollAndComputeOffset" />
+        <option value="package:mine 普通事件" />
+        <option value="package:mine" />
         <option value="package:mine " />
         <option value="package:mine onResourceReady" />
         <option value="package:mine  " />
@@ -19,9 +23,6 @@
         <option value="flutter getKLine" />
         <option value="flutter 1122" />
         <option value="flutter onVisible" />
-        <option value="package:mine 加载" />
-        <option value="flutter drawBollSingle" />
-        <option value="flutter onDrawDynamic" />
       </list>
     </option>
   </component>
