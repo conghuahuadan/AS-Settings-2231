@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="输出结果" />
+    <option name="mostRecentlyUsed" value="list" />
     <option name="nonFavorites">
       <list>
+        <option value="list" />
         <option value="输出结果" />
         <option value="耗时" />
         <option value="NineTurnsAlgorithm" />
@@ -21,7 +22,6 @@
         <option value="flutter onKLines" />
         <option value="flutter setData" />
         <option value="flutter 耗时" />
-        <option value="list" />
         <option value="flutter onKLinesSetCallback" />
       </list>
     </option>
