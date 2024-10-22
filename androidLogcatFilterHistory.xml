@@ -4,12 +4,14 @@
     <option name="nonFavorites">
       <list>
         <option value="secondaryCharts" />
+        <option value="package:mine callSaveSecondarySelectedData" />
+        <option value="package:mine 普通事件" />
+        <option value="callSaveSecondarySelectedData" />
         <option value="list" />
         <option value="输出结果" />
         <option value="耗时" />
         <option value="NineTurnsAlgorithm" />
         <option value="checkScrollAndComputeOffset" />
-        <option value="package:mine 普通事件" />
         <option value="package:mine" />
         <option value="package:mine " />
         <option value="package:mine onResourceReady" />
@@ -21,8 +23,6 @@
         <option value="flutter endPoint" />
         <option value="flutter " />
         <option value="flutter onKLines" />
-        <option value="flutter setData" />
-        <option value="flutter 耗时" />
       </list>
     </option>
   </component>
