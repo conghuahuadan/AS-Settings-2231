@@ -1,7 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="addOnClickCallbackFromLTRB" />
     <option name="nonFavorites">
       <list>
+        <option value="addOnClickCallbackFromLTRB" />
+        <option value="资金炸弹" />
         <option value="package:mine " />
         <option value="package:mine 快讯事件" />
         <option value="package:mine 快讯" />
@@ -20,8 +23,6 @@
         <option value="package:mine level:warn " />
         <option value="flutter _computeRsi" />
         <option value="afterAddGroupKLine" />
-        <option value="flutter initEndPoint" />
-        <option value="flutter endPoint" />
       </list>
     </option>
   </component>
