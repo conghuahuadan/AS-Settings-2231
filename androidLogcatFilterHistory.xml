@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="资金炸弹" />
+    <option name="mostRecentlyUsed" value="candleRange" />
     <option name="nonFavorites">
       <list>
+        <option value="candleRange" />
         <option value="资金炸弹" />
         <option value="addOnClickCallbackFromLTRB" />
         <option value="BombPanelWidgetState" />
@@ -22,7 +23,6 @@
         <option value="package:mine onResourceReady" />
         <option value="package:mine  " />
         <option value="package:mine level:warn " />
-        <option value="flutter _computeRsi" />
       </list>
     </option>
   </component>
