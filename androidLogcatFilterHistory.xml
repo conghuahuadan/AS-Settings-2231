@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="addOnClickCallbackFromLTRB" />
+    <option name="mostRecentlyUsed" value="BombPanelWidgetState" />
     <option name="nonFavorites">
       <list>
+        <option value="BombPanelWidgetState" />
         <option value="addOnClickCallbackFromLTRB" />
         <option value="资金炸弹" />
         <option value="package:mine " />
@@ -22,7 +23,6 @@
         <option value="package:mine  " />
         <option value="package:mine level:warn " />
         <option value="flutter _computeRsi" />
-        <option value="afterAddGroupKLine" />
       </list>
     </option>
   </component>
