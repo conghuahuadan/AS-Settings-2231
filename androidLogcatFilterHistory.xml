@@ -1,11 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="secondaryCharts" />
+    <option name="mostRecentlyUsed" value="package:mine 普通事件" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine 普通事件" />
         <option value="package:mine callSaveSecondarySelectedData" />
         <option value="secondaryCharts" />
-        <option value="package:mine 普通事件" />
         <option value="callSaveSecondarySelectedData" />
         <option value="list" />
         <option value="输出结果" />
