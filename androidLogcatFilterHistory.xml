@@ -1,11 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="BombPanelWidgetState" />
+    <option name="mostRecentlyUsed" value="资金炸弹" />
     <option name="nonFavorites">
       <list>
-        <option value="BombPanelWidgetState" />
-        <option value="addOnClickCallbackFromLTRB" />
         <option value="资金炸弹" />
+        <option value="addOnClickCallbackFromLTRB" />
+        <option value="BombPanelWidgetState" />
         <option value="package:mine " />
         <option value="package:mine 快讯事件" />
         <option value="package:mine 快讯" />
