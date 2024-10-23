@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine 普通事件" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
+        <option value="package:mine 快讯事件" />
+        <option value="package:mine 快讯" />
         <option value="package:mine 普通事件" />
         <option value="package:mine callSaveSecondarySelectedData" />
         <option value="secondaryCharts" />
@@ -13,7 +15,6 @@
         <option value="NineTurnsAlgorithm" />
         <option value="checkScrollAndComputeOffset" />
         <option value="package:mine" />
-        <option value="package:mine " />
         <option value="package:mine onResourceReady" />
         <option value="package:mine  " />
         <option value="package:mine level:warn " />
@@ -21,8 +22,6 @@
         <option value="afterAddGroupKLine" />
         <option value="flutter initEndPoint" />
         <option value="flutter endPoint" />
-        <option value="flutter " />
-        <option value="flutter onKLines" />
       </list>
     </option>
   </component>
