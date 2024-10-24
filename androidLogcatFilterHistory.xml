@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="资金炸弹" />
+    <option name="mostRecentlyUsed" value="资金炸弹 点击" />
     <option name="nonFavorites">
       <list>
+        <option value="资金炸弹 点击" />
+        <option value="callback" />
         <option value="资金炸弹" />
         <option value="candleRange" />
         <option value="addOnClickCallbackFromLTRB" />
@@ -21,8 +23,6 @@
         <option value="checkScrollAndComputeOffset" />
         <option value="package:mine" />
         <option value="package:mine onResourceReady" />
-        <option value="package:mine  " />
-        <option value="package:mine level:warn " />
       </list>
     </option>
   </component>
