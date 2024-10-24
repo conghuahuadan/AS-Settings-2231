@@ -1,12 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="BombPanelWidget" />
+    <option name="mostRecentlyUsed" value="资金炸弹" />
     <option name="nonFavorites">
       <list>
+        <option value="资金炸弹" />
+        <option value="scale" />
         <option value="BombPanelWidget" />
         <option value="资金炸弹 点击" />
         <option value="callback" />
-        <option value="资金炸弹" />
         <option value="candleRange" />
         <option value="addOnClickCallbackFromLTRB" />
         <option value="BombPanelWidgetState" />
@@ -22,7 +23,6 @@
         <option value="耗时" />
         <option value="NineTurnsAlgorithm" />
         <option value="checkScrollAndComputeOffset" />
-        <option value="package:mine" />
       </list>
     </option>
   </component>
