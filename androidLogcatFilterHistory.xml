@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine fromMillis" />
+    <option name="mostRecentlyUsed" value="package:mine StockFloatViewLayout" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine StockFloatViewLayout" />
         <option value="package:mine fromMillis" />
         <option value="package:mine 服务器" />
         <option value="compute" />
@@ -22,7 +23,6 @@
         <option value="addOnClickCallbackFromLTRB" />
         <option value="BombPanelWidgetState" />
         <option value="package:mine 快讯事件" />
-        <option value="package:mine 快讯" />
       </list>
     </option>
   </component>
