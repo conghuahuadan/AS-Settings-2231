@@ -1,10 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tvHeader" />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine tvHeader" />
+        <option value="package:mine 普通事件" />
+        <option value="package:mine ad_click_stat3" />
         <option value="package:mine " />
+        <option value="package:mine tvHeader" />
         <option value="package:mine convertLivingEvent" />
         <option value="资金炸弹" />
         <option value="scale" />
@@ -16,13 +18,11 @@
         <option value="BombPanelWidgetState" />
         <option value="package:mine 快讯事件" />
         <option value="package:mine 快讯" />
-        <option value="package:mine 普通事件" />
         <option value="package:mine callSaveSecondarySelectedData" />
         <option value="secondaryCharts" />
         <option value="callSaveSecondarySelectedData" />
         <option value="list" />
         <option value="输出结果" />
-        <option value="耗时" />
       </list>
     </option>
   </component>
