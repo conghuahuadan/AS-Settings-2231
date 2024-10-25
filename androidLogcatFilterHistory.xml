@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine 服务器" />
+    <option name="mostRecentlyUsed" value="package:mine fromMillis" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine fromMillis" />
         <option value="package:mine 服务器" />
         <option value="compute" />
         <option value="start" />
@@ -22,7 +23,6 @@
         <option value="BombPanelWidgetState" />
         <option value="package:mine 快讯事件" />
         <option value="package:mine 快讯" />
-        <option value="package:mine callSaveSecondarySelectedData" />
       </list>
     </option>
   </component>
