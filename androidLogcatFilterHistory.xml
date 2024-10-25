@@ -1,8 +1,8 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine convertLivingEvent" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine convertLivingEvent" />
         <option value="资金炸弹" />
         <option value="scale" />
@@ -12,7 +12,6 @@
         <option value="candleRange" />
         <option value="addOnClickCallbackFromLTRB" />
         <option value="BombPanelWidgetState" />
-        <option value="package:mine " />
         <option value="package:mine 快讯事件" />
         <option value="package:mine 快讯" />
         <option value="package:mine 普通事件" />
