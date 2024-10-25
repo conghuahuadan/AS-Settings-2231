@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine tvHeader" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tvHeader" />
         <option value="package:mine " />
         <option value="package:mine convertLivingEvent" />
         <option value="资金炸弹" />
@@ -21,7 +23,6 @@
         <option value="list" />
         <option value="输出结果" />
         <option value="耗时" />
-        <option value="NineTurnsAlgorithm" />
       </list>
     </option>
   </component>
