@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="_computeBoll" />
+    <option name="mostRecentlyUsed" value="onComputeData" />
     <option name="nonFavorites">
       <list>
+        <option value="onComputeData" />
+        <option value="drawBollSingle" />
         <option value="_computeBoll" />
         <option value="vtData" />
         <option value="package:mine StockFloatViewLayout" />
@@ -21,8 +23,6 @@
         <option value="BombPanelWidget" />
         <option value="资金炸弹 点击" />
         <option value="callback" />
-        <option value="candleRange" />
-        <option value="addOnClickCallbackFromLTRB" />
       </list>
     </option>
   </component>
