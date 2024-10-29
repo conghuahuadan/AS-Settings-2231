@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="onComputeData" />
+    <option name="mostRecentlyUsed" value="flutter" />
     <option name="nonFavorites">
       <list>
+        <option value="flutter" />
+        <option value="package:mine periods" />
         <option value="onComputeData" />
         <option value="drawBollSingle" />
         <option value="_computeBoll" />
@@ -21,8 +23,6 @@
         <option value="资金炸弹" />
         <option value="scale" />
         <option value="BombPanelWidget" />
-        <option value="资金炸弹 点击" />
-        <option value="callback" />
       </list>
     </option>
   </component>
