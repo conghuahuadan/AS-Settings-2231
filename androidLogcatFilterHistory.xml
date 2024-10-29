@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="普通事件" />
+    <option name="mostRecentlyUsed" value="当前为" />
     <option name="nonFavorites">
       <list>
+        <option value="当前为" />
         <option value="普通事件" />
         <option value="package:mine periods" />
         <option value="flutter" />
@@ -22,7 +23,6 @@
         <option value="package:mine tvHeader" />
         <option value="package:mine convertLivingEvent" />
         <option value="资金炸弹" />
-        <option value="scale" />
       </list>
     </option>
   </component>
