@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="当前为" />
+    <option name="mostRecentlyUsed" value="level:error  " />
     <option name="nonFavorites">
       <list>
+        <option value="level:error  " />
+        <option value="level:warn " />
         <option value="当前为" />
         <option value="普通事件" />
         <option value="package:mine periods" />
@@ -21,8 +23,6 @@
         <option value="package:mine ad_click_stat3" />
         <option value="package:mine " />
         <option value="package:mine tvHeader" />
-        <option value="package:mine convertLivingEvent" />
-        <option value="资金炸弹" />
       </list>
     </option>
   </component>
