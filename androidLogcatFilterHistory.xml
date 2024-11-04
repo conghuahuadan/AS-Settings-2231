@@ -1,14 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="level:error  " />
+    <option name="mostRecentlyUsed" value="flutter" />
     <option name="nonFavorites">
       <list>
+        <option value="flutter" />
         <option value="level:error  " />
         <option value="level:warn " />
         <option value="当前为" />
         <option value="普通事件" />
         <option value="package:mine periods" />
-        <option value="flutter" />
         <option value="onComputeData" />
         <option value="drawBollSingle" />
         <option value="_computeBoll" />
